@@ -1,5 +1,3 @@
-# Subject resources
-
 # Flash cards
 
 Cards are stored in `cards/`.
