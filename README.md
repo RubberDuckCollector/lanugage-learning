@@ -1,22 +1,59 @@
-## Subject resources
+<!-- ## Subject resources -->
 
-# Flash cards
+<!-- # Flash cards -->
 
-## Languages
+<!-- ## Languages -->
 
-### German
+<!-- ### German -->
 
-- GCSE:
-    - Cards are my own from AQA GCSE Higher 9-1
-- A Level:
-    - AS:
-        - Cards are my own from AQA A Level Year 1 and AS German
-    - A2:
-        - Cards are my own from AQA A Level Year 2 German
-
-
+<!-- - GCSE: -->
+<!--     - Cards are my own from AQA GCSE Higher 9-1 -->
+<!-- - A Level: -->
+<!--     - AS: -->
+<!--         - Cards are my own from AQA A Level Year 1 and AS German -->
+<!--     - A2: -->
+<!--         - Cards are my own from AQA A Level Year 2 German -->
 
 
+
+
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
+        <title>Myopsidus server in a nutshell</title>
+    </head>
+    <body>
+        <h1>Myopsidus server in a nutshell.</h1>
+        <p><img src="images\mp logo.png" alt="mp logo"/></p>
+        <a href="ranked.html">Our thoughts about ranked:</a>
+        <h2>Hammer is hammer.</h2>
+        <li>According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee of course, flies anyway, because bees don't care what humans think is impossible.</li>
+        <p><strong>Also hammer is really cool and everyone likes him.</strong></p>
+        <h1>Dusk.</h1>
+        <li>Dusk is een <strong>krant.</strong></li>
+        <h1>Domi.</h1>
+        <li>Domi houdt van de <strong>koloniseren.</strong></li>
+        <h1>Slosh.</h1>
+        <li>Slosh plays <strong>bucket</strong> lmao.</li>
+        <h1>Mpu main.</h1>
+        <li><strong>No one</strong> likes mpu main LMFAO.</li>
+        <h1>HarryXYZ.</h1>
+        <li>He is <strong>cool.</strong></li>
+        <h1>Weapons.</h1>
+        <ul>
+            <li><strong>Hammer</strong> quit on the everlasting pursuit of girls. 👩</li>
+            <li><strong>Domi</strong> plays "Everything except for zimi". 🤬</li>
+            <li><strong>Dusk</strong> plays ttek, forge pro, and dynamo. 🔫 🔫 🔫</li>
+            <li><strong>Slosh</strong> plays slosher. 🪣</li>
+            <li><strong>Mpu main</strong> plays flex. 💪</li>
+            <li><strong>HarryXYZ</strong> plays rapid blaster. 🔫</li>
+        </ul>
+        <li>DON'T PLAY THIS ↓</li>
+        <p><img src="images\k52.jpg" alt="k52"/></p>
+        <h1>henk</h1>
+        <li>henk is een steen</li>
+    </body>
+</html>
 
 
 
