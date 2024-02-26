@@ -4,12 +4,9 @@
 
 ## Languages
 
-<details open><summary>German</summary>
-    - GCSE: Cards are my own from AQA GCSE Higher 9-1
-    -
-    -
-    -
+### German
 
+    - GCSE: Cards are my own from AQA GCSE Higher 9-1
 
 
 
