@@ -6,31 +6,35 @@ All flash cards created are in `cards/`
 
 <details open><summary>Flash cards</summary>
     <ul>
-        <details open><summary>Languages</summary>
-            <li>
-                <details open><summary>German</summary> <!-- German is its own element in the list of languages  -->
-                    <ul>
-                        <li>
-                            <details open><summary>GCSE</summary> <!-- GCSE and A level are on the same level of indentation in the listinator  -->
-                                <ul>
-                                    <li>Cards are my own from AQA GCSE Higher 9-1</li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li>
-                            <details open><summary>A level</summary>
+        <li>
+            <details open><summary>Languages</summary>
+                <ul>
+                    <li>
+                        <details open><summary>German</summary> <!-- German is its own element in the list of languages  -->
                             <ul>
-                                <details open><summary>AS</summary> <!-- AS and A2 are one level more indented than GCSE and A level  -->
-                                    <ul>                            <!-- because AS and A2 are parts of the A level  -->
-                                        <li>Cards are my own from </li>
+                                <li>
+                                    <details open><summary>GCSE</summary> <!-- GCSE and A level are on the same level of indentation in the listinator  -->
+                                        <ul>
+                                            <li>Cards are my own from AQA GCSE Higher 9-1</li>
+                                        </ul>
+                                    </details>
+                                </li>
+                                <li>
+                                    <details open><summary>A level</summary>
                                     <ul>
-                                </details>
+                                        <details open><summary>AS</summary> <!-- AS and A2 are one level more indented than GCSE and A level  -->
+                                            <ul>                            <!-- because AS and A2 are parts of the A level  -->
+                                                <li>Cards are my own from </li>
+                                            <ul>
+                                        </details>
+                                    </ul>
+                                </li>
                             </ul>
-                        </li>
-                    </ul>
-                </details>
-            </li>
-        </details>
+                        </details>
+                    </li>
+                </ul>
+            </details>
+        </li>
     </ul>
 </details>
 
