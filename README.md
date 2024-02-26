@@ -3,7 +3,7 @@
 <details open>
 <summary>Flash cards</summary>
 
-All flash cards created are in `cards/`
+All flash cards created are in cards/
 
     <details open>
     <summary>Languages</summary>
