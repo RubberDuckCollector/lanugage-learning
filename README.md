@@ -8,7 +8,7 @@ all flash cards created are in `cards/`
 <ul>
     <li>
         <details open><summary>German</summary>
-            - Cards are from aqa gcse higher 9-1
+            * Cards are from aqa gcse higher 9-1
         </details>
     </li>
 </ul>
