@@ -27,8 +27,7 @@ Cards are stored in `cards/`.
 
 
 
-<details>
-<summary>Languages</summary>
+<details open><summary>Languages</summary>
 
 ### German
 
