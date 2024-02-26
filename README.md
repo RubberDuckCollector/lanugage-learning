@@ -6,7 +6,7 @@
 
 ### German
 
-    - GCSE: Cards are my own from AQA GCSE Higher 9-1
+- GCSE: Cards are my own from AQA GCSE Higher 9-1
 
 
 
