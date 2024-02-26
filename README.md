@@ -4,13 +4,12 @@ flash cards
 
 all flash cards created are in `cards/`
 
+<details open><summary>Languages</summary>
 <ul>
     <li>test</li>
     <li>test</li>
-    <li>test</li>
-    <li>test</li>
-    <li>test</li>
 </ul>
+</details>
 
 
 
