@@ -1,0 +1,63 @@
+dairy, planner|agenda
+surname|apellido
+article|artículo
+absence|ausencia
+to look for|buscar
+chewing gum|chicle
+harm|daño
+to let, allow|dejar
+building|edificio
+of school|escolar
+to sign|firmar
+facilities|instalaciones
+exchange|intercambio
+to take, carry, wear|llevar
+makeup|maquillaje
+word|palabra
+corridor|pasillo
+earring|pendiente
+to get in touch|ponerse en contacto
+prohibited, banned|prohibido
+punctuality|puntualidad
+rule|regla
+respect|respeto
+to suffer|sufrir
+to bring|traer
+journey|trayecto
+bullying|acoso
+to put up with|aguantar
+isolated|aislado
+to brighten up, to cheer up|alegrar
+to pass an exam|aprobar
+appearance|aspecto
+heating|calefacción
+punishment|castigo
+behaviour|comportamiento
+behaviour|conducta
+to mark, to correct|corregir
+to fufil|cumplir con
+as regards|en cuanto a
+to be turned on|encenderse
+angry|enfadado
+to teach, show|enseñar
+equipment|equipo
+back (anatomy)|espalda
+shelf|estante
+explanation|explicación
+failiure|fracaso
+to hit|golpear
+it is necessary|hace falta
+uncomfortable|incómodo
+bullying|intimidación
+smartboard|pizarra digital
+to improve|mejorar
+to disturb, to annoy|molestar
+leisure|ocio
+wall|(la) pared
+to remember|recordar
+revision|repaso
+dirty|sucio
+to take time, to delay|tardar
+naughty, badly behaved|travieso
+term|trimestre
+since, as|ya que
