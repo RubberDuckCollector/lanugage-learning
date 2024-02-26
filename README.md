@@ -2,8 +2,33 @@
 
 Cards are stored in `cards/`.
 
-## Languages
+<!-- ## Languages -->
 
+
+<!-- ### German -->
+
+<!-- - GCSE: -->
+<!--     - Cards are my own from AQA GCSE German Higher 9-1 -->
+<!-- - A Level: -->
+<!--     - AS: -->
+<!--         - Cards are my own from AQA A Level Year 1 and AS German -->
+<!--     - A2: -->
+<!--         - Cards are my own from AQA A Level Year 2 German -->
+
+<!-- ### Spanish -->
+
+<!-- - GCSE: -->
+<!--     - Cards are my own from AQA GCSE Spanish Higher 9-1 -->
+<!-- - A Level: -->
+<!--     - AS: -->
+<!--         - Cards are my own from AQA A Level Year 1 and AS Spanish -->
+<!--     - A2: -->
+<!--         - Cards are my own from AQA A Level Year 2 Spanish -->
+
+
+
+<details>
+<summary>Languages</summary>
 
 ### German
 
@@ -25,8 +50,7 @@ Cards are stored in `cards/`.
     - A2:
         - Cards are my own from AQA A Level Year 2 Spanish
 
-
-
+</details>
 
 
 
