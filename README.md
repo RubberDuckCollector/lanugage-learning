@@ -1,5 +1,39 @@
 ## Subject resources
 
+# Flash cards
+
+## Languages
+
+<details open><summary>German</summary>
+    - GCSE: Cards are my own from AQA GCSE Higher 9-1
+    -
+    -
+    -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <details open><summary>Flash cards</summary> -->
 <!--     <ul> -->    
 <!--         <li> -->
@@ -44,11 +78,3 @@
 <!--         </li> -->
 <!--     </ul> -->
 <!-- </details> -->
-
-# Flash cards
-
-## Languages
-
-- German
-
-
