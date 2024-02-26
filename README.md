@@ -1,9 +1,5 @@
 ## Subject resources
 
-Flash cards
-
-All flash cards created are in `cards/`
-
 <details open><summary>Flash cards</summary>
     <ul>    
         <li>
