@@ -1,13 +1,13 @@
 ## subject resources
 
-flash cards
+Flash cards
 
-all flash cards created are in `cards/`
+All flash cards created are in `cards/`
 
 <details open><summary>Languages</summary>
 <ul>
     <li>
-        <details open><summary>German</summary>
+        <details open><summary>German</summary> <!-- German is its own element in the list of languages  -->
             <ul>
                 <li>
                     <details open><summary>GCSE</summary>
