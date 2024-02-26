@@ -5,7 +5,7 @@ Flash cards
 All flash cards created are in `cards/`
 
 <details open><summary>Flash cards</summary>
-    <h1>test</h1>
+    # test
     <ul>
         <details open><summary>Languages</summary>
             <ul>
