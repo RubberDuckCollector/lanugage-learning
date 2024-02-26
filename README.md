@@ -2,32 +2,7 @@
 
 Cards are stored in `cards/`.
 
-<!-- ## Languages -->
-
-
-<!-- ### German -->
-
-<!-- - GCSE: -->
-<!--     - Cards are my own from AQA GCSE German Higher 9-1 -->
-<!-- - A Level: -->
-<!--     - AS: -->
-<!--         - Cards are my own from AQA A Level Year 1 and AS German -->
-<!--     - A2: -->
-<!--         - Cards are my own from AQA A Level Year 2 German -->
-
-<!-- ### Spanish -->
-
-<!-- - GCSE: -->
-<!--     - Cards are my own from AQA GCSE Spanish Higher 9-1 -->
-<!-- - A Level: -->
-<!--     - AS: -->
-<!--         - Cards are my own from AQA A Level Year 1 and AS Spanish -->
-<!--     - A2: -->
-<!--         - Cards are my own from AQA A Level Year 2 Spanish -->
-
-
-
-<details open><summary>Languages</summary>
+## Languages
 
 ### German
 
@@ -49,7 +24,6 @@ Cards are stored in `cards/`.
     - A2:
         - Cards are my own from AQA A Level Year 2 Spanish
 
-</details>
 
 
 
@@ -68,6 +42,31 @@ Cards are stored in `cards/`.
 
 
 
+
+
+<!-- <details open><summary>Languages</summary> -->
+
+<!-- ### German -->
+
+<!-- - GCSE: -->
+<!--     - Cards are my own from AQA GCSE German Higher 9-1 -->
+<!-- - A Level: -->
+<!--     - AS: -->
+<!--         - Cards are my own from AQA A Level Year 1 and AS German -->
+<!--     - A2: -->
+<!--         - Cards are my own from AQA A Level Year 2 German -->
+
+<!-- ### Spanish -->
+
+<!-- - GCSE: -->
+<!--     - Cards are my own from AQA GCSE Spanish Higher 9-1 -->
+<!-- - A Level: -->
+<!--     - AS: -->
+<!--         - Cards are my own from AQA A Level Year 1 and AS Spanish -->
+<!--     - A2: -->
+<!--         - Cards are my own from AQA A Level Year 2 Spanish -->
+
+<!-- </details> -->
 
 
 <!-- <details open><summary>Flash cards</summary> -->
