@@ -1,4 +1,4 @@
-## subject resources
+## Subject resources
 
 Flash cards
 
