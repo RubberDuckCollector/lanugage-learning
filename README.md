@@ -24,8 +24,18 @@ Cards are stored in `cards/`.
     - A2:
         - Cards are my own from AQA A Level Year 2 Spanish
 
+## Computer Science
 
+- GCSE:
+    - Cards are my own from OCR GCSE Computer Science 9-1
+- A level:
+    - AS:
+        - Cards are my own from OCR H046
+    - A2:
+        - Cards are my own from OCR H446
 
+# Notes
+- to be added soon! planned dir is `vaults/`
 
 
 
