@@ -2,9 +2,10 @@
 
 # Flash cards
 
+Cards are stored in `cards/`.
+
 ## Languages
 
-Cards are stored in `cards/`.
 
 ### German
 
