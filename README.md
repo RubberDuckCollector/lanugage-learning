@@ -22,12 +22,17 @@
                                     </details>
                                 </li>
                                 <li>
-                                    <details open><summary>A level</summary>
+                                    <details open><summary>A Level</summary>
                                     <ul>
                                         <details open><summary>AS</summary> <!-- AS and A2 are one level more indented than GCSE and A level -->
                                             <ul>                            <!-- because AS and A2 are parts of the A level -->
-                                                <li>Cards are my own from </li>
+                                                <li>Cards are my own from AQA A Level Year 1 and AS German</li>
                                             <ul>
+                                        </details>
+                                        <details open><summary>A2</summary>
+                                            <ul>
+                                                <li>Cards are my own from AQA A Level Year 2 German</li>
+                                            </ul>
                                         </details>
                                     </ul>
                                 </li>
