@@ -9,7 +9,7 @@ All flash cards created are in cards/
     <summary>Languages</summary>
         <details open>
         <summary>German</summary>
-            + Cards are from AQA GCSE Higher 9-1
+            * Cards are from AQA GCSE Higher 9-1
         </details>
 
     </details>
