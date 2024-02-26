@@ -6,8 +6,11 @@ all flash cards created are in `cards/`
 
 <details open><summary>Languages</summary>
 <ul>
-    <li>test</li>
-    <li>test</li>
+    <li>
+        <details open><summary>German</summary>
+            - Cards are from aqa gcse higher 9-1
+        </details>
+    </li>
 </ul>
 </details>
 
