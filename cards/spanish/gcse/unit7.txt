@@ -1,0 +1,99 @@
+the rubbish|la basura
+the light bulb|la bombilla
+the low energy light bulb|la bombilla de bajo consumo
+the fuel|el combustible
+to fight, to combat|combatir
+the air pollution|la contaminación atmosférica
+to disappear|desparacer
+the disaster|el desastre
+to disconnect, unplug, switch off|desconectar
+to undo|deshacer
+the rubbish, refuse, waste|el desperdicio
+the species|la especie
+even (e.g even the road melts in the summer, not just the ice cream)|incluso
+worrying (adjective ends in e)|inquietante
+to struggle, fight (starts with l)|luchar
+the measure, means|la medida
+environmental|medioambiental
+the engine|el motor
+the refuse, waste, rubbish|los residuos
+to save someone|salvar a alguien
+to approach to (something)|acercarse a
+the hole|el agujero
+the small village, hamlet|la aldea
+to move (something) further away|alejar
+to move further away from|alejarse de
+to threaten|amenazar
+to ruin|arruinar
+the traffic jam, hold-up|el atasco
+the bird (singular definite and indefinite articles are masculine, everything else is plural)|el ave
+the sea bird (singular definite and indefinite articles are masculine, everything else is plural)|el ave marina
+the global warming|el calentamiento global
+the ozone layer|la capa de ozono
+the helmet (that someone wears), hull of a ship|casco
+about a hundred|centenar
+the power station|la central eléctrica
+the traffic (starts with c)|la circulación
+to constitute|constituir
+to cut, to cut off|cortar
+the greenhouse effect|el efecto invernadero
+to spread, to stretch|extender
+to brake, to put a stop to|frenar
+the smoke|el humo
+the hurricane|el huracán
+the fire|el incendio
+the rain|la lluvia
+the stain|la mancha
+the oil slick|la marea negra
+the death|la muerte
+the level|el nivel
+the oil tanker|el petrolero
+the fisherman|el pescador
+the fisherwoman|la pescadora
+the planet|el planeta
+to forsee|prever
+to rescue|rescatar
+the risk|el riesgo
+the health|la salud
+the tropical forest, jungle|la selva
+to indicate|señalar
+the drought|la sequía
+to wander about, to float around|vagar
+the wind|el viento
+the damage, destruction|el destrozo
+to choose|escoger
+the lack|la falta
+to be part of (literally: to form part of)|formar parte de
+the hooligan, lout, troublemaker (male)|gamberro
+the hooligan, lout, troublemaker (female)|gamberra
+to mistreat, ill-treat|maltratar
+the street children|los niños de la calle
+the NGO (non-governmental organisation)|la ONG (organización no gubernamental)
+the poverty|la pobreza
+to pick up|recoger
+to steal, rob|robar
+the rubbish dump, tip (starts with v)|el vertedero
+the violence|la violencia
+violent (masculine)|violento
+violent (feminine)|violenta
+the running water|el agua corriente
+to be enough|bastar
+the police station|la comisaría
+to consume|consumir
+the (electric) current, electricity supply|la corriente
+to create|crear
+the criminality|la criminalidad
+the any (masculine)|cualquier
+the any (feminine)|cualquiera
+the job (starts with e)|el empleo
+person in charge (male)|el encargado
+person in charge (female)|la encargada
+the success|el éxito
+the fridge|el frigorífico
+the operation, working to a certian extent|el funcionamiento hasta cierto punto
+the crime rate|la índice de criminalidad
+to fill|llenar
+proprietor, owner (male)|el propietario
+proprietor, owner (female)|la propietaria
+to finish, end up|terminar
+to empty|vaciar

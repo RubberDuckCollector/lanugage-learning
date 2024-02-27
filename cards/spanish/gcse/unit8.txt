@@ -1,0 +1,123 @@
+the bottle opener|el abrebotellas
+the tin opener|el abrelatas
+the airport|el aeropuerto
+to the right|a la derecha
+to the left|a la izquierda
+the youth hostel|el albergue juvenil
+to stay (e.g in a hotel) (starts with a)|alojarse
+the swimming costume|el bañador
+the double bed|la cama de matrimonio
+the campsite, caming|el camping
+the petrol station|la estación de servicio
+the star|la estrella
+awful, terrible (starts with f)|fatal
+the leaflet|el folleto
+the petrol|la gasolina
+the unleaded petrol|la gasolina sin plomo
+the guide (person)|el guía
+the guidebook|la guía
+the double room (starts with h)|la habitación doble
+the single room (starts with h)|la habitación individual
+the key (starts with L)|la llave
+to get wet|mojarse
+the tourist office|la oficina de turismo
+the toilet paper|el papel higiénico
+the state owned hotel (often in a historic building)|el parador
+the passport|el pasaporte
+the boarding house, bed and breakfast|la pensión
+to set off (literally: to put oneself on walk/route)|ponerse en camino
+unfortunately (2 words)|por desgracia
+the reception|la recepción
+the reservation|la reserva
+the sleeping bag|el saco de dormir
+the toilets|los servicios
+the boarding card|la tarjeta de embarque
+the tent|la tienda
+the ticket office|la taquilla
+to get bored|aburrirse
+to have just done something|acabar de
+to get a tan|broncearse
+to catch|coger
+the cruise|el crucero
+to rest|descansar
+the water skiing|el esquí acuático
+foreign (masculine)|extranjero
+foreign (feminine)|extranjera
+abroad|en el extranjero
+france|Francia
+brilliant, great|genial
+greece|Grecia
+the sunstroke|la insolación
+the island|la isla
+the canary islands|las islas canarias
+in the middle of (time)|a mediados de
+mediterranean (masculine)|mediterráneo
+mediterranean (feminine)|mediterránea
+busy (masculine)|ocupado
+busy (feminine)|ocupada
+the gold|el oro
+the silver|la plata
+to return|regresar
+to relax|relajarse
+the sunshade, parasol|la sombrilla
+the changing room, cloakroom|el vestuario
+the night life|la vida nocturna
+to return|volver
+the flight (starts with v)|el vuelo
+to open|abrir
+open (masculine)|abierto
+open (feminine)|abierta
+quiet, reserved (masculine)|callado
+quiet, reserved (feminine)|callada
+to load|cargar
+to close, shut|cerrar
+the cuisine, cooking|la cocina
+to know (person/place)|conocer
+the crop|el cultivo
+entire, whole (masculine)|entero
+entire, whole (feminine)|entera
+grumpy|gruñón
+to go for a walk|ir de paseo
+mine (masculine)|mío
+mine (feminine)|mía
+the monastery|el monasterio
+the hill, mountain|el monte
+the sheep|la oveja
+picturesque (masculine)|pintoresco
+picturesque (feminine)|pintoresca
+to recommend|recomendar
+the memory, reminder, souvenir|el recuerdo
+the refinery|la refinería
+the oil refinery|la refenería de petróleo
+the sunshade, parasol|la sombrilla
+the workshop|el taller
+peaceful (masculine)|tranquilo
+peaceful (feminine)|tranquila
+the cow|la vaca
+the valley|el valle
+the visitor (male)|el visitante
+the visitor (female)|la visitante
+accustomed to, used to (masculine)|acostumbrado
+accustomed to, used to (feminine)|acostumbrada
+the fishing boat|la barca pesquera
+homemade (masculine)|casero
+homemade (feminine)|casera
+the date (with someone)|la cita amorosa
+the climate|la clima
+to place, to put|colocar
+the company, firm|la empresa
+the era, age, time|la época
+to establish|establecer
+the way of life|el estilo de vida
+strange (masculine)|extraño
+strange (feminine)|extraña
+french (masculine)|francés
+french (feminine)|francésa
+from madrid (masculine)|madrileño
+from madrid (feminine)|madrileña
+the business|el negocio
+the news|las noticias
+the newspaper|el periódico
+south american (masculine)|sudamericano
+south american (feminine)|sudamericana
+to touch, to play an instrument|tocar
