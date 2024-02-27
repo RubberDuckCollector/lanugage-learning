@@ -63,6 +63,7 @@ the revision|el repaso
 dirty (masculine)|sucio
 dirty (feminine)|sucia
 to take time, to delay|tardar
-naughty, badly behaved|travieso
+naughty, badly behaved (masculine)|travieso
+naughty, badly behaved (feminine)|traviesa
 the term|el trimestre
 since, as|ya que
