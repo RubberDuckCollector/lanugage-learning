@@ -1,0 +1,176 @@
+to have an evening meal|cenar
+to chat (in person)|charlar
+the choir|el coro
+to rest|descansar
+the cartoons|los dibujos animados
+the documentary|el documental
+the weekend|el fin de semana
+great|genial
+the news|las noticias
+police, detective, crime (adj.) (masculine)|policíaco
+police, detective, crime (adj.) (feminine)|policíaca
+in general|por lo general
+the theatre|el teatro
+the soap opera|la telenovela
+to finish|terminar
+silly, stupid (masculine)|tonto
+silly, stupid (feminine)|tonta
+the time, occasion|la vez
+boring (masculine)|aburrido
+boring (feminine)|aburrida
+pleasant (adjective ends in e)|agradable
+in the open air, outdoors|al aire libre
+the drums|la batería
+the song|la canción
+to go for a walk|dar un paseo
+from time to time, occasionally|de vez en cuando
+challenging (adjective ends in e)|desafiante
+fun (masculine)|divertido
+fun (feminine)|divertida
+exciting (adjective ends in e)|emocionante
+entertaining (masculine)|entretenido
+entertaining (feminine)|entretenida
+the interview|la entrevista
+to be fit, to be in shape|estar en forma
+to record (starts with g)|grabar
+the lyrics, words|la letra
+relaxing (adjective ends in e)|relajante
+the routine|la rutina
+the afternoon, evening|la tarde
+the horror|el terror
+the tuna|el atún
+the cod|el bacalao
+the loaf (starts with b)|la barra
+the steak|el bistec
+the squid|el calamar
+the pork|el cerdo
+the beer|la cerveza
+the mushrooms|los champiñones
+the chop|la chuleta
+the lamb|el cordero
+the strawberry|la fresa
+the prawns|las gambas
+the cold vegetable soup|el gazpacho
+the peas (starts with g)|los guisantes
+the cured ham|el jamón serrano
+the green beans|las judías verdes
+the seafood|los mariscos
+the peach (starts with m)|el melocotón
+the pineapple|la piña
+the banana|el plátano
+the portion, serving|la ración
+the sauce|la salsa
+the white wine|el vino blanco
+the red wine|el vino tinto
+the olive|la aceituna
+the rice|el arroz
+attentive (masculine)|atento
+attentive (feminine)|atenta
+the rubbish, junk|la basura
+the sandwhich (oval shaped, not square)|el bocadillo
+the waiter|el camarero
+the waitress|la camarera
+chinese (masculine)|chino
+chinese (feminine)|china
+the lunch, food, meal|la comida
+to leave, to let, to allow|dejar
+afterwards|después
+to choose (starts wtih es)|escoger
+the spaghetti|el espagueti
+the husband (starts with e)|el esposo
+the wife (starts with e)|la esposa
+the taste|el gusto
+the ice cream|el helado
+the egg|el huevo
+indian (masculine)|indio
+indian (feminine)|india
+the tin, can|la lata
+the pulses|los legumbres
+the butter|la mantequilla
+the marriage (starts with m)|el matrimonio
+to opt for|optar por
+the hot dog|el perrito caliente
+the fish|el pescado
+spicy (adjective ends in e)|picante
+to agree, reach an agreement|ponerse de acuerdo
+therefore, so (2 words, starts with p)|por eso
+the dessert, pudding|el postre
+delicious, tasty (masculine)|rico
+delicious, tasty (feminine)|rica
+tasty (masculine)|sabroso
+tasty (feminine)|sabrosa
+nice (this word is used to describe a person) (masculine)|simpático
+nice (this word is used to describe a person) (feminine)|simpática
+the soup|la sopa
+the tea|el té
+to take, have (food, drink)|tomar
+the spanish omelette|la tortilla
+the toast|la tostada
+to bring|traer
+the glass|el vaso
+the (green) vegetables|las verduras
+the rock climbing|el alpinismo
+the race (also "career")|la carrera
+the competition|el concurso
+to answer|contestar
+during|durante
+the exercise|el ejercicio
+the training|el entrenamiento
+to train|entrenar
+the skiing|el esquí
+to win|ganar
+the player (male)|jugador
+the player (female)|jugadora
+the member (masc and fem both end in o) (masculine)|el miembro
+the member (masc and fem both end in o) (feminine)|la miembro
+the match|el partido
+to try, test|probar
+to relax|relajarse
+the health|la salud
+sure (masculine)|seguro
+sure (feminine)|segura
+the tournament|el torneo
+the sailing|la vela
+to go down|bajar
+the benefit|el beneficio
+the champion (male)|el campeón
+the champion (female)|la campeona
+expensive (masculine)|caro
+expensive (feminine)|cara
+to rely on|contar con
+any (masculine)|cualquier
+any (feminine)|cualquiera
+to stop ...ing, to quit ...ing (de comes after this verb)|dejar de
+the others (masculine)|los demás
+the others (feminine)|las demás
+the defeat|la derrota
+to develop|desarrollar
+daily, every day|diariamente
+to enjoy|disfrutar
+hard (masculine)|duro
+hard (feminine)|dura
+to start (sarts with e)|empezar
+balanced (masculine)|equilibrado
+balanced (feminine)|equilibrada
+the effort|el esfuerzo
+to promote, to encourage (starts with f)|fomentar
+to retire|jubilarse
+together with (masculine)|junto con
+together with (feminine)|junta con
+to take, to carry, to wear|llevar
+to spend (time)|pasar
+to have a good time|pasarlo bien
+the ball|la pelota
+the slope|la pista
+the rule (starts with r)|la regla
+to break|romper
+healthy (masculine)|sano
+healthy (feminine)|sana
+to follow|seguir
+the team, squad|la selección
+the luck|la suerte
+so much, so many (masculine)|tanto
+so much, so many (feminine)|tanta
+the temptation|la tentación
+is it worth it, is it worthwhile|vale la pena
+the trainers|las zapatillas de deporte

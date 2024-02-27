@@ -1,89 +1,110 @@
-support|apoyo
+the support|el apoyo
 to learn|aprender
-notes|apuntes
+the notes|los apuntes
 to attend|asistir
-library|biblioteca
-classmate|compañero
-discussion|debate
-homework|deberes
-doubt|duda
-exercise|ejercicio
+the library|la biblioteca
+the classmate (male)|el compañero
+the classmate (female)|la compañera
+the discussion (masculine word)|el debate
+the homework|los deberes
+the doubt|la duda
+the exercise|el ejercicio
 to understand|entender
-school|escuela
+the (primary) school (starts with e)|escuela
 to hope, wait, expect|esperar
-exam, exams|examen, exámenes
-trip|excursión
+the exam, exams|el examen
+the exams|los exámenes
+the trip|la excursión
 to miss lessons|faltar a clase
-sentence|frase
-to try|intentar
+the sentence|la frase
+to try (starts with i)|intentar
 to interrupt|interrumpir
-school|instituto
+the school (starts with i)|instituto
 to raise your hand|levantar la mano
 to take, carry, wear|llevar
 to improve|mejorar
-to look at|mirar
-world|mundo
-to need|necesitar
-grade|nota
+to look at (starts with m)|mirar
+the world|el mundo
+to need (starts with n)|necesitar
+the grade|la nota
 to offer|ofrecer
-computer|ordenador
-word|palabra
-screen|pantalla
+the computer (starts with o)|ordenador
+the word|la palabra
+the screen|la pantalla
 to take part|participar
 to ask for|pedir
-glued to|pegado
+glued to (masculine)|pegado
+glued to (feminine)|pegada
 to lose, miss|perder
-blackboard|pizarra
-smartboard|pizarra interactiva
+the blackboard|la pizarra
+the smartboard|la pizarra interactiva
 to ask|preguntar
-teacher|profesor
-test|prueba
+the teacher (masculine)|el profesor
+the teacher (feminine)|la profesora
+the test|la prueba
 to revise|repasar
-revision|repaso
+the revision|el repaso
 to end up with, to lead to|resultar en
 to know|saber
 to get good/bad grades|sacar buenas/malas notas
-serious|serio
-homework|tareas
-work, piece of work|trabajo
-tutorial|tutoría
-pupil|(el/la) alumno
-old|antiguo
-frightened|asustado
-to frighten|asustar
-traffic jam, blockage|atasco
-classroom|el aula (f)
+to get good grades|sacar buenas notas
+to get bad grades|sacar malas notas
+serious (starts with s) (masculine)|serio
+serious (starts with s) (feminine)|seria
+the homework (starts with t, plural word)|las tareas
+the work, piece of work|el trabajo
+the tutorial|la tutoría
+the pupil (male)|el alumno
+the pupil (female)|la alumno
+old (starts with a)(masculine)|antiguo
+old (starts with a)(feminine)|antigua
+frightened (starts with a) (masculine)|asustado
+frightened (starts with a) feminine)|asustada
+to frighten (starts with a)|asustar
+the traffic jam, blockage|el atasco
+the classroom (adjectives for this are feminine and singular indefinite and definite articlesa are masculine)|el aula
 to help|ayudar
-to look for|buscar
+to look for (starts with b)|buscar
 to change|cambiar
-tired|cansado
-to meet, to get to know|conocer
-glad, happy|contento
+tired (masculine)|cansado
+tired (feminine)|cansada
+to meet, to get to know (starts with c)|conocer
+glad, happy (starts with c) (masculine)|contento
+glad, happy (starts with c) (feminine)|contenta
 to answer|contestar
-school year, course|curso
-dilapidated, shabby|deteriorado
-different|distinto
-excitement|emoción
-exciting|emocionante
-on top|encima de
-to find|encontrar
+school year, course|el curso
+dilapidated, shabby (masculine)|deteriorado
+dilapidated, shabby (feminine)|deteriorada
+different (like "distinct") (masculine)|distinto
+different (like "distinct") (feminine)|distinta
+excitement|la emoción
+exciting (adjective ends in e)|emocionante
+on top|por encima de
+to find (starts with e)|encontrar
 to explain|explicar
-ugly|feo
-sports hall, gym|gimnasio
-hungry|hambriento
-language|(el) idioma
-immense|imenso
-laboratory|laboratorio
-long|largo
+ugly (masculine)|feo
+ugly (feminine)|fea
+sports hall, gym|el gimnasio
+hungry (masculine)|hambriento
+hungry (feminine)|hambrienta
+the language (starts with i)|el idioma
+immense (masculine)|imenso
+immense (feminine)|imensa
+the laboratory|el laboratorio
+long (masculine)|largo
+long (feminine)|larga
 better|mejor
-anxious, nervous|nervioso
-school yard, playground|patio del recreo
-question|pregunta
-worried|preocupado
+anxious, nervous (masculine)|nervioso
+anxious, nervous (feminine)|nerviosa
+the school yard, playground|el patio del recreo
+the question|la pregunta
+worried (starts with p) (masculine)|preocupado
+worried (starts with p) (feminine)|preocupada
 to worry|preocupar
-IT room|sala de informática
-simple|sencillo
+the IT room|la sala de informática
+simple (masculine)|sencillo
+simple (feminine)|sencilla
 to feel|sentirse
-to use|usar
-journey|viaje
-area|zona
+to use (the answer is not "utilizar")|usar
+the journey (starts with v)|el viaje
+the area|la zona

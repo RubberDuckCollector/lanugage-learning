@@ -1,63 +1,68 @@
-dairy, planner|agenda
-surname|apellido
-article|artículo
-absence|ausencia
+the dairy, planner|la agenda
+the surname|el apellido
+the article|el artículo
+the absence|la ausencia
 to look for|buscar
-chewing gum|chicle
-harm|daño
+the chewing gum|el chicle
+the harm|el daño
 to let, allow|dejar
-building|edificio
+the building|el edificio
 of school|escolar
 to sign|firmar
-facilities|instalaciones
-exchange|intercambio
+the facilities|las instalaciones
+the exchange|el intercambio
 to take, carry, wear|llevar
-makeup|maquillaje
-word|palabra
-corridor|pasillo
-earring|pendiente
+the makeup|el maquillaje
+the word|la palabra
+the corridor|el pasillo
+the earring|el pendiente
 to get in touch|ponerse en contacto
-prohibited, banned|prohibido
-punctuality|puntualidad
-rule|regla
-respect|respeto
+prohibited, banned (masculine)|prohibido
+prohibited, banned (feminine)|prohibida
+the punctuality|la puntualidad
+the rule|la regla
+the respect|el respeto
 to suffer|sufrir
 to bring|traer
-journey|trayecto
-bullying|acoso
+the journey|el trayecto
+the bullying (starts with a)|el acoso
 to put up with|aguantar
-isolated|aislado
+isolated (masculine)|aislado
+isolated (feminine)|aislada
 to brighten up, to cheer up|alegrar
-to pass an exam|aprobar
-appearance|aspecto
-heating|calefacción
-punishment|castigo
-behaviour|comportamiento
-behaviour|conducta
+to pass an exam|aprobar un examen
+the appearance (like "aspect")|el aspecto
+the heating|la calefacción
+the punishment|el castigo
+the behaviour (masculine noun)|el comportamiento
+the behaviour (feminine noun)|la conducta
 to mark, to correct|corregir
 to fufil|cumplir con
 as regards|en cuanto a
 to be turned on|encenderse
-angry|enfadado
+angry (masculine)|enfadado
+angry (feminine)|enfadada
 to teach, show|enseñar
-equipment|equipo
-back (anatomy)|espalda
-shelf|estante
+the equipment (same word as "team") (starts with e)|el equipo
+the back (anatomy)|la espalda
+the shelf|el estante
 explanation|explicación
-failiure|fracaso
+the failiure|el fracaso
 to hit|golpear
-it is necessary|hace falta
-uncomfortable|incómodo
-bullying|intimidación
-smartboard|pizarra digital
+it is necessary (2 words)|hace falta
+uncomfortable (masculine)|incómodo
+uncomfortable (feminine)|incómoda
+the bullying (starts with i)|la intimidación
+the smartboard|la pizarra digital
 to improve|mejorar
 to disturb, to annoy|molestar
-leisure|ocio
-wall|(la) pared
+the leisure|el ocio
+the wall|la pared
 to remember|recordar
-revision|repaso
-dirty|sucio
+the revision|el repaso
+dirty (masculine)|sucio
+dirty (feminine)|sucia
 to take time, to delay|tardar
 naughty, badly behaved|travieso
-term|trimestre
+the term|el trimestre
 since, as|ya que
