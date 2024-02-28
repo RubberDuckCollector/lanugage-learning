@@ -46,9 +46,9 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 - don't know if structure should be by `department/subject` instead of `cards/department` and `notes/department`, where they're separate
 - example of proposed structure:
-    - stem/cs/notes
-    - stem/cs/cards/unit1
-    - stem/cs/cards/unit2
+    - `stem/cs/notes`
+    - `stem/cs/cards/unit1`
+    - `stem/cs/cards/unit2`
 
 
 
