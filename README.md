@@ -4,6 +4,8 @@ Cards are stored in `cards/`.
 
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
 
+For my own version of quizlet write, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)
+
 ## Languages
 
 ### German
