@@ -1,0 +1,87 @@
+to accept|akzeptieren
+to change (starts with ä)|ändern
+to pay attention, to watch out, to take care (starts with a)|aufpassen
+popular|beliebt
+the job, profession|der Beruf (-e)
+famous|berühmt
+the data (plual form, answer this without an article)|Daten
+therefore, because of that (starts with d)|deshalb
+as well (starts with e)|ebenfalls
+either (starts with e)|entweder
+or (starts with o)|oder
+the danger (starts with g)|die Gefahr (-en)
+(the) same, equal, immediately|gleich
+informed|informiert
+the content|der Inhalt (-e)
+to communicate|kommunizieren
+to control|kontrollieren
+free of charge (starts with k, literally: "costless")|kostenlos
+mostly, usually (starts with m)|meist
+to misuse, to abuse|missbrauchen
+the misunderstanding|das Missverstädnis (-se)
+the message, news|die Nachricht (-en)
+the user (starts with n)|der Nutzer (-)
+the password|das Passwort (-¨er)
+embarrasing (looks like "painful")|peinlich
+private|privat
+the piece of advice|der Ratschlag (-¨e)
+regular, regularly|regelmäßig
+24/7|rund um die Uhr
+all around the world|rund um die Welt
+to send (start with s)|schicken
+to protect (starts with s)|schützen
+sure, safe, secure|sicher
+the text|die SMS
+the nickname|der Spitzname (-n)
+every day, daily|täglich
+unknown|unbekannt
+inexperienced|unerfahren
+various, different|verschieden
+careful (starts with v)|vorsichtig
+the character (in text)|das Zeichen (-)
+to destroy|zestören
+the purpose (starts with z)|der Zweck (-e)
+alarming|alarmierend
+the outsider|der Außenseiter (-)
+the threat|die Bedrohung (-en)
+the insult|die Beleidigung (-en)
+worrying|beunruhigend
+the letter|der Brief (-e)
+the date|das Datum
+the dates|die Daten
+the influence|der Einfluss (-¨e)
+the purchase|der Einkauf (-¨e)
+the email|die E-Mail (-s)
+the experience (starts with e)|das Erlebnis (-se)
+to tell, to narrate|erzählen
+to keep secret|geheim halten
+to ignore|ignorieren
+isolating|isolierend
+the cold shoulder|die kalte Schulter
+vital (starts with L)|lebensnotwendig
+educational, informative (starts with L)|lehrreich
+unfortunately (starts with L)|leider
+to bully (starts with m)|mobben
+the network|das Netzwerk (-e)
+recently|neulich
+risky|riskant
+the role|die Rolle (-n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
