@@ -11,7 +11,7 @@ the right (e.g right to protest)|el derecho
 the eviction|el desahucio
 to sack|despedir
 the unfurling|el despliegue
-to broadcast (starts with d)
+to broadcast (starts with d)|difundir
 the MP (male)|el diputado
 the MP (female)|la diputada
 come to and end, dissolved (masculine)|disuelto
