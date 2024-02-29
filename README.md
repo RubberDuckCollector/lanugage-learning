@@ -10,23 +10,30 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 ### German
 
-- GCSE:
-    - Cards are my own from AQA GCSE German Higher 9-1
-- A Level:
-    - AS:
-        - Cards are my own from AQA A Level Year 1 and AS German
-    - A2:
-        - Cards are my own from AQA A Level Year 2 German
+- Flash cards:
+    - GCSE:
+        - Cards are my own from AQA GCSE German Higher 9-1
+    - A Level:
+        - AS:
+            - Cards are my own from AQA A Level Year 1 and AS German
+        - A2:
+            - Cards are my own from AQA A Level Year 2 German
 
 ### Spanish
 
-- GCSE:
-    - Cards are my own from AQA GCSE Spanish Higher 9-1
-- A Level:
-    - AS:
-        - Cards are my own from AQA A Level Year 1 and AS Spanish
-    - A2:
-        - Cards are my own from AQA A Level Year 2 Spanish
+- Will be responding to all AQA AS speaking cards
+- unfortunately in the interest of doing what i'm good at i will be making them docx documents
+    - (markdown rewrite coming someday?)
+- i will still make them available here regardless. just don't want to use any proprietary standards
+
+- Flash cards:
+    - GCSE:
+        - Cards are my own from AQA GCSE Spanish Higher 9-1
+    - A Level:
+        - AS:
+            - Cards are my own from AQA A Level Year 1 and AS Spanish
+        - A2:
+            - Cards are my own from AQA A Level Year 2 Spanish
 
 ## Computer Science
 
@@ -49,6 +56,7 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
     - `stem/cs/notes`
     - `stem/cs/cards/unit1`
     - `stem/cs/cards/unit2`
+
 
 
 
