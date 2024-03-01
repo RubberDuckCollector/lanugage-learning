@@ -1,4 +1,6 @@
 *.doc
 *.docx
 .DS_Store
-.DS_Store?
+.DS_Store
+*.DS_Store?
+*.DS_Store?
