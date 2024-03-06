@@ -38,11 +38,11 @@ to click|hacer clic
 the tool|la herramienta
 wireless (masculine)|inalámbrico
 wireless (feminine)|inalámbrica
-the image|el imagen
+the image|la imagen
 the printer|la impresora
 to print|imprimir
-the internet user (male (only article changes with gender))|el internauta
-the internet user (female (only article changes with gender))|la internauta
+the internet user (male) (only article changes with gender)|el internauta
+the internet user (female) (only article changes with gender)|la internauta
 to invest|invertir
 to log into facebook (uses meterse)|meterse en Facebook
 the browser|el navegador
@@ -52,12 +52,13 @@ the screen|la pantalla
 to spend (time)|pasar
 the profile|el perfil
 the old people|las personas mayores
-the spokesperson (male (only article changes with gender))|el portavoz
-the spokesperson (female (only article changes with gender))|la portavoz
+the spokesperson (male) (only article changes with gender)|el portavoz
+the spokesperson (female) (only article changes with gender)|la portavoz
 the press|la prensa
 the provider|el proveedor
 the mouse|el ratón
-the follower|el seguidor
+the follower (male)|el seguidor
+the follower (female)|la seguidora
 to follow|seguir
 to upload (starts with an s)|subir
 the subscriber (male)|el suscriptor
@@ -91,13 +92,14 @@ to choose|elegir
 on average|en promedio
 to understand|entender
 to send (starts with e)|enviar
-to be broken|estar roto
+to be broken (masculine)|estar roto
+to be broken (feminine)|estar rota
 to avoid|evitar
 to make (in a manufacturing context)|fabricar
 the failure at school|el fracaso escolar
-the language (masculine (ends with je))|el lenguaje
-light (adjective (masculine))|ligero
-light (adjective (feminine))|ligera
+the language (masculine) (ends with je)|el lenguaje
+light (adjective) (masculine)|ligero
+light (adjective) (feminine)|ligera
 the call|la llamada
 to call|llamar
 to send (starts with m)|mandar

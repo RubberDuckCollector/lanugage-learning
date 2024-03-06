@@ -3,7 +3,7 @@ suitable (feminine)|adecuada
 to feel like doing|apetecer
 to increase|aumentar
 the wellbeing|el bienestar
-to offer, give (advice (starts with b))|brindar (consejos)
+to offer, give (advice) (starts with b)|brindar (consejos)
 to please|complacer
 to take on, to earn|cobrar
 the group (starts with c)|el conjunto
@@ -132,14 +132,14 @@ the development|el desarrollo
 to have at one's disposal|disponer de
 the palm sunday|el Domingo de Ramos
 relating to sunday (adjective)|dominical
-headed (by (masculine))|encabezado
-headed (by (feminine))|encabezada
+headed by (masculine)|encabezado
+headed by (feminine)|encabezada
 straight away|enseguida
 to die|fallecer
 inconceivably|inconcebiblemente
 indigenous (masculine) (starts with i)|indígeno
 indigenous (feminine) (starts with i)|indígena
-to carry out (3 words (starts with L))|llevar a cabo
+to carry out (3 words) (starts with L)|llevar a cabo
 from madrid (masculine) (adjective)|madrileño
 from madrid (feminine) (adjective)|madrileña
 to reduce (starts with m)|menguar
