@@ -20,6 +20,7 @@ the emphasis|el énfasis
 to show (starts with e)|enseñar
 to choose|escoger
 the effort|el esfuerzo
+the husband (starts with e)|lo esposo
 the wife (starts with e)|la esposa
 the family (adjective)|familiar
 the death (starts with f)|el fallecimiento
@@ -47,7 +48,8 @@ to subordinate|subordinar
 the submissiveness (starts with an s)|la sumisión
 late (adjective)|tardío
 the task|la tarea
-twentieth|vigésimo
+twentieth (masculine)|vigésimo
+twentieth (feminine)|vigésima
 the dwelling, housing|la vivienda
 to pack|abarrotar
 to thank|agradecer
@@ -62,7 +64,7 @@ the fall|la caída
 the drag on a cigarette|la calada
 a bed of roses (4 words)|un camino de rosas
 the affection|el cariño
-to give in/give up|ceder
+to give in/give up (starts with c)|ceder
 the number, figure (starts with c)|la cifra
 the commitment|el compromiso
 the counsellor (male)|el consejero
@@ -136,7 +138,7 @@ headed by (masculine)|encabezado
 headed by (feminine)|encabezada
 straight away|enseguida
 to die|fallecer
-inconceivably|inconcebiblemente
+inconceivably (adverb starts with c)|inconcebiblemente
 indigenous (masculine) (starts with i)|indígeno
 indigenous (feminine) (starts with i)|indígena
 to carry out (3 words) (starts with L)|llevar a cabo
