@@ -8,6 +8,11 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 ## Languages
 
+- my flash card sets are more usable than the ones in the textbook.
+    - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a much more explicit format compared to the textbook
+    - the male + female versions of nouns like *jefe* and *jefa* are much more explicit in my flash cards than the textbooks'
+    - this makes it easier to recall feminine versions of words so they are given equal significance in the flash card set, which is not the case in the textbooks
+
 ### Dutch
 - Flash cards:
     - Cannot find any courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A-U to 9-1.
@@ -19,12 +24,12 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 - Flash cards:
     - GCSE:
-        - Cards are my own from AQA GCSE German Higher 9-1
+        - Cards are my own from AQA GCSE German Higher 9-1 (ISBN: 978-0-19-836587-7)
     - A Level:
         - AS:
-            - Cards are my own from AQA A Level Year 1 and AS German
+            - Cards are my own from AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
         - A2:
-            - Cards are my own from AQA A Level Year 2 German
+            - Cards are my own from AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
 
 ### Spanish
 
@@ -35,17 +40,17 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 - Flash cards:
     - GCSE:
-        - Cards are my own from AQA GCSE Spanish Higher 9-1
+        - Cards are my own from AQA GCSE Spanish Higher 9-1 (ISBN: 978-0-19-836585-3)
     - A Level:
         - AS:
-            - Cards are my own from AQA A Level Year 1 and AS Spanish
+            - Cards are my own from AQA A Level Year 1 and AS Spanish (ISBN: 978-0-19-836690-4)
         - A2:
-            - Cards are my own from AQA A Level Year 2 Spanish
+            - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
 
 ## Computer Science
 
 - GCSE:
-    - Cards are my own from OCR GCSE Computer Science 9-1
+    - Cards are my own from OCR GCSE Computer Science 9-1 J277
 - A level:
     - AS:
         - Cards are my own from OCR H046
