@@ -1,0 +1,25 @@
+who|wie
+what|wat
+that|dat
+this|dit
+which|welke
+these, this (singular de)|deze
+that, those (singular de + plural de + het)|die
+where|waar
+here|hier
+there|daar
+when|wanneer
+then|dan
+at that time (past)|toen
+while|terwijl
+how|hoe
+like this (like "así" in spanish)|zo
+how much|hoeveel
+the flower|de bloem
+why|waarom
+that's why|daarom
+because (starts with w)|want
+because (starts with o)|omdat
+but|maar
+except|behalve
+the bike|de fiets

@@ -1,0 +1,24 @@
+the day|de dag
+the days|de dagen
+moday|maandag
+tuesday|dinsdag
+wednesday|woesndag
+thursday|donderdag
+friday|vrijdag
+saturday|zaterdag
+sunday|zonderdag
+the month|de maand
+the months|de maanden
+january|januari
+february|februari
+march|maart
+may|mei
+june|juni
+july|juli
+august|augustus
+september|september
+october|oktober
+november|november
+december|december
+the year|het jaar
+the years|de jaren

@@ -1,0 +1,88 @@
+the geography|de aardrijkskunde
+the language|de taal
+the languages|de talen
+the literature|de literatuur
+the english literature|de engelse literatuur
+the school subject|het schoolvak
+the school subjects|de schoolvakken
+the biology|de biologie
+the chemistry|de scheikunde
+the physics|de natuurkunde
+the mathematics|de wiskunde
+the art|de kunst
+the science|de wetenschap
+the computer science|de computerwetenschap
+the history|de geschiedenis
+the economics|de economie
+the politics|de politiek
+the psychology|de psychologie
+french|frans
+spanish|spaans
+german|duits
+dutch|nederlands
+the teacher (starts with L)|de leraar
+the teachers (starts with L)|de leraars
+the teacher (starts with d)|de docent
+the teachers (starts with d)|de docenten
+the chair|de stoel
+the chairs|de stoelen
+the homework|het huiswerk
+to do homework|huiswerk maken
+the book|het boek
+the books|de boeken
+the lesson|de les
+the lessons|de lessen
+the classroom (de) (e.g: "i'm going to class")|de klas
+the classroom (het) (the room itself)|het klaslokaal
+the classrooms (het)|de klaslokalen
+the textbook|het tekstboek
+the textbooks|de tekstboeken
+the school|de school
+the schools|de scholen
+the table|de tafel
+the tables|de tafels
+the eraser|de gum
+the erasers|de gummen
+the pen|de pen
+the pens|de pennen
+the chalk|de krijt
+the paper|het papier
+the marker|de markeerstift
+the markers|de markeerstifen
+the scissors|de schaar
+the dictionary|het woordenboek
+the dictionaries|de woordenboeken
+the student (starts with s)|de student
+the students (starts with s)|de studenten
+the problem|het problem
+the problems|de problemen
+the country|de land
+the countries|de landen
+the province|de provincie
+the region|de streek
+the city|de stad
+the cities|de steden
+the capital city|de hoofdstad
+the capital cities|de hoofdsteden
+the village|het dorp
+the place|de plaats
+the municipality|de gemeente
+the town hall|het gemeentehuis
+the countryside|het platteland
+the polder|de polder
+the fortress|de vesting
+fortified walls|wallen
+the shore|de wal
+the sea|de zee
+the lake|het meer
+the channel|het kanaal
+the river|de rivier
+the nature|de natuur
+the dam|de dam
+the dike|de dijk
+the dune|de duin
+the tunnel|de tunnel
+the mountain|de berg
+the iceberg|de ijsberg
+the hill|de heuvel
+the moor (geography)|de hei

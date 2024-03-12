@@ -1,0 +1,101 @@
+zero|nul
+one|één
+two|twee
+three|drie
+four|vier
+five|vijf
+six|zes
+seven|zeven
+eight|acht
+nine|negen
+ten|tien
+eleven|elf
+twelve|twaalf
+thirteen|dertien
+fourteen|veertien
+fifteen|vijftien
+sixteen|zestien
+seventeen|zeventien
+eighteen|achttien
+nineteen|negentien
+twenty|twintig
+twenty one|eenentwintig
+twenty two|tweeëntwintig
+twenty three|drieëntwintig
+twenty four|vierentwintig
+twenty five|vijfentwintig
+twenty six|zesentwintig
+twenty seven|zevenentwintig
+twenty eight|achtentwintig
+twenty nine|negenentwintig
+thirty|dertig
+thirty one|eenendertig
+thirty two|tweeëndertig
+thirty three|drieëndertig
+thirty four|vierendertig
+thirty five|vijfendertig
+thirty six|zesendertig
+thirty seven|zevenendertig
+thirty eight|achtendertig
+thirty nine|negenendertig
+forty|veertig
+forty one|eenenveertig
+forty two|tweeënveertig
+forty three|drieënveertig
+forty four|vierenveertig
+forty five|vijfenveertig
+forty six|zesenveertig
+forty seven|zevenenveertig
+forty eight|achtenveertig
+forty nine|negenenveertig
+fifty|vijftig
+fifty one|eenenvijftig
+fifty two|tweeënvijftig
+fifty three|drieënvijftig
+fifty four|vierenvijftig
+fifty five|vijfenvijftig
+fifty six|zesenvijftig
+fifty seven|zevenenvijftig
+fifty eight|achtenvijftig
+fifty nine|negenenvijftig
+sixty|zestig
+sixty one|eenenzestig
+sixty two|tweeënzestig
+sixty three|drieënzestig
+sixty four|vierenzestig
+sixty five|vijfenzestig
+sixty six|zesenzestig
+sixty seven|zevenenzestig
+sixty eight|achtenzestig
+sixty nine|negenenzestig
+seventy|zeventig
+seventy one|eenenzeventig
+seventy two|tweeënzeventig
+seventy three|drieënzeventig
+seventy four|vierenzeventig
+seventy five|vijfenzeventig
+seventy six|zesenzeventig
+seventy seven|zevenenzeventig
+seventy eight|achtenzeventig
+seventy nine|negenenzeventig
+eighty|tachtig
+eighty one|eenentachtig
+eighty two|tweeëntachtig
+eighty three|drieëntachtig
+eighty four|vierentachtig
+eighty five|vijfentachtig
+eighty six|zesentachtig
+eighty seven|zevenentachtig
+eighty eight|achtentachtig
+eighty nine|negenentachtig
+ninety|negentig
+ninety one|eenennegentig
+ninety two|tweeënnegentig
+ninety three|drieënnegentig
+ninety four|vierennegentig
+ninety five|vijfennegentig
+ninety six|zesennegentig
+ninety seven|zevenennegentig
+ninety eight|achtennegentig
+ninety nine|negenennegentig
+one hundred|honderd
