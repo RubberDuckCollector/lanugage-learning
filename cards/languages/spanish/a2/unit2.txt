@@ -135,7 +135,7 @@ the prison|la cárcel
 the identity card|el carnet de identidad
 to punish|castigar
 to grant|conceder
-the sentence|la condena
+the (criminal) sentence|la condena
 to sentence, to condemn|condenar
 the alcohol test|el control de alcoholemia
 the crime rate|la criminalidad
