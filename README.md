@@ -59,7 +59,18 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 # Notes
 
-- to be added soon! planned dir is `vaults/`
+## Languages
+
+### Dutch
+
+### German
+
+### Spanish
+
+- Réquiem por un Campesino español
+    - Version: from Manchester University Press
+        - ISBN: 978-0-7190-3222-6
+        - Has a dark green cover with yellow text and starts at page 47
 
 # To do
 
