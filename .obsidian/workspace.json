@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "f74d278b667d9168",
+    "type": "split",
+    "children": [
+      {
+        "id": "5176630b394ab731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2a2b614e2e26fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfa93a602b10f087",
+    "type": "split",
+    "children": [
+      {
+        "id": "f035a96a061bf7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2337ba77359a8692",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3c248a331252ff3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93ff29d74bd34ea9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b5efdb0cf150954",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d273c49dbe3c49e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b974a138a454317b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fd3225e448a8a79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "accec85dd427db4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be0e2102e6bc4413",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c2a2b614e2e26fe",
+  "lastOpenFiles": [
+    "notes/languages/spanish/a2/réquiem/essay-plans/WOMEN.md",
+    "notes/languages/spanish/a2/réquiem/essay-plans",
+    "notes/languages/spanish/a2/réquiem/character-notes/WOMEN.md",
+    "notes/languages/spanish/a2/réquiem/WOMEN.md"
+  ]
+}
