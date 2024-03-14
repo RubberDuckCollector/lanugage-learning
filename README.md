@@ -15,7 +15,7 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 ### Dutch
 - Flash cards:
-    - Cannot find any courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A-U to 9-1.
+    - Cannot find any courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
         - Tell me instantly if you find a Dutch textbook from the UK. I know that UCL has a Dutch course and I've already applied to it.
     - Have fun with a sparratic mix of topics
     - Dutch flash cards have plurals for all nouns because it's a bit confusing
