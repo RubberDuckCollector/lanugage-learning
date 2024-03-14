@@ -1,5 +1,5 @@
 # Asunto principal
-    - hay pocas protagonistas femininas
+- hay pocas protagonistas femininas
 
 
 # Jerónmima
