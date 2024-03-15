@@ -11,7 +11,7 @@
 # Águeda
 - Paco silenciosa a ella
 - Paco va a la casa de ella en el campo - sumisión
-- es vidua
+- se convirte en vidua a finales de la novela
 
 
 # El Carasol
@@ -21,15 +21,17 @@
 # Conclusion
 - son las víctimas de las acciones de los hombres
 
-# Paragraph 1
+# Párrafo 1
 - los hombres dominan el libro
 - Carasol (afueras)
 - plaza del agua (donde las mujers jóvenes)
 - los dos protagonistas son hombres
 
-# Paragraph 2 (long)
+# Párrafo 2 (largo)
 - Jerónima = fuerte, la tradición vs MM
 
-# Paragraph 3
+# Párrafo 3
 - pásiva víctima
 - Paco no la trata bien porque sigue siendo poítico cuando es peligroso
+    - Siempre hay el peligro de los señoritos...
+        - "En madrid pintan bastos" - el zapatero

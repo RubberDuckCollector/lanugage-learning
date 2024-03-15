@@ -7,7 +7,8 @@
 1. "—Aquí el otro padre" *Página 51*
     - MM tiene un papel súper importante (un gran significado) en la familia de Paco
     - Es el padre espiritual de Paco...
-        - Porque Se siente frente al padre de Paco cuando comen
+        - Por que bautiza a Paco
+            - Y se siente frente al padre de Paco cuando comen en el bautismo de Paquito
         - Además, el cura es un puesto profesional muy respetado en el campo en España...
             - Por parte de la población muy religiosa en el campo y en los años treinta también
 
