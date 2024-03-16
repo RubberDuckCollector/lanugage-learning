@@ -1,3 +1,6 @@
+# Título
+- *Analiza la representación de las mujeres en la obra**
+
 # Asunto principal
 - hay pocas protagonistas femininas
 
@@ -41,3 +44,4 @@
 
 # Conclusión
 - son las víctimas de las acciones de los hombres
+- quizás la novela es un producto de su epoca
