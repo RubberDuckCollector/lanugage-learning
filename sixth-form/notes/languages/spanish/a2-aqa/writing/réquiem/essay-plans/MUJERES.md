@@ -1,5 +1,5 @@
 # Título
-- *Analiza la representación de las mujeres en la obra**
+- **Analiza la representación de las mujeres en la obra**
 
 # Asunto principal
 - hay pocas protagonistas femininas
