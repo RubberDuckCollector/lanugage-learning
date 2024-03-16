@@ -12,6 +12,11 @@
         - Además, el cura es un puesto profesional muy respetado en el campo en España...
             - Por parte de la población muy religiosa en el campo y en los años treinta también
 
+1. "reservándose para las perdices." *Página 51*
+    - MM sólo escucha su bárriga
+        - a él no le importan los acontecimeintos importantes
+            - tal como el bautizo de Paquito
+
 1. "Mosén Millán tenía prisa por salir," *Página 61*
     - A él no le importa el sufrimiento ni la calidad de vida de los ancianos
     - Se puede ver las pensamientos de Mosén Millán a través de su falta de cuidado
