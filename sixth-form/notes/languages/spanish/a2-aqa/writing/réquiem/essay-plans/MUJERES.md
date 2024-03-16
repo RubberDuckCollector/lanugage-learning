@@ -31,6 +31,9 @@
 
 # Párrafo 2 (largo)
 - Jerónima = fuerte, la tradición vs MM
+    - Jerónima es la fuente de poder femenino debido a su estatús de saludadora
+    - lucha en contra de las creencias de MM con sus propias creencias tradicionales y supersticiosas - "un médico es un médico"
+        - así que, ella es la única mujer que enfrenta a MM, el hombre más respetado en el pueblo
 
 # Párrafo 3
 - pásiva víctima
