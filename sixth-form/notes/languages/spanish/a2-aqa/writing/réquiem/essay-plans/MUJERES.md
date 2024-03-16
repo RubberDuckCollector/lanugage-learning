@@ -18,8 +18,6 @@
 - un lugar en el que se encontran las mujeres
 - en las afueras del pueblo 
 
-# Conclusion
-- son las víctimas de las acciones de los hombres
 
 # Párrafo 1
 - los hombres dominan el libro
@@ -36,7 +34,10 @@
         - así que, ella es la única mujer que enfrenta a MM, el hombre más respetado en el pueblo
 
 # Párrafo 3
-- pásiva víctima
+- Águeda es una pásiva víctima
 - Paco no la trata bien porque sigue siendo poítico cuando es peligroso
     - Siempre hay el peligro de los señoritos...
         - "En madrid pintan bastos" - el zapatero
+
+# Conclusión
+- son las víctimas de las acciones de los hombres
