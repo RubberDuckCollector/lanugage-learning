@@ -24,7 +24,9 @@
 # Párrafo 1
 - los hombres dominan el libro
 - Carasol (afueras)
-- plaza del agua (donde las mujers jóvenes)
+     - implica que el papel de las mujeres es hablar y cotillear fuera de los hombres
+        - la separación de las mujeres y los hombres en la que las mujeres son más débiles - el machismo
+- plaza del agua (donde las mujeres jóvenes lavan la ropa)
 - los dos protagonistas son hombres
 
 # Párrafo 2 (largo)
