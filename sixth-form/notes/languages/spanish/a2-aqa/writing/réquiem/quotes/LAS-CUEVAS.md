@@ -1,6 +1,6 @@
 # 1. "No había otra ventilación que la de la puerta exterior." *Página 61*
-    - Los ancianos tienen que vivir en la cueva sin aire fresco
-        - algo que dan por hecho los cuidadanos del pueblo
+- Los ancianos tienen que vivir en la cueva sin aire fresco
+    - algo que dan por hecho los cuidadanos del pueblo
 
 1. "No había luz, ni agua, ni fuego." *Página 61*
     - Los ancianos son los más pobres en el mundo entero
