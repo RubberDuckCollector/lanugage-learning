@@ -21,7 +21,18 @@
     - A él no le importa el sufrimiento ni la calidad de vida de los ancianos
     - Se puede ver las pensamientos de Mosén Millán a través de su falta de cuidado
 
+1. "aquella prisa le parecía poco cristiana." *Página 61*
+    - Paco se da cuenta de que MM no está haciendo cosas de forma adecuada hacia los ancianos
+        - muestra que Paco sabe que MM quizás no es un cura agradable, pero siguen siendo amigos
+
 1. "Hay cosas peores que la pobreza." *Página 62*
     - Demuestra la arrogancia de MM
     - MM mienta a Paco porque no quiere tocar el tema de la pobreza...
         - porque es responsable por el sufrimeinto, teniendo un cargo tan importante como cura 
+
+1. "Él me denunció" *Página 96*
+    - A pesar de ser amigos con Paco, le traiciona independientemente...
+        - porque es corrompido
+        - no entiende el valor de su ámbito o las personas que conoce
+
+        -> test
