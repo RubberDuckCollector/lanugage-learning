@@ -20,3 +20,8 @@
 1. "Mosén Millán tenía prisa por salir," *Página 61*
     - A él no le importa el sufrimiento ni la calidad de vida de los ancianos
     - Se puede ver las pensamientos de Mosén Millán a través de su falta de cuidado
+
+1. "Hay cosas peores que la pobreza." *Página 62*
+    - Demuestra la arrogancia de MM
+    - MM mienta a Paco porque no quiere tocar el tema de la pobreza...
+        - porque es responsable por el sufrimeinto, teniendo un cargo tan importante como cura 
