@@ -34,5 +34,3 @@
     - A pesar de ser amigos con Paco, le traiciona independientemente...
         - porque es corrompido
         - no entiende el valor de su ámbito o las personas que conoce
-
-        -> test
