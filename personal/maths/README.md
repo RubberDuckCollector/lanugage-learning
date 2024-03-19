@@ -14,8 +14,7 @@
         - Coded example:
             - You can reverse a string like this: `msg = msg[::-1]`, where `msg` is any given string,
             - You can also reverse a string like this, it's verbose and unnecessary but it shows my point:
-            -
-            ```python3
+            ```python
             msg = "hello world"  # just an example string
             msg = list(msg)
             msg.reverse()
