@@ -27,3 +27,6 @@
     - I'm not particularly amazing at programming, I've just attempted and completed enough things (free and available on my GitHub) by myself to be comfortable in my chosen programming language.
     - I want to be at the same level with maths, where I can find different ways to describe concepts and solve problems. This means that my understanding on the patterns widens, as I essentially have more fluent access to the grammar of maths and I can manipulate it with ease.
         - (This is how learning languages works! Learn lots of synonyms and antonyms to increase your dominance over the target language!)
+
+# Goals
+    1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions.
