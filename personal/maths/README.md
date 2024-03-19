@@ -20,6 +20,7 @@
             msg.reverse()
             msg = "".join(msg)
             ```
+            - There's going to be a concise solution to any given problem, and a longer solution. Disregarding space and time complexity, those two solutions would have the same output, thus in a way making them both useful. They've both outputted the desired effects/answer
 
 - My thoughts
     - You can see how I automatically know that there are multiple ways of laying out the same thing in program code,
