@@ -1,4 +1,4 @@
-# Maths
+# Maths...
 
 - I've never been *good* at maths, whether it's between terrible teachers or not being willing to understand it, but I want to learn it now.
 - Last year I had to go back to the sine rule for an OCR programming challenge [here](https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf) on HegartyMaths (RIP), and I felt really comfortable.
