@@ -31,4 +31,4 @@
 
 # Goals
 
-1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions.
+1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions and some absolute bs with some geometry and vector on IGCSE Higher.
