@@ -12,7 +12,7 @@
             - por eso es como el pueblo y la iglesia católica los ha olvidado
 
 1. "Pies de labrador." *Página 61*
-    - los ancianos han estado laborado durante un plazo muy largo
+    - los ancianos han estado laborando durante un plazo muy largo
 
 1. "No había luz, ni agua, ni fuego." *Página 61*
     - Los ancianos son los más pobres en el mundo entero
