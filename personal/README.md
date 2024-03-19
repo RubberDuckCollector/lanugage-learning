@@ -3,7 +3,7 @@
 - I've never been *good* at maths, whether it's between terrible teachers or not being willing to understand it, but I want to learn it now.
 - Last year I had to go back to the sine rule for an OCR programming challenge [here](https://www.ocr.org.uk/Images/260930-coding-challenges-booklet.pdf) on HegartyMaths (RIP), and I felt really comfortable.
 - I felt confident in my understanding of equations when I had to flip all fractions to get $sin(a,b,c)/a,b,c$ vs $a,b,c/sin(a,b,c)$, etc..
-- I want to revisit maths now because I'm still shit at it but I know i've spent so much time practicing my pattern recognition, problem solving, and logical thinking through learning to code.
+- I want to revisit maths now because I'm still shit at it but I know i've spent so much time practicing my pattern recognition, problem solving, and logical thinking through learning to code. I think I'll have a much easier time coming back to mathematical thinking by myself
     - Python is my most used language because I was taught it in school, but I also have plans to explore Haskell, Lua, and Rust.
 
 - For context:
@@ -14,6 +14,7 @@
         - Coded example:
             - You can reverse a string like this: `msg = msg[::-1]`, where `msg` is any given string,
             - You can also reverse a string like this, it's verbose and unnecessary but it shows my point:
+
             ```Python
             msg = "hello world"  # just an example string
             msg = list(msg)
