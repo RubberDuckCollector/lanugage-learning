@@ -29,4 +29,5 @@
         - (This is how learning languages works! Learn lots of synonyms and antonyms to increase your dominance over the target language!)
 
 # Goals
-    1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions.
+
+1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions.
