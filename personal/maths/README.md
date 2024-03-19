@@ -14,13 +14,13 @@
         - Coded example:
             - You can reverse a string like this: `msg = msg[::-1]`, where `msg` is any given string,
             - You can also reverse a string like this, it's verbose and unnecessary but it shows my point:
-
-```python3
-msg = "hello world"  # just an example string
-msg = list(msg)
-msg.reverse()
-msg = "".join(msg)
-```
+            -
+            ```python3
+            msg = "hello world"  # just an example string
+            msg = list(msg)
+            msg.reverse()
+            msg = "".join(msg)
+            ```
 
 - My thoughts
     - You can see how I automatically know that there are multiple ways of laying out the same thing in program code,
