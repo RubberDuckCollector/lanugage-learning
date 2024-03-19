@@ -21,4 +21,3 @@
 
 1. "tenía prisa por salir." *Página 61* 
     - Mosén Millán (MM) a él no le importan los ancianos que estén en vías de morir y vivir sin su hijo inocente
-
