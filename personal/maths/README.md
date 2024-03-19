@@ -26,7 +26,7 @@
     - You can see how I automatically know that there are multiple ways of laying out the same thing in program code,
     - And that is exactly what I want to be able to do with maths and with mathematical notation.
     - I'm not particularly amazing at programming, I've just attempted and completed enough things (free and available on my GitHub) by myself to be comfortable in my chosen programming language.
-    - I want to be at the same level with maths, where I can find different ways to describe concepts and solve problems. This means that my understanding on the patterns widens, as I essentially have more fluent access to the grammar of maths and I can manipulate it with ease.
+    - I want to be at the same level with maths, where I can instinctively know different ways to describe concepts and solve problems. This means that my understanding on the patterns widens, as I essentially have more fluent access to the grammar of maths and I can manipulate it with ease.
         - (This is how learning languages works! Learn lots of synonyms and antonyms to increase your dominance over the target language!)
 
 # Goals
