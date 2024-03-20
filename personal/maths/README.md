@@ -50,7 +50,7 @@ TL;DR: Starting from IGCSE again because that's a good starting point that goes 
 
 # IGCSE-EDEXCEL
 
-- If a dir has `-f` on the end, it's in foundation but I'm lumping everything into the higher tier because foundation maths is too slow for me
+- If a dir has `-f` on the end, it's in foundation but I'm lumping all my work into the higher tier because foundation maths is too slow for me
 - As you can see in the file tree, I've replicated the spec by AO1, 2, and 3 components.
     - Then, I've made dirs for each unit.
         - The unit numbers are contiguous, which is something I didn't know. The units are just assigned an AO number ig.
