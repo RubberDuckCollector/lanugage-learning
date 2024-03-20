@@ -36,6 +36,7 @@
 # Plan, structure, and more
 
 TL;DR: Starting from IGCSE again because that's a good starting point that goes up to some more involved topics like algebraic fractions.
+- I will naturally be covering the foundation tier as part of the higher tier because the higher tier incorporates all of the foundation tier in its spec.
 
 # IGCSE-EDEXCEL
 
@@ -46,5 +47,6 @@ TL;DR: Starting from IGCSE again because that's a good starting point that goes 
     - My README structure:
         - Let's use AO1, unit 1 numbers and the number system as an example.
         - In `1.1-integers-f`, I'll put a README file there.
-        - It's named `AO1-1-1.1-README.md`. I think that's a good naming system
+        - It's named `IGCSE-EDEXCEL-AO1-1-1.1-README.md`. I think that's a good naming system
+            - At the top of that file, I'll write down everything I still remember about that skill/topic, then below that will be my work
             - From computer science I've learnt that systems for everything from naming files and variables to the structure of files is essential for maintainable systems.
