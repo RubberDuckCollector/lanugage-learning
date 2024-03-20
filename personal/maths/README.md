@@ -31,4 +31,8 @@
 
 # Goals
 
-1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions and some absolute bs with some geometry and vector on IGCSE Higher.
+1. I'm going to start from the beginning of GCSE/IGCSE, which (I think) teaches up from the introduction of basic concepts like ratios, to the *canonically* hardest topics on there, which are compound inverse functions with algebraic fractions and some absolute bs with some geometry and vectors on IGCSE Higher.
+
+# IGCSE-EDEXCEL
+
+- If a dir has `-f` on the end, it's in foundation but I'm lumping everything into the higher tier because foundation maths is too slow for me
