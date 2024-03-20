@@ -46,6 +46,7 @@
 
 TL;DR: Starting from IGCSE again because that's a good starting point that goes up to some more involved topics like algebraic fractions.
 - I will naturally be covering the foundation tier as part of the higher tier because the higher tier incorporates all of the foundation tier in its spec.
+- I'll be doing lots of linking too. I'll link from one `.md` file to another. So I really need well-defined preconditions in terms of the structure of my files before I begin writing them. This is why I've chosen to replicate the spec's structure.
 
 # IGCSE-EDEXCEL
 
@@ -57,5 +58,5 @@ TL;DR: Starting from IGCSE again because that's a good starting point that goes 
         - Let's use AO1, unit 1 numbers and the number system as an example.
         - In `1.1-integers-f`, I'll put a README file there.
         - It's named `IGCSE-EDEXCEL-AO1-1-1.1-README.md`. I think that's a good naming system. Course, board, AO, topic, unit
-            - At the top of that file, I'll write down everything I still remember about that skill/topic, then below that will be my work
+            - At the top of that file, I'll write down everything I still remember about that skill/topic, then below that I'll write what I think I need to learn, and what I think I need to practice. Then there'll be my work, then anything I've found out from that work at the bottom.
             - From computer science I've learnt that systems for everything from naming files and variables to the structure of files is essential for maintainable systems.
