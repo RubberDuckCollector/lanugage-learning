@@ -1,3 +1,12 @@
+<!-- vim-markdown-toc GFM -->
+
+* [Maths...](#maths)
+* [Goals](#goals)
+* [Plan, structure, and more](#plan-structure-and-more)
+* [IGCSE-EDEXCEL](#igcse-edexcel)
+
+<!-- vim-markdown-toc -->
+
 # Maths...
 
 - I've never been *good* at maths, whether it's between terrible teachers or not being willing to understand it, but I want to learn it now.
