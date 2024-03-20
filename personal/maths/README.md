@@ -35,16 +35,16 @@
 
 # Plan, structure, and more
 
-1. Edexcel IGCSE
-    - As you can see in the file tree, I've replicated the spec by AO1, 2, and 3 components.
-        - Then, I've made dirs for each unit.
-        - The unit numbers are contiguous, which is something I didn't know. The units are just assigned an AO number ig.
-    - My README structure:
-        - Let's use AO1, unit 1 numbers and the number system as an example.
-            - In `1.1-integers-f`, I'll put a README file there.
-            - It's named `AO1-1-1.1-README.md`. I think that's a good naming system
-                - From computer science I've learnt that systems for everything from naming files and variables to the structure of files is essential for maintainable systems.
+TL;DR: Starting from IGCSE again because that's a good starting point that goes up to some more involved topics like algebraic fractions.
 
 # IGCSE-EDEXCEL
 
 - If a dir has `-f` on the end, it's in foundation but I'm lumping everything into the higher tier because foundation maths is too slow for me
+- As you can see in the file tree, I've replicated the spec by AO1, 2, and 3 components.
+    - Then, I've made dirs for each unit.
+        - The unit numbers are contiguous, which is something I didn't know. The units are just assigned an AO number ig.
+    - My README structure:
+        - Let's use AO1, unit 1 numbers and the number system as an example.
+        - In `1.1-integers-f`, I'll put a README file there.
+        - It's named `AO1-1-1.1-README.md`. I think that's a good naming system
+            - From computer science I've learnt that systems for everything from naming files and variables to the structure of files is essential for maintainable systems.
