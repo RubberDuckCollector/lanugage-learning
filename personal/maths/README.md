@@ -47,6 +47,7 @@
 TL;DR: Starting from IGCSE again because that's a good starting point that goes up to some more involved topics like algebraic fractions.
 - I will naturally be covering the foundation tier as part of the higher tier because the higher tier incorporates all of the foundation tier in its spec.
 - I'll be doing lots of linking too. I'll link from one `.md` file to another. So I really need well-defined preconditions in terms of the structure of my files before I begin writing them. This is why I've chosen to replicate the spec's structure.
+- I'll be making loads of connections to computer science. That's kinda the point. Realising how interconnected cs and maths are and using cs to strengthen my mathematical skills
 
 # IGCSE-EDEXCEL
 
