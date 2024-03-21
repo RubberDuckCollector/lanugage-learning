@@ -27,7 +27,7 @@ i'll go ahead and answer as many as i can.
 2. we use base 10. that means there are 10 digits that each individually represent a value.
     - they are 0 to 9
     - you can think of a base 10 number as having columns. the rightmost column before the decimal place is the units
-        - this represents values of $x\times{10}^0$, where $x$ is any digit fro 0-9. anything to the power of 0 is 1, so it's $x\times{1}$
+        - this represents values of $x\times{10}^0$, where $x$ is any digit from 0-9. anything to the power of 0 is 1, so it's $x\times{1}$
     - then the next column to the left represents values of $x\times{10}^1$, meaning that the digit there in the tens column is multiplied by $10^1$
         - so the number $42$ contains:
             - $4\times{10}^1$, equaling 40
