@@ -4,17 +4,19 @@
 
 - [ ] **if this box is unchecked, this file has not been fact checked by a teacher. if you're a teacher familiar with OCR H446, submit a pull request!**
 
-1. PC (program counter)
+## CPU components
+
+### PC (program counter)
     - increments by one ready for the next instruction to be processed after the current FDE cycle
     - also increments when a branch or jump instruction is found by the CPU
 
-1. ALU (arithmetic logic unit)
+### ALU (arithmetic logic unit)
     - carries out mathematical operations such as arithmetic (+ - * /) and logical comparisons (AND, OR, NOT)
 
-1. ACC (accumulator)
+### ACC (accumulator)
     - stores the results of the calculations in the ALU
 
-1. system clock
+### system clock
     - a continuously oscillating signal that sends out a pulse (either 0 or 1) that all CPU components sync themselves with
     - therefore the CPU components cannot operate at conflicting times
     - one clock cycle corresponds to an FDE cycle
@@ -23,7 +25,7 @@
         - calculated by $num\ of\ clock\ cycles\div{time}$
             - if you have a CPU that completes 5 clock cycles in 2 seconds, you'll have a shitty CPU but it'll also be $\frac{5}{2}$ Hz.
 
-1. CIR (current instruction register)
+### CIR (current instruction register)
     - stores the current instruction being processed
     - this is divided up into its opcode and operand
         - the opcode tells the CPU what to do
