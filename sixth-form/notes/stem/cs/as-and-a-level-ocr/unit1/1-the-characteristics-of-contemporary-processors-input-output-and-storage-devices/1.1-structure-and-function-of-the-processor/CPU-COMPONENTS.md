@@ -2,7 +2,7 @@
 
 **Started 2024-03-23**
 
-- ( ) if this box is unchecked, they have not been fact checked by a teacher. if you're a teacher familiar with OCR H446, submit a pull request!
+- [ ] if this box is unchecked, they have not been fact checked by a teacher. if you're a teacher familiar with OCR H446, submit a pull request!
 
 
 1. PC (program counter)
