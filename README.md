@@ -1,3 +1,22 @@
+Table of contents:
+<!-- vim-markdown-toc GFM -->
+
+* [Subject resources](#subject-resources)
+    * [Flash cards](#flash-cards)
+        * [Languages](#languages)
+            * [Dutch](#dutch)
+            * [German](#german)
+            * [Spanish](#spanish)
+            * [Computer Science](#computer-science)
+    * [Notes](#notes)
+        * [Languages](#languages-1)
+            * [Dutch](#dutch-1)
+            * [German](#german-1)
+            * [Spanish](#spanish-1)
+* [To do](#to-do)
+
+<!-- vim-markdown-toc -->
+
 # Subject resources
 
 This is a rolling-release collection of my notes and programming journeys that I think the students in my school can make good use of. Particularly the ~3600 Spanish flash cards.
