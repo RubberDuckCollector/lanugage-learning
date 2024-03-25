@@ -1,4 +1,8 @@
-# Flash cards
+# Subject resources
+
+This is a rolling-release collection of my notes and programming journeys that I think the students in my school can make good use of. Particularly the ~3600 Spanish flash cards.
+
+## Flash cards
 
 *hello world*
 
@@ -12,14 +16,14 @@ Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderu
 
 For my own version of quizlet write, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)
 
-## Languages
+### Languages
 
 - my flash card sets are more usable than the ones in the textbook.
     - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a much more explicit format compared to the textbook
     - the male + female versions of nouns like *jefe* and *jefa* are much more explicit in my flash cards than the textbooks'
     - this makes it easier to recall feminine versions of words so they are given equal significance in the flash card set, which is not the case in the textbooks
 
-### Dutch
+#### Dutch
 
 - Flash cards:
     - Cannot find any active GCSE or A level courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
@@ -27,7 +31,7 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
     - Have fun with a sparratic mix of topics
     - Dutch flash cards have plurals for all nouns because it's a bit confusing
 
-### German
+#### German
 
 - Flash cards:
     - GCSE:
@@ -38,7 +42,7 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
         - A2:
             - Cards are my own from AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
 
-### Spanish
+#### Spanish
 
 - Will be responding to all AQA AS speaking cards
 - unfortunately in the interest of doing what i'm good at i will be making them docx documents
@@ -54,7 +58,7 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
         - A2:
             - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
 
-## Computer Science
+#### Computer Science
 
 - GCSE:
     - Cards are my own from OCR GCSE Computer Science 9-1 J277
@@ -64,15 +68,15 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
     - A2:
         - Cards are my own from OCR H446
 
-# Notes
+## Notes
 
-## Languages
+### Languages
 
-### Dutch
+#### Dutch
 
-### German
+#### German
 
-### Spanish
+#### Spanish
 
 - Réquiem por un Campesino español
     - Version: from Manchester University Press
