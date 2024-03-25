@@ -60,6 +60,7 @@
 
 - carries the memory address in which data is being sent to or retrieved from
 - for each extra wire that is added to this bus, the bus will be able to address double the locations in memory
+    - in other words, an address bus with $n$ wires can carry $2^n$ signals
     - so, if an address bus had $3$ wires, it would have $2^3 = 8$ addressable locations
 
 ### control bus
