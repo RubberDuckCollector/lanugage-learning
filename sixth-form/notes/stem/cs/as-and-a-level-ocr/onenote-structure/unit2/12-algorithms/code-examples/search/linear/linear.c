@@ -6,6 +6,8 @@ int linear_search(int *arr, int target) {
   // dereference the pointer when working out the size to look at the array at
   // the corresponding location in memory
   int arr_len = sizeof(&arr) / sizeof(&arr[0]);
+  // best practice is to accept array length as a func parameter,
+  // and then incorporate defensive design in the program
 
   for (int i = 0; i < arr_len; i++) {
     if (arr[i] == target) {

@@ -44,7 +44,7 @@ int main() {
         // (colloquially named a runtime error outside of OCR land)
 
         // theory: you only need to pass the address of the first element
-        // because array elements are stored in contiguous space in memory,
+        // because arrays are stored in contiguous space in memory,
         // meaning that the compiler can work out where the rest of the elements
         // are
         binary_search(nums, nums[i], nums_len));
