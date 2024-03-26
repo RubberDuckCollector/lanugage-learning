@@ -17,6 +17,9 @@ fn linear_search(input_vec: &Vec<usize>, target: usize) -> usize {
             return i;
         }
     }
+    // return this if the target wasn't found
+    // have to return this because it's a usize and the func wants a usize as can be seen in the
+    // function declaration
     return input_vec.len();
 }
 
@@ -27,6 +30,7 @@ fn main() {
 
     let target_2: i32 = 0;
 
+    // pass a reference to the vector, as stated in the function declaration
     println!(
         "index of target {target} is {}",
         linear_search(&nums, target.try_into().unwrap())
