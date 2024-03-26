@@ -15,7 +15,7 @@
 
 <!-- vim-markdown-toc -->
 
-For A Level: check out my [recursive binary search solution](code-examples/search/binary/recursive-binary.py)
+For A Level: check out my [recursive binary search solution](search/binary/recursive-binary.py)
 
 - i have python here but i'm also planning to expand to some examples for compiled languages, namely C and Rust
 - to show that the logic is the same, the only differences in these algorithms will be idiomatic and use special techniques of a language. 
