@@ -27,7 +27,8 @@ For A Level: check out my [recursive binary search solution](search/binary/recur
 
 ### c
 
-if you know what's going on with the LSP message [here]("search/linear/assets/suspicous usage of sizeof pointer.png")
+if you know what's going on with the LSP message here, please tell me:
+![suspicious usage of sizeof pointer](search/linear/assets/suspicous-usage-of-sizeof-pointer.png)
 
 ### python
 
