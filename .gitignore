@@ -5,5 +5,5 @@
 *.DS_Store?
 *.DS_Store?
 .obsidian/*
-target/
+/persona/programming/rust/*/target/
 bin/
