@@ -27,11 +27,11 @@ int binary_search(int *arr, int target, int arr_len) {
 
 int main() {
 
-  int nums[] = {5, 4, 3, 2, 1};
+  int nums[] = {1, 2, 3, 4, 5};
 
   int nums_len = sizeof(nums) / sizeof(nums[0]);
 
-  for (int i = 0; i < 6; i++) {
+  for (int i = 0; i < nums_len; i++) {
     printf(
         "the index of %d is %d\n", nums[i],
         // don't need to pass &nums here
