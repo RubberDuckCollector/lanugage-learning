@@ -1,31 +1,55 @@
-def binary_search(input_list, target):
+def recursive_binary_search(input_list, target, right_pointer, left_pointer=0):
+    midpoint = left_pointer + (right_pointer - left_pointer) // 2
 
-    start = 0
-    end = len(input_list) - 1  # index of last element
-
-    while start <= end:
-        midpoint = start + (end - start) // 2
+    if left_pointer <= right_pointer:
         if input_list[midpoint] == target:
             return midpoint
-        # change the searchable section of the list
-        elif input_list[midpoint] > target:
-            end = midpoint - 1  # end of searchable part of list is brought to the midpoint and one shorter because the code already confirmed that the target isn't at the midpoint
         else:
-            start = midpoint + 1  # otherwise the start of the searchable part of the list is brought to midpoint and one further along because target cannot be at the midpoint in this case
+            if input_list[midpoint] > target:
 
-    return -1
+                # we move the right pointer to the midpoint of the list
+                # and then one towards the left
+                # because the target can't be in the right half of the list
+                # and we've already confirmed it's not the midpoint
+
+                right_pointer = midpoint - 1
+
+                # we continue the function by calling it again
+                # with the list, the target, and the right pointer,
+                # which we just changed
+                # the left pointer stays the same as the default value,
+                # we don't have to call the function with it
+                # and python handles it for us
+
+                return recursive_binary_search(input_list, target, right_pointer)
+            elif input_list[midpoint] < target:
+
+                # we move the left pointer to the midpoint of the list
+                # and then one towards the right
+                # because the target can't be in the left half of the list
+                # and we've already confirmed it's not the midpoint
+
+                left_pointer = midpoint + 1
+
+                # we continue the function by calling it again
+                # with the list, the target, the right pointer, and the left pointer, which we just changed
+                # the left pointer stays the same as the default value,
+                # we have to specify the left pointer this time because otherwise
+                # python will use the default value of the left pointer argument which is 0
+
+                return recursive_binary_search(input_list, target, right_pointer, left_pointer)
+    else:
+        # return -1 if the target wasn't found
+        return -1
 
 
-def main():
-    nums = [1, 2, 3, 38, 48, 51, 53, 61, 62, 65, 72, 73, 83, 83, 93]
-    #       0  1  2  3   4   5   6   7   8   9   10  11  12  13  14
+#       0  1  2   3   4    5    6     7     8     9
+nums = [1, 3, 7, 10, 24, 110, 444, 1000, 1111, 5000]
 
-    for i in range(len(nums)):
-        print(binary_search(nums, nums[i]))
+right_pointer = len(nums) - 1
+# print(f"{recursive_binary_search(nums, 3, right_pointer)}")
 
-        letters = ["a", "b", "c", "d", "e"]
-        print(binary_search(letters, "b"))
+for i in range(len(nums)):
+    print(f"{recursive_binary_search(nums, nums[i], right_pointer)}")
 
-
-if __name__ == "__main__":
-    main()
+print(f"{recursive_binary_search(nums, 12, right_pointer)}")
