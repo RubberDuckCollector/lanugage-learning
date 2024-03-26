@@ -5,6 +5,7 @@
 *.DS_Store?
 *.DS_Store?
 .obsidian/*
-/target/
+/target
+target/
 /personal/programming/rust/*/target/
 bin/
