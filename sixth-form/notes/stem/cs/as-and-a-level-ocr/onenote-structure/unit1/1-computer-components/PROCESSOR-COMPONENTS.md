@@ -1,5 +1,21 @@
 # CPU Components
 
+Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Registers](#registers)
+    * [PC (program counter)](#pc-program-counter)
+    * [ALU (arithmetic logic unit)](#alu-arithmetic-logic-unit)
+    * [ACC (accumulator)](#acc-accumulator)
+    * [system clock](#system-clock)
+    * [CIR (current instruction register)](#cir-current-instruction-register)
+* [Buses](#buses)
+    * [data bus](#data-bus)
+    * [address bus](#address-bus)
+    * [control bus](#control-bus)
+
+<!-- vim-markdown-toc -->
+
 **Started 2024-03-23**
 
 - [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
@@ -35,7 +51,7 @@
 - this is divided up into its opcode and operand
     - the opcode tells the CPU what to do
     - the operand is the data being acted on
-    - [LMC]() example:
+    - LMC example:
         - on [Wikipedia](https://en.wikipedia.org/wiki/Little_man_computer)
     ```
     STA FIRST
@@ -81,6 +97,3 @@
         - used to show the CPU there is an unexpected event ocurring that needs expedited access to the CPU 
     - clock
         - used to synchronise operations of CPU components
-
-
-**Finished ?**
