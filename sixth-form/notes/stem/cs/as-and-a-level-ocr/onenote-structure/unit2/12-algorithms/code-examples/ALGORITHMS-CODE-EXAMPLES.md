@@ -27,7 +27,7 @@ For A Level: check out my [recursive binary search solution](code-examples/searc
 
 ### c
 
-if you know what's going on with the LSP message [here](linear/assets/suspicous usage of sizeof pointer.png) please tell me
+if you know what's going on with the LSP message [here](search/linear/assets/suspicous usage of sizeof pointer.png) please tell me
 
 ### python
 
