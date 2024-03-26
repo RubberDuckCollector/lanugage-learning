@@ -3,22 +3,27 @@ from random import randint
 
 """
 GCSE:
-this is an abstracted demonstration of insertion sort. in the output the user does not
+this is an abstracted demonstration of insertion sort.
+in the output the user does not
 see precisely what happens when the element "moves down the list".
 the user thinks the sorted item
-barges into its correct index, shoving all elements on its right up by 1 index.
+barges into its correct index, shoving all elements on its left up by 1 index.
 
-however in reality, the value moves down by swapping with the adjacent value to the left,
-then another comparison is made in an iterative fashion until the value on its left is smaller than it.
+however in reality,
+the value moves down by swapping with the adjacent value to the left,
+then another comparison is made in an iterative fashion,
+until the value on its left is smaller than it.
 therefore resulting in many comparisons...
 
 A LEVEL:
 ...which is why the average and worst case time complexities are O(n^2),
 the algorithm simply makes that many comparisons,
-which are significant for big O.
+which is significant for big O.
 
-insertion sort sorts in place, meaning that it doesn't use any more or less memory than the input data set
-we can safely return the input list, knowing that no new lists need to be initialised
+insertion sort sorts in place,
+meaning that it doesn't use any more or less memory than the input data set
+we can safely return the input list,
+knowing that no new lists need to be initialised
 since the algorithm just
 meaning the space complexity of insertion sort is O(1)
 however the average and worst case time complexity is O(n^2)
@@ -26,6 +31,8 @@ and the best case time complexity is O(n)
 """
 
 # colours make the output easier to read
+
+
 class Color:
     Reset = "\033[0m"
     Red = "\033[031m"
@@ -44,7 +51,7 @@ def insertion_sort(input_list: list) -> list:
     print(f"First pass: {input_list[0]} is already reagarded as sorted, no changes")
 
     # the insertion sort for loop runs len(list)-1 times,
-    # because element 1 is regarded already as sorted
+    # because element 1 at index 0 is regarded already as sorted
     for i in range(1, len(input_list)):
         print(f"list: {Color.Red}{input_list}{Color.Reset}\n")
         time.sleep(sleep_time)
