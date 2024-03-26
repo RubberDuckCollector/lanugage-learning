@@ -12,6 +12,7 @@ fn fib_it(n: i128) -> i128 {
     } else if n == 1 {
         b
     } else {
+        // not using the iterative variable so make it clear by calling it a _
         for _ in 2..n + 1 {
             c = a + b;
             a = b;
@@ -56,13 +57,13 @@ fn main() {
     for i in &test_nums {
         let before_count_time = Instant::now();
 
-        println!("current test int: {}", *i);
+        println!("current test int: {}", i);
 
         // here, i is a reference to each element in the vector test_nums
         // we dereference i because it starts out as a referenced piece of data
         // we do this to access the value of i, which is the index of test_nums
         // if i isn't dereferenced, we'd be passing a REFERENCE to an i32, instead of an actual int
-        // value, meaning that the calling function (fib_rec()) would have to deal with an int
+        // value, meaning that the function being called, fib_rec(), would have to deal with an int
         // reference, not an int
         let result = fib_rec(*i);
         println!("result: {}", result);

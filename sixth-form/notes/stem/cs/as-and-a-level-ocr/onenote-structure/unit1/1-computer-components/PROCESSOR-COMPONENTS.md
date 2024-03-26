@@ -17,7 +17,7 @@
 
 ### ACC (accumulator)
 
-- stores the results of the calculations in the ALU
+- stores the results of the calculations/operations in the ALU
 
 ### system clock
 
@@ -31,12 +31,12 @@
 
 ### CIR (current instruction register)
 
-- stores the current instruction being processed
-- deciphers the current instruction being processed on the current FDE cycle
+- stores and deciphers the current instruction being processed on the current FDE cycle
 - this is divided up into its opcode and operand
     - the opcode tells the CPU what to do
     - the operand is the data being acted on
-    - [LMC](../../2-software-and-software-development/2.4-types-of-programming-languages/TYPES-OF-PROGRAMMING-LANGUAGES.md#lmc) example:
+    - [LMC]() example:
+        - on [Wikipedia](https://en.wikipedia.org/wiki/Little_man_computer)
     ```
     STA FIRST
     ```
@@ -81,5 +81,6 @@
         - used to show the CPU there is an unexpected event ocurring that needs expedited access to the CPU 
     - clock
         - used to synchronise operations of CPU components
+
 
 **Finished ?**
