@@ -32,7 +32,8 @@ def recursive_binary_search(input_list, target, right_pointer, left_pointer=0):
                 left_pointer = midpoint + 1
 
                 # we continue the function by calling it again
-                # with the list, the target, the right pointer, and the left pointer, which we just changed
+                # with the list, the target, the right pointer,
+                # and the left pointer, which we just changed
                 # the left pointer stays the same as the default value,
                 # we have to specify the left pointer this time because otherwise
                 # python will use the default value of the left pointer argument which is 0
