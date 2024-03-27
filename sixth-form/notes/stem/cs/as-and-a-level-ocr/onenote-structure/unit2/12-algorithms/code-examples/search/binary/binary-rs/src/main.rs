@@ -22,5 +22,16 @@ fn binary_search(input_vec: &Vec<usize>, target: usize) -> usize {
 }
 
 fn main() {
-    println!("Hello, world!");
+    let nums = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+    let target = 4;
+    println!("index of {target} = {}", binary_search(&nums, target));
+
+    let target = 10;
+    println!("index of {target} = {}", binary_search(&nums, target));
+
+    let target = 11;
+    println!("index of {target} = {}", binary_search(&nums, target));
+    println!("notice how the length of the vector was returned");
+    println!("that means the value wasn't found");
 }
