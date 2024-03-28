@@ -1,7 +1,22 @@
 def recursive_binary_search(input_list: list, target: any, right_pointer: int, left_pointer=0):  # left_pointer may have to change during the function, but its default is 0 because indexes left_pointer at 0
     """
-    left pointer begins at the start of the list
-    right pointer begins at the end of the list
+    two pointers dictate the searchable part of the list.
+    left pointer begins at the first index of the list
+    right pointer begins at the last index of the list
+
+    GCSE:
+    the precondition of binary search is that the list HAS TO be sorted beforehand
+    for it to execute without any logic errors
+    otherwise, the target element may be discarded even though
+    it may be present in the list
+
+    e.g: my_list = [2, 3, 4, 5, 1]
+    if the target is 1, it would get erroneously invalidated by binary search
+    because it would check 4 first as the first midpoint
+    and since 4 is larger than 1,
+    binary search would move the right pointer to 3, and would ultimately not return 1, the target.
+
+
     BOTH POINTERS ARE EXPECTED TO MOVE,
     WITH THE EXCEPTION OF THE TARGET BEING AT THE FIRST MIDPOINT...
 
