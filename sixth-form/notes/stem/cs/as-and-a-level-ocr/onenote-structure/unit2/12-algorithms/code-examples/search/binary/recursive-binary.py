@@ -36,7 +36,7 @@ def recursive_binary_search(input_list: list, target: any, right_pointer: int, l
     ...which is why sorting algorithms' best case time complexity is O(1).
     in other words,
 
-    "what if the first value we check is the target?"
+    "what if the first value we check is the target?" - only one comparison would be made.
     - the average and worst case time complexities of this is O(log n)
     - you can see how the time complexity is O(log n),
     - as we halve the list every time the algorithm doesn't find the target.
