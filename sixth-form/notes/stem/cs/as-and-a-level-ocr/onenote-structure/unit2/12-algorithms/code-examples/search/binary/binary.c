@@ -2,7 +2,12 @@
 
 // 2024-03-26
 
+// we pass the array of ints by reference, pass a target int by value, and pass
+// the length of our array by value
 int binary_search(int *arr, int target, int arr_len) {
+
+  // left_pointer and right_pointer are expected to move
+  // save for the case where the first midpoint is the target
 
   int left_pointer = 0;
   int right_pointer = arr_len - 1;
@@ -11,13 +16,32 @@ int binary_search(int *arr, int target, int arr_len) {
 
   while (left_pointer <= right_pointer) {
     // this does floor division by default
+    // because we are using ints
+    // if we use floats here, C will use those decimal places
     midpoint = left_pointer + (right_pointer - left_pointer) / 2;
+
+    // we test for the midpoint first
+    // just in case it's the target...
+    // ...which lets us achieve the O(1) best case time complexity
+    // because only one comparison is made
 
     if (arr[midpoint] == target) {
       return midpoint;
     } else if (arr[midpoint] < target) {
+
+      // if the value at the midpoint is less than the target...
+      // move the left pointer to the midpoint, AND one more to the LEFT
+      // this means that we've excluded all of the values that CANNOT be equal
+      // to the midpoint
+
       left_pointer = midpoint + 1;
     } else {
+
+      // if the value at the midpoint is greater than the target...
+      // move the left pointer to the midpoint, AND one more to the LEFT
+      // this means that we've excluded all of the values that CANNOT be equal
+      // to the midpoint
+
       right_pointer = midpoint - 1;
     }
   }
