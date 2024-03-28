@@ -1,4 +1,8 @@
 """
+two pointers dictate the searchable part of the list.
+left pointer begins at the first index of the list
+right pointer begins at the last index of the list.
+
 left_pointer may have to change during the function, but its default is 0 because indexes start at 0
 we call left pointer last because it's a default argument, so it's implicitly passed if we don't pass it.
 python will pass it for us
@@ -11,9 +15,6 @@ i figured it out by myself this way
 
 def recursive_binary_search(input_list: list, target: any, right_pointer: int, left_pointer=0):
     """
-    two pointers dictate the searchable part of the list.
-    left pointer begins at the first index of the list
-    right pointer begins at the last index of the list
 
     GCSE:
     the precondition of binary search is that the list HAS TO be sorted beforehand
