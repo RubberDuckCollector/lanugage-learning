@@ -1,4 +1,15 @@
-def recursive_binary_search(input_list: list, target: any, right_pointer: int, left_pointer=0):  # left_pointer may have to change during the function, but its default is 0 because indexes left_pointer at 0
+"""
+left_pointer may have to change during the function, but its default is 0 because indexes start at 0
+we call left pointer last because it's a default argument, so it's implicitly passed if we don't pass it.
+python will pass it for us
+i learnt about it from playing around with them and here:
+https://www.geeksforgeeks.org/default-arguments-in-python/
+it's a handy technique. i honestly don't know how to implement recursive binary search without it.
+i figured it out by myself this way
+"""
+
+
+def recursive_binary_search(input_list: list, target: any, right_pointer: int, left_pointer=0):
     """
     two pointers dictate the searchable part of the list.
     left pointer begins at the first index of the list
@@ -77,7 +88,8 @@ def main():
     #       0  1  2   3   4    5    6     7     8     9
     nums = [1, 3, 7, 10, 24, 110, 444, 1000, 1111, 5000]
 
-    right_pointer = len(nums) - 1  # we want the index of the right pointer's start, not the length of the list
+    # we want the index of the right pointer's start, not the length of the list
+    right_pointer = len(nums) - 1
 
     # print(f"{recursive_binary_search(nums, 3, right_pointer)}")
 
