@@ -1,6 +1,6 @@
 # FDE cycle
 
-**Started 2024-03-25**
+**2024-03-25**
 
 - [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
 
@@ -31,5 +31,3 @@
         </li>
     </ol>
 </details>
-
-**Finished ?**
