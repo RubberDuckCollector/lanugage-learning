@@ -2,6 +2,8 @@ import time
 from random import randint
 
 """
+RUN THE CODE. IT TRACES THROUGH THE ALGORITHM IN THE OUTPUT.
+
 GCSE:
 this is an abstracted demonstration of insertion sort.
 in the output the user does not
