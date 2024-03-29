@@ -34,7 +34,7 @@ def binary_search(input_list, target):
 
     left_pointer = 0
 
-    # we want the last index, not the index + 1 or the length
+    # we want the last index, not the index + 1, which would be the length
     right_pointer = len(input_list) - 1
 
     while left_pointer <= right_pointer:
