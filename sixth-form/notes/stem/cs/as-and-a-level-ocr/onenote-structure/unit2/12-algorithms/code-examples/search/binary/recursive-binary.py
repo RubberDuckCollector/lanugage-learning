@@ -15,7 +15,6 @@ i figured it out by myself this way
 
 def recursive_binary_search(input_list: list, target: any, right_pointer: int, left_pointer=0):
     """
-
     GCSE:
     the precondition of binary search is that the list HAS TO be sorted beforehand
     for it to execute without any logic errors
