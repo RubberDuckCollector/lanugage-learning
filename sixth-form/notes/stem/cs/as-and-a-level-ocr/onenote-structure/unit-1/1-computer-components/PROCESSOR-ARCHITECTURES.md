@@ -11,6 +11,6 @@
 1. Von Neumann architecture
     - there are 3 buses:
         1. data bus
-        2. [control bus](PROCESSOR-COMPONENTS.md#control-bus)
+        2. [control bus](./PROCESSOR-COMPONENTS.md#control-bus)
         3. address bus
     - the instructions and data of the CPU are stored in the same space in memory
