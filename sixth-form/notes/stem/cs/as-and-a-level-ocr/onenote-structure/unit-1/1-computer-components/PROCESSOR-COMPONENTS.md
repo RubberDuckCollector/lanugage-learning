@@ -47,7 +47,7 @@ A register is a piece of memory in a processor that has extremely fast access sp
 - the rate at which the clock sends out pulses is the clock frequency
     - this is measured in Hertz (Hz)
     - calculated by $num\ of\ clock\ cycles\div{time}$
-        - if you have a CPU that completes 5 clock cycles in 2 seconds, you'll have a shitty CPU but it'll also be $\frac{5}{2}$ Hz.
+        - if you have a CPU that completes 5 clock cycles in 2 seconds, you'll have a shitty CPU but it'll be $\frac{5}{2}$ Hz.
 
 ### CIR (current instruction register)
 
