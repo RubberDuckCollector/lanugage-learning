@@ -4,6 +4,12 @@
 
 - [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
 
+<!-- vim-markdown-toc GFM -->
+
+* [FDE cycle](#fde-cycle)
+
+<!-- vim-markdown-toc -->
+
 ## FDE cycle
 
 <details><summary><strong>Top level GCSE explanation (will rewrite for A Level with opcodes and operands and CIR at some point)</strong></summary>

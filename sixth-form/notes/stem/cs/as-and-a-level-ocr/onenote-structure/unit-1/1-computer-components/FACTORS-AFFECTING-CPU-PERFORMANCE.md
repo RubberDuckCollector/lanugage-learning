@@ -4,6 +4,13 @@
 
 - [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
 
+<!-- vim-markdown-toc GFM -->
+
+* [clock speed](#clock-speed)
+* [overclocking](#overclocking)
+
+<!-- vim-markdown-toc -->
+
 ## clock speed
 
 - measured from the [system clock](./PROCESSOR-COMPONENTS.md)

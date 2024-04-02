@@ -1,6 +1,9 @@
 # CPU Components
 
-Table of contents
+**2024-03-23**
+
+- [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
+
 <!-- vim-markdown-toc GFM -->
 
 * [Registers](#registers)
@@ -16,11 +19,12 @@ Table of contents
 
 <!-- vim-markdown-toc -->
 
-**Started 2024-03-23**
-
-- [ ] **If this box is unchecked, this file has not been fact checked by a teacher. If you're a teacher familiar with OCR H446, submit a pull request or email me! <eggsim49@gmail.com>**
-
 ## Registers
+
+A register is a piece of memory in a processor that has extremely fast access speed by the processor components
+- registers can hold ***one*** piece of data or instruction ***at a time***
+- not the same as main memory, that would be RAM
+- which has a larger capacity and is slower
 
 ### PC (program counter)
 
@@ -52,7 +56,8 @@ Table of contents
     - the opcode tells the CPU what to do
     - the operand is the data being acted on
     - LMC example:
-        - on [Wikipedia](https://en.wikipedia.org/wiki/Little_man_computer)
+        - on [Wikipedia](https://en.wikipedia.org/wiki/Little_man_computer#Examples)
+        - here: ↓
     ```
     STA FIRST
     ```
@@ -85,15 +90,15 @@ Table of contents
     - meaning data can flow both ways through it
 
 - possible control signals that are handled:
-    - bus request
+    - **bus request**
         - shows that a device is requesting use of the **data** bus
-    - bus grant
+    - **bus grant**
         - shows that the CPU has granted access to use the **data** bus
-    - memory write
+    - **memory write**
         - used to write data into an addressed location
-    - memory read
+    - *memory read*
         - data is read from a specific location to be placed on the data bus
-    - interrupt request
+    - **interrupt request**
         - used to show the CPU there is an unexpected event ocurring that needs expedited access to the CPU 
-    - clock
+    - **clock**
         - used to synchronise operations of CPU components
