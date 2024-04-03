@@ -20,7 +20,7 @@
 1. **Von Neumann architecture**
     - there are 3 buses:
         1. data bus
-        2. [control bus](https://github.com/RubberDuckCollector/subject-resources/blob/main/sixth-form/notes/stem/cs/as-and-a-level-ocr/onenote-structure/unit-1/1-computer-components/PROCESSOR-COMPONENTS.md)
+        2. [control bus](https://github.com/RubberDuckCollector/subject-resources/blob/main/sixth-form/notes/stem/cs/as-and-a-level-ocr/onenote-structure/unit-1/1-computer-components/PROCESSOR-COMPONENTS.md#control-bus)
         3. address bus
     - the instructions and data of the CPU are stored in the same space in memory
     - they're also stored in the same format
