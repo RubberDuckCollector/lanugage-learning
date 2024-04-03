@@ -42,7 +42,7 @@ GPUs are great at graphics processing because:
 - data mining
     - this includes:
         - mining for cryptocurrency,
-        - distributed OSs like [folding at home](https://foldingathome.org/)
+        - distributed OSs that use the GPU like [folding at home](https://foldingathome.org/)
         - analysis of statistics and probability - economics
 
 ## Table of differences
