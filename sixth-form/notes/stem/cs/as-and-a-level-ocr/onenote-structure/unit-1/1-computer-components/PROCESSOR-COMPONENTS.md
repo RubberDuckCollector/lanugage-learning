@@ -96,7 +96,7 @@ A register is a piece of memory in a processor that has extremely fast access sp
         - shows that the CPU has granted access to use the **data** bus
     - **memory write**
         - used to write data into an addressed location
-    - *memory read*
+    - **memory read**
         - data is read from a specific location to be placed on the data bus
     - **interrupt request**
         - used to show the CPU there is an unexpected event ocurring that needs expedited access to the CPU 
