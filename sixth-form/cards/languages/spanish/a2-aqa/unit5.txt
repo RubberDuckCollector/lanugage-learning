@@ -41,7 +41,7 @@ the early hours|la madrugada
 birth (adjective) (e.g birth country)|natal
 the working class (starts with o)|el obrero
 the squad|el pelotón
-sadly|penosamente
+sadly (starts with p)|penosamente
 the lead (the metal)|el plomo
 the prisoner (starts with p) (masculine)|el preso
 the prisoner (starts with p) (feminine)|la presa
@@ -106,7 +106,7 @@ to survive (starts with p)|pervivir
 the commoner (male)|el plebeyo
 the commoner (female)|la plebeya
 to bring to light (starts with poner)|poner de manifiesto
-as (2 words) (starts with p)|puesto que
+as, given that (2 words) (starts with p)|puesto que
 to revive (it's reavivar) (there are like 5 synonyms for this all starting with r)|reavivar
 the regime|el régimen
 the reign|el reinado
@@ -166,7 +166,7 @@ the prisoner (starts with r) (masculine)|el reo
 the prisoner (starts with r) (feminine)|la rea
 repressive (masculine)|represivo
 repressive (feminine)|represiva
-the break (starts with r)|la ruptura
+the break (like "rupture") ((starts with r)|la ruptura
 the preist (starts with s)|el sacerdote
 to come to light|salir a la luz
 to kidnap (starts with s)|secuestrar
