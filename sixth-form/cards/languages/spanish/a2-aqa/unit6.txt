@@ -6,7 +6,7 @@ to hang (also "to upload", starts with co)|colgar
 the summit|la cumbre
 to disappoint, to let down|decepcionar
 the crime (starts with d)|el delito
-to report|el denunciar
+to report|denunciar
 the right (e.g right to protest)|el derecho
 the eviction|el desahucio
 to sack|despedir
@@ -38,7 +38,7 @@ the protestors (starts with m)|los manifestantes
 to protest (starts with m, not reflexive)|manifestar
 the gag|la mordaza
 to fine, to impose a fine|multar
-to oppose to|openerse a
+to oppose to|oponerse a
 the placard/banner|la pancarta
 the unemployment (starts with p)|el paro
 the patrol|la patrulla
@@ -64,8 +64,8 @@ the agreement|el acuerdo
 the membership (like "afiliation")|la afiliación
 the member (like "afiliated") (male)|el afiliado
 the member (like "afiliated") (female)|la afiliada
-the members (like "afiliated") (male)|el afiliados
-the members (like "afiliated") (female)|la afiliadas
+the members (like "afiliated") (male)|los afiliados
+the members (like "afiliated") (female)|las afiliadas
 the altercations, rows|los altercados
 the field of work|el ámbito laboral
 to intimidate (starts with a)|amedrentar
@@ -91,7 +91,7 @@ the factories|las fábricas
 Public prosecutor (answer this with a capital and no article)|Fiscalía
 the guilds (starts with g)|los gremios
 the equality|la igualdad
-the impunity|la imunidad
+the impunity|la impunidad
 unfair (masculine)|injusto
 unfair (feminine)|injusta
 involved (masculine)|involucrado
@@ -118,7 +118,7 @@ the camp|la acampada
 to hound (same as "to bully")|acosar
 to encourage (starts with a)|animar
 to appeal|apelar
-to contribute|aportar
+to contribute (starts with a)|aportar
 to join up (starts with a)|apuntarse
 to attend|asistir
 the spoils of war|el botín de guerra
