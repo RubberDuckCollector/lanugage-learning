@@ -73,7 +73,7 @@ A register is a piece of memory in a processor that has extremely fast access sp
 
 ### data bus
 
-- bi-directional
+- **bi-directional**
     - meaning data can flow both ways through it
 - transports data and instructions between components
 
