@@ -18,7 +18,7 @@ to dub|doblar
 the dramatist (male)|el dramaturgo
 the dramatist (female)|la dramaturga
 the army (starts with e)|el ejército
-the guts|las entrañas
+the guts (like "entrails")|las entrañas
 to hand over|entregar
 to break out (starts with e)|estallar
 to avoid|evitar
@@ -115,7 +115,7 @@ to restore (sounds a bit like the english)|restaurar
 to withdraw|retirar
 the womens' suffrage|el sufragio femenino
 the lieutenant|el teniente
-to move (starts with t)|trasladar
+to move (not reflexive) (starts with t)|trasladar
 on the eve of|en vísperas de
 the act of contrition|el acto de contrición
 the avenue (it's not avenida)|la alameda

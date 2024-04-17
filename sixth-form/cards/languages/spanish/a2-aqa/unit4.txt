@@ -49,7 +49,7 @@ to lie|mentir
 the activist (male)|el militante
 the activist (female)|la militante
 to be a member of/to be active in a party|militar en un partido
-to demonstrate, to protest (starts with mo)|movilizarse
+to demonstrate, to protest (reflexive) (starts with mo)|movilizarse
 the wave|la ola
 the supporter (male)|el partidario
 the supporter (female)|la partidaria
@@ -61,7 +61,7 @@ the job insecurity|la precariedad laboral
 the proposal|la propuesta
 to claim/to demand|reclamar
 to reclaim (starts with rei)|reivindicar
-the representative (male)|el representatnte
+the representative (male)|el representante
 the representative (female)|la representante
 the trade union|el sindicato
 supportive/caring (masculine)|solidario
@@ -82,7 +82,7 @@ a contract|un contrato
 to pay contributions|cotizar
 to register (3 words)|dar de alta
 the unemployment (starts with d)|el desempleo
-the employees|los empresarios
+the employees (from "empresa")|los empresarios
 in cash|en efectivo
 the job (starts with e)|el empleo
 to find (starts with e)|encontrar
@@ -98,7 +98,7 @@ the job centre (special name)|el INEM
 the income|el ingreso
 the youth|la juventud
 to launch|lanzar
-to demonstrate (starts with m)|manifestarse
+to demonstrate (reflexive) (starts with m)|manifestarse
 to leave (starts with m)|marcharse
 to improve|mejorar
 the labour market|el mercado laboral
@@ -125,15 +125,17 @@ the career/degree|la carerra
 to collaborate|colaborar
 the group|el colectivo
 the committment (also "engagement")|el compromiso
-the comsumer (ends in "ista")|el consumista
-to turn around (3 words)|dar un vuelco
+the comsumer (ends in "ista") (male)|el consumista
+the comsumer (ends in "ista") (female)|la consumista
+to turn around (metaphorically like "to turn your life around") (has a c in it) (3 words)|dar un vuelco
 to owe|deber
 selfish (ends in a)|egoísta
 to enrich|enriquecer
 the effort|el esfuerzo
 the hope|la esperanza
 to be prepared to (3 words)|estar dispuesto a
-to be hopeful|estar esperanzado
+to be hopeful (masculine)|estar esperanzado
+to be hopeful (feminine)|estar esperanzada
 the success|el éxito
 the murder of a woman|el femicidio
 the signature|la firma
@@ -150,7 +152,7 @@ unfortunate/terrible (starts with L)|lamentable
 the freedom of speech|la libertad de expresión
 the university degree|la licenciatura
 the enrolment fee|la matrícula
-the nature (starts with n)|la natrualeza
+the nature (starts with n)|la naturaleza
 the leisure|el ocio
 permissive/indulgent (masculine)|permisivo
 permissive/indulgent (feminine)|permisiva
@@ -159,7 +161,7 @@ the pleasure|el placer
 to consider (starts with p)|plantearse
 to happen (starts with p)|producirse
 the parent (ends in r) (male)|el progenitor
-the parent (ends in r) (female)|la progenitora
+the parent (female)|la progenitora
 promising|prometedor
 to complain|quejarse
 the radio listener (male)|el radioyente
