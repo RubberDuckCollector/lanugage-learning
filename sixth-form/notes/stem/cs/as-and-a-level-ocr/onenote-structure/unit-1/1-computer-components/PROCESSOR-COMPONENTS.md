@@ -63,7 +63,7 @@ A register is a piece of memory in a processor that has extremely fast access sp
     ```
     - `STA` is the operand, the process going on
     - `FIRST` is the data that `STA` is working on
-    - (that line of code is storing the data in FIRST into the accumulator)
+    - (that line of code is telling the CU to issue a memory write signal to store the data in FIRST in the accumulator)
 
 ## Buses
 
