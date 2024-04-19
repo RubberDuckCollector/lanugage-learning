@@ -31,7 +31,7 @@ GPUs are great at graphics processing because:
     - e.g:
         - a GPU will loop `for every vertex in map_geometry` or loop `for every pixel in screen`.
         - we can see how this would be efficient with parallel processing - the screen can be split up into segments handled by groups of cores and be processed in parallel
-        - which is enabled by the thousands of cores, making GPUs unique
+        - which is enabled by the thousands of cores, making GPUs unique because CPUs don't have that many cores
 
 ## Uses
 
