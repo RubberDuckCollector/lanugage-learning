@@ -19,7 +19,7 @@ Table of contents:
 
 # Subject resources
 
-This is a rolling-release collection of my notes and programming journeys that I think the students in my school can make good use of. Particularly the ~3600 Spanish flash cards.
+This is a rolling-release collection of my notes and flash cards that I think are helpful
 
 ## Flash cards
 
