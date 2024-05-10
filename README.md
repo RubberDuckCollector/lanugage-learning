@@ -76,6 +76,8 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
             - Cards are my own from AQA A Level Year 1 and AS Spanish (ISBN: 978-0-19-836690-4)
         - A2:
             - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
+            - Réquiem cards are my own and slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
+                - **do note these spanish words are from the 30s and are archaic (or at least have archaic spelling)**
 
 #### Computer Science
 
