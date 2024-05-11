@@ -223,3 +223,112 @@ the town hall (starts with c)|la casa consistorial
 the mothers-in-law (of the same couple)|las consuegras
 against the grain (2 words) (first word is "a") (has the word for "skin")|a contrapelo
 the living together; coexistence|la convivencia
+the harvest, vintage|la cosecha
+the species of lark|la cotovía
+created, made (masculine)|creado
+created, made (feminine)|creada
+all creation|lo creado
+to grow, to grow up|crecer
+the baby, child (starts with c) (male)|el crío
+the baby, child (starts with c) (female)|la cría
+the chrism, holy oil (can have either el or la, answer this without definite article)|crisma
+contracted, tensed up (masculine)|crispado
+contracted, tensed up (feminine)|crispada
+to make a castanet sound with beak (as a stork)|crotorar
+to crunch (starts with c)|crujir
+the camisole|el cubrecorsé
+the skin, hide; leather (starts with c)|el cuero
+naked (has "en" at the start of the phrase)|en cueros
+the slope; hill (road) (starts wth "cu")|la cuesta
+the blow with rifle butt|el culatazo
+the snake (starts with "cu")|la culebra
+the ass, anus|el culo
+the cradle, cot (starts with "cu")|la cuna
+the ditch; verge|la cuneta
+the quack (pejorative slang for witch doctor) (male)|el curandero
+the quack (pejorative slang for witch doctor) (female)|la curandera
+to cure; treat (a wound)|curar
+to recover, get better (reflexive)|curarse
+the waistcoat (starts with c)|el chaleco
+the singeing, scorching (often indicative of trouble brewing, particularly for heretics) (masculine)|chamusco
+the singeing, scorching (often indicative of trouble brewing, particularly for heretics) (feminine)|chamusca
+to click (make a clicking sound with your toungue), crack your fingers|chascar
+snub-nosed (Republican biplane) (masculine)|chato
+snub-nosed (Republican biplane) (feminine)|chata
+to shriek, scream (starts with "ch")|chillar
+the (fibrous) gourd (a plant)|la chirigaita
+to throw out sparks; sputter|chisporrotear
+the hut, shack|la choza
+to harm (starts with d)|dañar
+to leave; allow; put down; let|dejar
+to leave off, stop doing (has "de" after the word)|dejar de
+to not fail to (has a word before and a word after)|no dejar de
+to let it be understood, imply|dejar entender
+to denounce, inform against (pej.) betray, give away; report|denunciar
+the straight; right|el derecho
+to spill, shed (starts with d)|derramar
+knocked down; laid out (on the floor) (masculine)|derribado
+knocked down; laid out (on the floor) (feminine)|derribada
+ungrateful (starts with d) (masculine)|desagradecido
+ungrateful (starts with d) (feminine)|desagradecida
+to relieve one's feelings; speak one's mind (reflexive)|desahogarse
+disregarded; disrespectful (starts with d) (masculine)|desairado
+disregarded; disrespectful (starts with d) (feminine)|desairada
+the dejection; dismay|el desaliento
+to develop (oneself); evolve (reflexive)|desarrollarse
+to exceed; overflow|desbordar
+barefoor, unshod (masculine)|descalzo
+barefoor, unshod (feminine)|descalza
+the unhappiness; misfortune (starts with d)|la desdicha
+the disbursement; expenditure|el desembolso
+to have nothing to do with; pretend not to know (reflexive)|desentenderse
+the unwillingness, reluctance (starts with d)|la desgana
+the misfortune; bad luck (this word is in the phrase for "unfortunately")|la desgracia
+to fray, get worn, come apart (reflexive)|deshilarse
+the design, plan, purpose|el designio
+uneven|desiugal
+without a nose (masculine)|desnarigado
+without a nose (feminine)|desnarigada
+the skull (hum) (starts with d)|la desnarigada
+rickety; uneven (masculine)|desnivelado
+rickety; uneven (feminine)|desnivelada
+the outspoken statement; impudent remark|el desplante
+the newly-wed (male)|el desposado
+the newly-wed (female)|la desposada
+become detached, work loose, fall off (reflexive)|desprenderse
+dismissed; removed from office; made redundant (starts with d) (masculine)|destituido
+dismissed; removed from office; made redundant (starts with d) (feminine)|destituida
+the loft, attic (starts with d)|el desván
+to keep awake (starts with d)|desvelar
+the shamelessness; impudence|la desvergüenza
+to stop; detain; arrest|detener
+to return something (e.g returning a library book, not returning yourself back to a place) (starts with d)|devolver
+the mischief, monkey tricks|las diabluras
+the coarse/rude remark|el dicharacho
+the tooth|el diente
+the lip service, without meaning it|de dientes afuera
+on the lips|en los dientes
+mumbling, under the breath|entre dientes
+deceased (masculine)|difunto
+deceased (feminine)|difunta
+the seal, medallion, locket; charm|el dije
+the witty remark, colourful saying (Arag) (this is Jerónima's word for "saying")|la dijenda
+to apologise (reflexive)|disculparse
+the speech (starts with d, masculine)|el discurso
+to fire, shoot (this entry of the word is not reflexive)|disparar
+to disintegrate (reflexive)|disgregarse
+the gift (from god), favour (starts with d)|el don
+golden, gilded (masculine)|dorado
+golden, gilded (feminine)|dorada
+the mistress (the 'missus'/lady of the house); the owner|la dueña
+the master; owner; landlord; employer|el dueño
+to throw (out); put in; pur; give; emit|echar
+to take/treat as a joke|echar a broma
+to call a halt|echar el alto
+to catch (literally: "to throw out a hand to")|echar mano a
+to threaten (2 words)|echar roncas
+to send notice (uses "echar")|echar un parte
+well-mannered, polite; cultured (masculine)|educado
+well-mannered, polite; cultured (feminine)|educada
+the axle; axis; crux|el eje
+the praise, tribute (starts with e)|el elogio
