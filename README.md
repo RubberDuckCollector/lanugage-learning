@@ -78,12 +78,6 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
             - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
             - Réquiem cards are my own and slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
                 - **do note these spanish words are from the 30s and are archaic (or at least have archaic spelling)**
-                - Réquiem por un Campesino español
-                - Version: from Manchester University Press
-                - ISBN: 978-0-7190-3222-6
-                - Has a dark green cover with yellow text and starts at page 47
-                - quotes are arranged chronologically by the book's order
-                - earlier quotes are at the top of each doc
 
 #### Computer Science
 
@@ -105,6 +99,12 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 #### Spanish
 
+- Réquiem por un Campesino español
+    - Version: from Manchester University Press
+        - ISBN: 978-0-7190-3222-6
+        - Has a dark green cover with yellow text and starts at page 47
+    - quotes are arranged chronologically by the book's order
+        - earlier quotes are at the top of each doc
 
 Lovely..
 
