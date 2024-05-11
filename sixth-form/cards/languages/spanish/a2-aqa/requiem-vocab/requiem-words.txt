@@ -387,9 +387,35 @@ the tow; burlap (coarse linen)|la estopa
 the running board, stirrup|el estribo
 the scrubber, scourer (starts with e)|el estropajo
 to surprise; find strange (starts with e)|extrañar
-lose, missing; strayed (starts with e) (masculine)|extraviado
-lose, missing; strayed (starts with e) (feminine)|extraviada
+lost, missing; strayed (starts with e) (masculine)|extraviado
+lost, missing; strayed (starts with e) (feminine)|extraviada
 the task, job, labour (starts with f)|la faena
 the band; sas; bandage (starts with f)|la faja
 the bundle (starts with f)|el fajo
 the headlamp, headlight|el faro
+the faith|la fe
+to trust (reflexive)|fiarse
+faithful, loyal (starts with f)|fiel
+to snoop, have a look|fisgar
+thin (masculine)|flaco
+thin (feminine)|flaca
+with a pattern of flowers and branches (starts with f) (masculine)|florido
+with a pattern of flowers and branches (starts with f) (feminine)|florida
+with a pattern of flowers and branches (starts with r) (masculine)|rameado
+with a pattern of flowers and branches (starts with r) (feminine)|rameada
+the vase|el florero
+the kitchen range; hearth|el fogón
+the stranger; outsider; visitor; foreigner (starts with f) (male)|el forastero
+the stranger; outsider; visitor; foreigner (starts with f) (female)|la forastera
+the forge (starts with "fo") (ends with a)|la forja
+the wrought iron devil (last word starts with "fo") (last word ends with a)|el diablo de forja
+the grave (starts with f)|la fosa
+the din, clamour, racket (starts with f)|el fragor
+the free, the day off (starts with f) (like "franc")|el franco
+the coldness; indifference (like the word for "cold")|la frialdad
+to rub|frotar
+the bellows; folding extension on a camera|el fuelle
+the rifle|el fusil
+all dressed up, in one's best clothes (3 words)|vestido de gala
+the raggamuffin, urchin; rogue (starts with g)|el galopín
+the livestock; herd, flock (starts with g)|el ganado
