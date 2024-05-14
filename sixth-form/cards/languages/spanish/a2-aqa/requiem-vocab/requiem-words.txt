@@ -397,8 +397,8 @@ the faith|la fe
 to trust (reflexive)|fiarse
 faithful, loyal (starts with f)|fiel
 to snoop, have a look|fisgar
-thin (masculine)|flaco
-thin (feminine)|flaca
+thin (masculine) (starts with f)|flaco
+thin (feminine) (starts with f)|flaca
 with a pattern of flowers and branches (starts with f) (masculine)|florido
 with a pattern of flowers and branches (starts with f) (feminine)|florida
 with a pattern of flowers and branches (starts with r) (masculine)|rameado
@@ -419,3 +419,246 @@ the rifle|el fusil
 all dressed up, in one's best clothes (3 words)|vestido de gala
 the raggamuffin, urchin; rogue (starts with g)|el galopín
 the livestock; herd, flock (starts with g)|el ganado
+the graceful bearing, fine carriage; attractiveness (starts with g)|el garbo
+the marten (male)|el garduño
+the marten (female)|la garduña
+the expense (starts with g)|el gasto
+to revolve; turn around (like "gyrate") (starts with g)|girar
+the turn; turn of phase (starts with g)|el giro
+the gravel bed|la glera
+to beat, strike (starts with g)|golpear
+the pleasure, joy (starts with g)|el gozo
+the grenade|la granada
+the gravel (5 letters)|la grava
+the book of magic spells (significant word to use in relation to preist's breviary)|el grimorio
+the locket (starts with g)|el guardapelo
+the wink; grimace (starts with g)|el guiño
+the gossip, scandal; heresay (can also be plural but answer singular) (starts with h)|la habladuría
+the estate (starts with h)|la hacienda
+the family finances (2 words) (1st word starts with h)|la hacienda familiar
+flattering (masculine)|halagador
+flattering (feminine)|halagadora
+the rags|los harapos
+the frost (starts with h)|la helada
+the female; woman|la hembra
+to inherit|heredar
+the wound, injury (starts with h)|la herida
+the blacksmith (male)|el herrero
+the blacksmith (female)|la herrera
+the iron; iron tool/weapon; triangle (mus.) (the instrument)|el hierro
+the liver|el hígado
+the spinner (male)|el hilandero
+the spinner (female)|la hilandera
+the row, line (starts with h)|la hilera
+the leaf; one side of double door; sheet|la hoja
+the niche (starts with h)|la hornacina
+the oven, furnace, kiln|el horno
+the vegetable (strictly a green vegetable) (starts with h)|la hortaliza
+hollow; empty (starts with h) (masculine)|hueco
+hollow; empty (starts with h) (feminine)|hueca
+the trace, mark (starts with h)|la huella
+the fertile area of irrigated fields (starts with h)|la huerta
+the kitchen garden (starts with h)|el huerto
+the bone|el hueso
+shy; shifty; fleeting (masculine)|huidizo
+shy; shifty; fleeting (feminine)|huidiza
+the theft, robbery (starts with h)|el hurto
+Iberian tribe (Huesca/Lérida region) (adjective ends in e)|ilgergete
+deluded; a dreamer, visionary (this is an adjective) (masculine)|iluso
+deluded; a dreamer, visionary (this is an adjective) (feminine)|ilusa
+the magnet|el imán
+beardless (adjective ends in e)|imberbe
+crippled, disabled (masculine)|impedido
+crippled, disabled (feminine)|impedida
+the index, forefinger|el índice
+the boast, boasting, arrogance, pretentiousness|la jactancia
+the scrub; thicket|el jaral
+the hierarchy; rank|la jerarquía
+the judge (male)|el juez
+the judge (female)|la jueza
+the judgement; opinion|el juicio
+the Last Judgement|el juicio final
+the oath; swear word (starts with j)|el juramento
+to judge; to try (in court)|juzgar
+carved (in wood) (starts with L) (male)|labrado
+carved (in wood) (starts with L) (female)|labrada
+the farmer; ploughman; peasant (starts with L)|el labrador
+the farmer; ploughwoman; peasant (starts with L)|la labradora
+the agricultural labour, farm work, farming; farm (starts with L)|la labranza
+to bark|ladrar
+the tear (crying)|la lágrima
+to lick (starts with L)|lamer
+glossy; well-groomed (starts with L) (masculine)|lamido
+glossy; well-groomed (starts with L) (feminine)|lamida
+the wool|la lana
+the pity; compassion; shame (starts with L)|la lástima
+the dog Latin (the bad Latin)|el latinajo
+the bed (to sleep in); the riverbed (starts with L)|el lecho
+the lettuce (starts with L)|la lechuga
+to bequeath|legar
+the firewood; sticks|la leña
+the law|la ley
+the nit (creepy crawly)|la liendre
+the piece of linen/canvas (e.g óleo sobre ______)|el lienzo
+to clean, to clean up, to wipe|limpiar
+the strip, lath (which is a stip of wood)|el listón
+the madness, lunacy (starts with L)|la locura
+the flagstone, slab (starts with L)|la losa
+the bright star; morning or evening star|el lucero
+the fighter (male)|el luchador
+the fighter (female)|la luchadora
+the luxury (luxury good, concept of luxury); lavishness|el lujo
+the weeping, lamentation|el llanto
+to whimper, snivel; whine, winge|lloriquear
+the wood|la madera
+the godmother; matron of honour|la madrina
+ugly, repulsive; fierce/cross-looking (masculine)|malcarado
+ugly, repulsive; fierce/cross-looking (feminine)|malcarada
+to curse; speak ill/badly of|maldecir
+the slander, backbiting (starts with m)|la maledicencia
+to cause a rift, set one against each other|malquistar
+mauve (adjective always ends in "a")|malva
+the youth, young man, youngster (old fashioned)|el mancebo
+spot, stain (starts with m)|la mancha
+the mantilla; baby clothes|la mantilla
+the embroidered Spanish shawl|el mantón
+the Manila shawl|el mantón de Manila
+más|PUT SOMETHING HERE IT'S IN THE BOOK
+without further ado|sin más ni menos
+the rattle|la matraca
+the dirty trick (current wartime term)|la maula
+the foreman; overseer; head shepherd (starts with m)|el mayoral
+the club (for bashing things) (starts with m)|el mazo
+pissed on (taboo) (starts with m) (masculine)|meado
+pissed on (taboo) (starts with m) (feminine)|meada
+the rocking chair (starts with m)|la mecedora
+the south (geog.) (the cardinal direction)|el mediodía
+to improve, make better (starts with m)|mejorar
+the swaying, the sway, jerk (starts with m)|el meneo
+the lie|la mentira
+to eat a snack between lunch and supper (to eat an afternoon snack) (starts with m)|merendar
+to mix|mezclar
+the consideration, respect (starts with m)|el miramiento
+the missal or Mass book|el misal
+the poverty, destitution; squalid conditions (like "misery") (starts with m)|la miseria
+the mitre (bishop's headdress/symbol of office)|la mitra
+the dirty face (from game santo in which player's face is dirtied) (starts with m)|la mocarra
+the camp follower (starts with m) (male)|el mochilero
+the camp follower (starts with m) (female)|la mochilera
+wet (starts with m) (masculine)|mojado
+wet (starts with m) (feminine)|mojada
+to grind; mill (starts with m)|moler
+to annoy; bother (starts with m) (like "molest")|molestar
+the alter boy|el monaguillo
+the alter girl|la monaguilla
+the dummy, guy (grotesque figure), jerk (male)|el monicaco
+the dummy, guy (grotesque figure), jerk (female)|la monicaca
+the monk|el monje
+the fly (creepy crawly)|la mosca
+the girl, the lass (starts with m)|la moza
+the lad (starts with m)|el mozalbete
+the tooth (like "molar") (starts with m)|la muela
+the old woman (usually applied to lower class)|la mujeruca
+the stump (of an amputated limb)|el muñón
+the mother-of-pearl|el nácar
+to swim|nadar
+the cloud|la nube
+the knuckle (starts with n)|el nudillo
+to obey (starts with o)|obedecer
+the bishop (starts with o)|el obispo
+the worker (starts with o) (male)|el obrero
+the worker (starts with o) (female)|la obrera
+the occasion; time; opportunity; cause (like "occasion")|la ocasión
+eye; caution; ¡___!; careful!; look out! (don't answer with definite article)|ojo
+crusty-eyes (masculine)|ojisucio
+crusty-eyes (feminine)|ojisucia
+the oil, the holy oil (starts with o)|el óleo
+the navel|el ombligo
+the white artemisia (aromatic plant)|la ontina
+the law and order (m.); order, command (f.)|el orden
+the pride|el orgullo
+the godfather, best man|el padrino
+the beating, the beating up|la paliza
+the corduroy|la pana
+the cloth (cloth rag) (starts with p)|el paño
+the congratulations (starts with p)|el parabién
+the couple (in a relationship); pair (of Civil Guards) (starts with p)|la pareja
+the new mother (woman who has recently given birth) (starts with p)|la parida
+the relative (starts with p) (male)|el pariente
+the relative (starts with p) (female)|la pariente
+to parley (a bit like the english)|parlamentar
+the parish; parish church|la parroquia
+the midwife (starts with p)|la partera
+the step; processional float/tableau for Holy Week (starts with p)|el paso
+to stop, prevent (has "paso") (3 words)|salir al paso
+the pasture; grazing (masculine)|el pasto
+the leg, foot (hum. applied to person)|la pata
+the breast, chest|el pecho
+the blow from a stone (being hit by a stone)|la pedrada
+to stone to death (3 words)|matar a pedradas
+the hailstorm (masculine)|el pedrisco
+to comb (starts with p)|peinar
+the sugared almond|la peladilla
+hairy (masculine)|peludo
+hairy (feminine)|peluda
+the central rib of leaf too tough to eat|la penca
+the earring|el pendiente
+the slut, whore (male)|el pendón
+the slut, whore (female)|la pendóna
+to notice; receive, get (starts with p)|percibir
+the blast of birdshot/pellets|la perdigonada
+the partridge|la perdiz
+the pole (candle-lighter)|la pértiga
+the nightmare|la pesadilla
+the cigarette/cigar case; tobacco pouch|la petaca
+axle grease (answer this without definite article)|pez
+the mischievous act; rude word (starts with p)|la picardía
+the pity; mercy; piety|la piedad
+the skin|la piel
+the font (holy water source)|la pila
+the gut-piercer, belly-puncturer|las pinchatripas
+to walk, tread, step (on) (starts with p)|pisar
+the seedebed (starts with p)|el plantero
+the silver|la plata
+the talk, chat; sermon (starts with p)|la plática
+the lead|el plomo
+to proceed with caution (has "plomo")|andar con pies de plomo
+the power|el poder
+the dust; powder|el polvo
+the glass wine jar with long spout|el porrón
+false, artificial (starts with p)|postizo
+last, final (like "postre") (masculine)|postrero
+last, final (like "postre") (feminine)|postrera
+the colt|el potro
+to announce publicly (starts with p)|pregonar
+the chancel, sancturary (reserved for officiating)|el presbiterio
+the convict, prisoner (starts with p) (male)|el presidiario
+the convict, prisoner (starts with p) (female)|la presidiaria
+the moneylender; pawnbroker (male)|el prestamista
+the moneylender; pawnbroker (female)|la prestamista
+to deprive (starts with p)|privar
+the insolence, brazenness|la procacidad
+dirty; filthy; disgusting (starts with p) (masculine)|puerco
+dirty; filthy; disgusting (starts with p) (feminine)|puerca
+the thumb|el pulgar
+the handful (starts with p)|el puñado
+to complain, protetst; moan, groan (reflexive)|quejarse
+to burn (starts with q)|quemar
+the door-jamb|el quicio
+the radish|el rábano
+furiously; madly (starts with r)|rabiosamente
+cracked; split (starts with r)|rajado
+the branch (of a plant/tree)|el ramo
+the Palm Sunday|el Domingo de Ramos
+the branch (of an organisation) (starts with s)|la sucursal
+the rank|el rango
+the satin (starts with r)|el raso
+to taste sharp; take coating off mouth (starts with r)|raspar
+the trail; track (starts with r)|el rastro
+shaved, shaven (starts with r) (masculine)|rasurado
+shaved, shaven (starts with r) (feminine)|rasurada
+the boundary; (a somewhat figurative) line (starts with r)|la raya
+the flock; herd (of sheep or goats)|el rebaño
+soft in the head; senile (2 words) (starts with r)|reblandecido mental
+to bounce; rebound; ricochet (starts with r)|rebotar
+
