@@ -250,8 +250,7 @@ the quack (pejorative slang for witch doctor) (female)|la curandera
 to cure; treat (a wound)|curar
 to recover, get better (reflexive)|curarse
 the waistcoat (starts with c)|el chaleco
-the singeing, scorching (often indicative of trouble brewing, particularly for heretics) (masculine)|chamusco
-the singeing, scorching (often indicative of trouble brewing, particularly for heretics) (feminine)|chamusca
+the singeing, scorching (often indicative of trouble brewing, particularly for heretics)|el chamusco
 to click (make a clicking sound with your toungue), crack your fingers|chascar
 snub-nosed (Republican biplane) (masculine)|chato
 snub-nosed (Republican biplane) (feminine)|chata
@@ -572,7 +571,7 @@ the occasion; time; opportunity; cause (like "occasion")|la ocasión
 eye; caution; ¡___!; careful!; look out! (don't answer with definite article)|ojo
 crusty-eyes (masculine)|ojisucio
 crusty-eyes (feminine)|ojisucia
-the oil, the holy oil (starts with o)|el óleo
+the oil, the holy oil (starts with ó)|el óleo
 the navel|el ombligo
 the white artemisia (aromatic plant)|la ontina
 the law and order (m.); order, command (f.)|el orden
@@ -703,4 +702,61 @@ the shower; spray; hail (of bullets)|la rociada
 to roll; turn, rotate; travel (starts with "ro")|rodar
 the rhomb (lozenge-shaped object)|el rombo
 the pilgrimage; gathering at local shrine (starts with "ro")|romería
-
+the pilgrim; the rosemary (starts with "ro") (male)|el romero
+the pilgrim (starts with "ro") (female)|la romera
+unexpectedly; without warning (2 words)|de rondón
+the snore, snoring (starts with r)|el ronquido
+the surplice (white church vestment) (starts with r)|el roquete
+the frost (starts with "ro")|la rosada
+to brush against (starts with r)|rozar
+broken (starts with r) (masculine)|roto
+broken (starts with r) (feminine)|rota
+the rumour (starts with "run")|el runrún
+the sheet; bed sheet (starts with s)|la sábana
+the priest (starts with s)|el sacerdote
+the priestess (starts with s)|la sacerdotisa
+the verger, sexton|el sacristán
+the tabernacle (in which consecrated Host is kept) (starts with s)|el sagrario
+salacious, prurient (adjective ends in z)|salaz
+to get one's own way (4 words) (1st word is reflexive)|salirse con la suya
+the grasshopper (starts with s)|el saltamontes
+the quack doctor (starts with s) (male)|el saludador
+the quack doctor (starts with s) (female)|la saludadora
+to save (someone) (starts with s)|salvar
+the condition, proviso (formal) (starts with s)|la salvedad
+to bleed|sangrar
+the holy oil (starts with s)|el santolio
+the anger, wrath (starts with s)|la saña
+the tailor (male)|el sastre
+the tailor (female)|la sastre
+the skirt; petticoat (starts with s)|la saya
+greasy; filthy (starts with s) (masculine)|seboso
+greasy; filthy (starts with s) (feminine)|sebosa
+the silk|la seda
+to reap, cut, mow, harvest (starts with s)|segar
+to sow (starts with s)|sembrar
+the seedbed (starts with s)|el semillero
+the bosom, breast (starts with s)|el seno
+the sign; signal|la señal
+to mark; point out (starts with s)|señalar
+to stand out (reflexive) (starts with s)|señalarse
+the council chamber|el salón de sesión
+the century|el siglo
+the armhole (starts with s)|la sisa
+the soldier (ends in o for male and female) (starts with s) (male)|el soldado
+the soldier (ends in o for male and female) (starts with s) (female)|la soldado
+the corrosive sublimate (poison)|el solimán
+to ring; strike, chime; sound; be talked of; blow (nose) (starts with s)|sonar
+the tip-off, denunciation (starts with s)|el soplo
+deaf (masculine)|sordo
+deaf (feminine)|sorda
+slyly; with humorous sarcasm (2 words)|con sorna
+the draw, drawing lots|el sorteo
+the cassock (church official's long robe) (starts with s)|la sotana
+dirty (starts with s) (masculine)|sucio
+dirty (starts with s) (feminine)|sucia
+to sweat (starts with s)|sudar
+the mother-in-law (starts with s)|la suegra
+the father-in-law (starts with s)|el suegro
+loose (starts with s) (masculine)|suelto
+loose (starts with s) (feminine)|suelta
