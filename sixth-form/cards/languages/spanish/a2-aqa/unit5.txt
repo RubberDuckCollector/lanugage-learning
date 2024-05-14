@@ -47,7 +47,7 @@ the prisoner (starts with p) (masculine)|el preso
 the prisoner (starts with p) (feminine)|la presa
 to star in (starts with p)|protagonizar
 to travel through|recorrer
-to examine/search|registrar
+to examine/search (starts with r)|registrar
 to return (starts with r)|regresar
 to pray|rezar
 to shake/disturb|sacudir
