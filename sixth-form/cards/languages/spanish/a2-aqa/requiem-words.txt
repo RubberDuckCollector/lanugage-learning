@@ -522,8 +522,10 @@ spot, stain (starts with m)|la mancha
 the mantilla; baby clothes|la mantilla
 the embroidered Spanish shawl|el mantón
 the Manila shawl|el mantón de Manila
-más|PUT SOMETHING HERE IT'S IN THE BOOK
-without further ado|sin más ni menos
+more|más
+of little value|de poco más o menos
+rather (2 words) (1st word starts with m)|más bien
+without further/more ado|sin más ni menos
 the rattle|la matraca
 the dirty trick (current wartime term)|la maula
 the foreman; overseer; head shepherd (starts with m)|el mayoral
@@ -750,6 +752,7 @@ to ring; strike, chime; sound; be talked of; blow (nose) (starts with s)|sonar
 the tip-off, denunciation (starts with s)|el soplo
 deaf (masculine)|sordo
 deaf (feminine)|sorda
+the sarcasm, irony (starts with s)|la sorna
 slyly; with humorous sarcasm (2 words)|con sorna
 the draw, drawing lots|el sorteo
 the cassock (church official's long robe) (starts with s)|la sotana
@@ -760,3 +763,93 @@ the mother-in-law (starts with s)|la suegra
 the father-in-law (starts with s)|el suegro
 loose (starts with s) (masculine)|suelto
 loose (starts with s) (feminine)|suelta
+the intercession for soul in Purgatory; sufferage|el sufragio
+to hold (down); subject (starts with s)|sujetar
+substitute (adjective) (adjective ends in e) (starts with s)|suplente
+to whisper, murmur (starts with s)|susurrar
+the plank, board (this entry of the word is feminine)|la tabla
+to click heels (2 words)|juntar talcones
+the long, (heel-length) robes (this is a plural word)|las ropas talares
+to totter, reel (starts with t) (reflexive)|tambalearse
+to cover (up) (starts with t)|tapar
+the job, task (starts with "ta")|la tarea
+the platform, dais (in front of altar) (starts with t)|la tarima
+the ceiling, roof (starts with "tec")|el techo
+the roof (starts with "tej")|el tejado
+fearsome (adjective ends in e)|temible
+the correct humidity of soil for planting (loosely: ideal conditions) (starts with t)|el tempero
+to stretch (starts with t)|tender
+to listen (3 words) (1st word starts with t)|tender la oreja
+the terrain, ground (this entry of the word is masculine) (starts with t)|el terreno
+the treasure (starts with t)|el tesoro
+the aunt (direct translation); old bag (pej.)|la tía
+lukewarm; cool; unenthusiastic (starts with t) (masculine)|tibio
+lukewarm; cool; unenthusiastic (starts with t) (feminine)|tibia
+the scissors (can be either sing. or plural, this entry of the word is singular)|la tijera
+to know on good authority (4 words)|saber de buena tinta
+the uncle (direct translation); fellow, guy (fam.)|el tío
+to throw; shoot (starts with t)|tirar
+the ankle|el tobillo
+to touch; to play (mus.); ring; toll; peal|tocar
+the curfew (3 words) (1st word starts with t)|el toque de queda
+the goblin (starts with t)|el trasgo
+the lumber, junk; stage props (starts with "tr")|el trasto
+the distance, stretch of the road (starts with "tr")|el trecho
+terrible, dreadful; awesome; awful (like "tremendous") (masculine)|tremendo
+terrible, dreadful; awesome; awful (like "tremendous") (feminine)|tremenda
+the trap, snare; trick, swindle, fraud (starts with "tr")|la trampa
+the threshing|la trilla
+to play, gambol, romp (starts with "tr")|triscar
+lopped off, split (starts with "tr") (masculine)|tronchado
+lopped off, split (starts with "tr") (feminine)|tronchada
+the mob, crowd, throng; rush, haste (starts with "tr")|el tropel
+the gadabout (pejorative bc this is said to Jerónima in a flurry of insults) (female)|la trotona
+the piece; fragment, snatch (starts with "tr")|el trozo
+the trout|la trucha
+the catafalque (starts with tú)|el túmulo
+the confusion; mistiness (starts with "tu")|la turbiedad
+to address as "tú" (fam.)|tutear
+the nails (on fingers and toes)|las uñas
+the usage, custom|la usanza
+to wander, roam (starts with v)|vagar
+the rod (starts with "va")|la vara
+the measuring rod, yardstick (4 words) (1st word starts with v)|la vara de medir
+the vessel; container (starts with "vasi")|la vasija
+the neighbourhood; local community, residents (starts with v)|el vecindario
+annoying; insulting, humiliating; degrading (starts with v) (masculine)|vejatorio
+annoying; insulting, humiliating; degrading (starts with v) (feminine)|vejatoria
+the dressing, bandage (starts with v)|el vendaje
+the poison, venom (starts with v)|el veneno
+to sniff, smell, get the scent (starts with "ve")|ventear
+the executioner; tormentor (starts with v) (male)|el verdugo
+the executioner; tormentor (starts with v) (idk if this word has a female version) (female)|la verduga
+the rod, stick (starts with "ve")|la verga
+the shame (starts with "ver")|la vergüenza
+the grating, grille; railing|la verja
+the wart (starts with v)|la verruga
+the victim (word and its article are always feminine)|la víctima
+the sacrificial victim, scapegoat|la víctima propiciatoria
+the wind|el viento
+to get the scent (3 words)|tomar el viento
+to (keep) watch (over) (a tiny bit like "vigilant")|vigilar
+the cruet (Mass water and wine)|la vinajera
+the vineyard (this entry of the word is feminine)|la viña
+the eve, day/evening before|la víspera
+the cheers (starts with v)|los vítores
+the display cabinet (starts with v)|la vitrina
+blown open (starts with v) (masculine)|volado
+blown open (starts with v) (feminine)|volada
+the overhanging balconies|los balcones volados
+to fly (starts with v)|volar
+to peal (of bells) (starts with v)|voltear
+to eat; have lunch (the book just says "food" for this one. how helpful.) (starts with y)|yantar
+the mare (starts with y)|la yegua
+the anvil|el yunque
+the boy, lad (starts with z)|el zagal
+the girl, lass (starts with z)|la zagala
+the fawning|la zalema
+the heel; midjet, dwarf (pej.) (answer this as a masculine noun)|el zancajo
+the shoe maker, cobbler (male)|el zapatero
+the shoe maker, cobbler (female)|la zapatera
+the bramble (starts with z)|la zarza
+the dregs; trash; bow-legged, bandy (starts with z)|la zurrapa
