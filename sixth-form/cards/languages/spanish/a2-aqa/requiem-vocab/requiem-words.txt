@@ -90,7 +90,7 @@ to risk|arriesgar
 to take a risk, to risk oneself (reflexive)|arriesgarse
 the support; attachment|el arrimo
 to kneel (reflexive)|arrodillarse
-to roll up|arrollar
+to roll up (starts with a)|arrollar
 the wrinkle; crease; fold (this is written down in the book as a diminutive)|la arruguita
 the trap, snare|la asechanza
 the loathing, disgust, revulsion|el asco
@@ -647,7 +647,7 @@ to burn (starts with q)|quemar
 the door-jamb|el quicio
 the radish|el rábano
 furiously; madly (starts with r)|rabiosamente
-cracked; split (starts with r)|rajado
+cracked; split (starts with "ra")|rajado
 the branch (of a plant/tree)|el ramo
 the Palm Sunday|el Domingo de Ramos
 the branch (of an organisation) (starts with s)|la sucursal
@@ -659,6 +659,48 @@ shaved, shaven (starts with r) (masculine)|rasurado
 shaved, shaven (starts with r) (feminine)|rasurada
 the boundary; (a somewhat figurative) line (starts with r)|la raya
 the flock; herd (of sheep or goats)|el rebaño
-soft in the head; senile (2 words) (starts with r)|reblandecido mental
+soft in the head; senile (2 words) (starts with r) (masculine)|reblandecido mental
+soft in the head; senile (2 words) (starts with r) (feminine)|reblandecida mental
 to bounce; rebound; ricochet (starts with r)|rebotar
+suspicious, distrustful (starts with r) (masculine)|receloso
+suspicious, distrustful (starts with r) (feminine)|recelosa
+to resort to; fall back to (starts with r)|recurrir
+twirled, curled (of moustache) (starts with r) (masculine)|redondeado
+twirled, curled (of moustache) (starts with r) (feminine)|redondeada
+round (starts with r) (masculine)|redondo
+round (starts with r) (feminine)|redonda
+the proverb, saying (a bit like "refrain")|el refrán
+endorsed; repeated (starts with r) (masculine)|refrendado
+endorsed; repeated (starts with r) (feminine)|refrendada
+to water, irrigate (starts with r)|regar
+to search (starts with r)|registrar
+to neigh, whinny, snort (starts with r)|relinchar
+stuffed (starts with r) (masculine)|relleno
+stuffed (starts with r) (feminine)|rellena
+to roll up (sleeves, trousers, skirts) (starts with r)|remangar
+the end, tip, top; finishing touch; killing off (starts with r)|el remate
+to reprimand; quarrel, fight (starts with "ren")|reñir
+the accused person or (person) under sentence of death; prisoner (male)|el reo
+the accused person or (person) under sentence of death; prisoner (female)|la rea
+the small guitar; clarinet (starts with r)|el requinto
+to slip (up) (starts with r)|resbalar
+to save oneself (for) (e.g las perdices) (reflexive)|reservarse
+cracked, split (starts with "re") (masculine)|resquebrajado
+cracked, split (starts with "re") (feminine)|resquebrajada
+paid (starts with "ret") (masculine)|retribuido
+paid (starts with "ret") (feminine)|retribuida
+to burst; pop (e.g pop a balloon) (starts with r)|reventar
+to burst out/split one's sides laughing (3 words)|reventar de risa
+to fly about; circle; hover (starts with r)|revolotear
+mischevous, naughty; rebellious (a bit like "revolt") (starts with r) (masculine)|revoltoso
+mischevous, naughty; rebellious (a bit like "revolt") (starts with r) (feminine)|revoltosa
+to pray|rezar
+call to urge animals on (can't find this word online) (answer without definite article)|riia
+the kidney|el riñón
+curled, curlY; fluted, ridged (starts with r) (masculine)|rizado
+curled, curly; fluted, ridged (starts with r) (feminine)|rizada
+the shower; spray; hail (of bullets)|la rociada
+to roll; turn, rotate; travel (starts with "ro")|rodar
+the rhomb (lozenge-shaped object)|el rombo
+the pilgrimage; gathering at local shrine (starts with "ro")|romería
 
