@@ -822,7 +822,7 @@ the dressing, bandage (starts with v)|el vendaje
 the poison, venom (starts with v)|el veneno
 to sniff, smell, get the scent (starts with "ve")|ventear
 the executioner; tormentor (starts with v) (male)|el verdugo
-the executioner; tormentor (starts with v) (idk if this word has a female version) (female)|la verduga
+the executioner; tormentor (starts with v) (female)|la verduga
 the rod, stick (starts with "ve")|la verga
 the shame (starts with "ver")|la vergüenza
 the grating, grille; railing|la verja
