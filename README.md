@@ -35,6 +35,8 @@ Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderu
 
 For my own version of quizlet write, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)
 
+**Don't be surprised if there are very slight inconsistencies such as a masculine or male form of a word being present but not the feminine or female, and a very occasional typo. If you find an error, submit a pull request or email me <eggsim49@gmail.com>**
+
 ### Languages
 
 - my flash card sets are more usable than the ones in the textbook.
