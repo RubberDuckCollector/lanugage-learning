@@ -3,7 +3,7 @@ the pavement|la acera
 the event (starts with a)|el acontecimiento
 the agreement|el acuerdo
 the nickname|el apodo
-to take advantage of|aprovechar
+to take advantage of, leverage, make the most of|aprovechar
 to show (starts with a)|asomar
 the great grandfather|el bisabuelo
 the great grandmother|la bisabuela
@@ -21,17 +21,17 @@ the army (starts with e)|el ejército
 the guts (like "entrails")|las entrañas
 to hand over|entregar
 to break out (starts with e)|estallar
-to avoid|evitar
+to avoid (starts with "evi")|evitar
 ghostly|fantasmal
 to sign|firmar
 the extract|el fragmento
-the forge|la fragua
+the forge (starts with "fr")|la fragua
 the war front|el frente
 the flight (starts with f)|la fuga
 the gun (starts with f)|el fusil
 the scythe|la hoz
 to flee|huir
-to work (starts with L)|laborar
+to work (starts with L) (has an o in it)|laborar
 distant (masculine)|lejano
 distant (feminine)|lejana
 the leadership|el liderazgo
@@ -41,21 +41,22 @@ the early hours|la madrugada
 birth (adjective) (e.g birth country)|natal
 the working class (starts with o)|el obrero
 the squad|el pelotón
-sadly (starts with p)|penosamente
+sadly (starts with p) (adjective ends in e)|penosamente
 the lead (the metal)|el plomo
 the prisoner (starts with p) (masculine)|el preso
 the prisoner (starts with p) (feminine)|la presa
 to star in (starts with p)|protagonizar
 to travel through|recorrer
 to examine/search (starts with r)|registrar
-to return (starts with r)|regresar
+to return (starts with "reg")|regresar
 to pray|rezar
 to shake/disturb|sacudir
 the trade union|el sindicato
 to fly over|sobrevolar
 to provide (starts with s)|suministrar
 season (1 word) (starts with t)|la temporada
-the passerby|el transeúnte
+the passerby (only article changes between genders) (male)|el transeúnte
+the passerby (only article changes between genders) (female)|la transeúnte
 the burial mound|el túmulo
 the executioner (male)|el verdugo
 the executioner (female)|la verduga
@@ -79,13 +80,13 @@ the effigy|la efigie
 to draw up|elaborar
 to lead/to head|encabezar
 to face|enfrentar
-to be wrong|equivocarse
-the expectation|la expectiva
+to be wrong (reflexive)|equivocarse
+the expectation|la expectativa
 to die (starts with f)|fallecer
-failed (masculine)|fallido
-failed (feminine)|fallida
+failed (starts with "fal") (masculine)|fallido
+failed (starts with "fal") (feminine)|fallida
 the grave (starts with f)|la fosa
-to become (starts with h)|hacerse
+to become (starts with h) (reflexive)|hacerse
 heir/successor (male)|el heredero
 heir/successor (female)|la heredera
 in honour of|en honor a
@@ -98,14 +99,14 @@ to manage/to succeed|lograr
 by means of (starts with m)|mediante
 the currency (same as "coins")|la moneda
 to grant (starts wih o)|otorgar
-peacefully (starts with p)|pacíficamente
+peacefully (starts with p) (adjective ends in e)|pacíficamente
 the location (starts with p)|el paradero
 to perish|perecer
 the permanence/remaining|la permanencia
 to survive (starts with p)|pervivir
 the commoner (male)|el plebeyo
 the commoner (female)|la plebeya
-to bring to light (starts with poner)|poner de manifiesto
+to bring to light (3 words) (starts with poner)|poner de manifiesto
 as, given that (2 words) (starts with p)|puesto que
 to revive (it's reavivar) (there are like 5 synonyms for this all starting with r)|reavivar
 the regime|el régimen
@@ -114,11 +115,12 @@ to reestablish|restablecer
 to restore (sounds a bit like the english)|restaurar
 to withdraw|retirar
 the womens' suffrage|el sufragio femenino
-the lieutenant|el teniente
-to move (not reflexive) (starts with t)|trasladar
+the lieutenant (only article changes between genders) (male)|el teniente
+the lieutenant (only article changes between genders) (female)|la teniente
+to move (starts with t)|trasladar
 on the eve of|en vísperas de
 the act of contrition|el acto de contrición
-the avenue (it's not avenida)|la alameda
+the avenue, tree-lined path, poplar grove (it's not avenida)|la alameda
 the breath (starts with a)|el aliento
 to burn (starts with a)|arder
 to overrun (starts with a)|avasallar
@@ -128,9 +130,10 @@ the prison|la cárcel
 the censorship|la censura
 to concede|conceder
 to condemn|condenar
-the behaviour (starts with c) (feminine)|la conducta
+the behaviour (starts with "con") (feminine)|la conducta
 the fulfilment|el cumplimiento
-to overthrow (it's derribar and the other one's derrocar)|derribar
+to overthrow (starts with "derri")|derribar
+to overthrow (starts with "derro")|derrocar
 the overthrow|el derrocamiento
 to break out (starts with d)|desembocar
 the dismantling|el desmantelamiento
@@ -149,16 +152,17 @@ the farm/estate|la hacienda
 relentless (no gender) (starts with i)|implacable
 to initiate (starts with i)|iniciar
 to barge in|irrumpir
-the opponent (like "opposition")|el opositor
-the penalty, sentence|la pena
-the damage (starts with p)|el perjuicio
+the opponent (like "opposition") (male)|el opositor
+the opponent (like "opposition") (female)|la opositora
+the penalty, sentence (starts with p)|la pena
+the (metaphorical) damage (e.g to a reputation) (starts with p)|el perjuicio
 to persue|perseguir
 subsequent (starts with p)|posterior
 last (it's "postre" with an extra letter)|postrer
-to catch fire|prenderse fuego
+to catch fire (reflexive)|prenderse fuego
 to bring about (starts with propi)|propiciar
 to cause (starts with p)|provocar
-to be lowered|rebajarse
+to be lowered (reflexive)|rebajarse
 the imprisonment (starts with r)|la reclusión
 the resource|el recurso
 the surrender|la rendición

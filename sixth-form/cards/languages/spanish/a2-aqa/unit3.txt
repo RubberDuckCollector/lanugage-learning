@@ -22,7 +22,7 @@ the site, location, summons (to appear in court) (starts with e)|el emplazamient
 to shut away|encerrar
 to enlarge (starts with e)|engrandecer
 to enrich|enriquecer
-to come into force|entrar en vigor
+to come into force (a law)|entrar en vigor
 to school, to teach, provide regular schooling|escolarizar
 state (adjective form)|estatal
 to stigmatise|estigmatizar
@@ -32,9 +32,9 @@ appropriate, fit, ideal (starts with i) (masculine)|idóneo
 appropriate, fit, ideal (starts with i) (feminine)|idónea
 the nature/kind (starts with í)|la índole
 to encourage/to induce|inducir a
-to register (like "inscribe") (reflexive) (starts with i)|inscribirse
+to register (reflexive) (starts with i)|inscribirse
 inclusive (masculine ends in r) (masculine)|integrador
-inclusive (feminine ends in ra) (feminine)|integradora
+inclusive (feminine ends in "ra") (feminine)|integradora
 retired (masculine)|jubilado
 retired (feminine)|jubilada
 to retire (reflexive)|jubilarse
@@ -55,13 +55,13 @@ full (starts with p) (feminine)|plena
 appreciated (starts with p) (masculine)|preciado
 appreciated (starts with p) (feminine)|preciada
 to prevail|prevalecer
-to predominate (starts with pri)|primar
+to predominate (starts with "pri")|primar
 comes from|procedente de
-to provide (starts with p)|proporcionar
+to provide (starts with "pro")|proporcionar
 the people|el pueblo
 to reject|rechazar
-spread, distributed (masculine)|repartido
-spread, distributed (feminine)|repartida
+spread, distributed (starts with r) (masculine)|repartido
+spread, distributed (starts with r) (feminine)|repartida
 to restrict|restringir
 the political persuasion|el signo político
 the workshop|el taller
@@ -82,30 +82,30 @@ the groups (starts with b)|las bandas
 the surgeon (male)|el cirujano
 the surgeon (female)|la cirujana
 to condemn|condenar
-to trust|confiar
-combination/outfit/music group (starts with con)|el conjunto
+to trust (starts with c)|confiar
+combination/outfit/music group (starts with "con")|el conjunto
 to convince|convencer
 to run the risk|correr el riesgo
 second hand|de segunda mano
 the right (to do something)|el derecho
 the MP (male)|el diputado
 the MP (female)|la diputada
-to set off for|dirigirse a
-to reduce (starts with d)|disminuir
+to set off for (reflexive)|dirigirse a
+to reduce (starts with "dis")|disminuir
 the dominicans|los dominicanos
 to destroy (3 words)|echar por tierra
-to choose (starts with es)|escoger
-to avoid|evitar
+to choose (starts with "es")|escoger
+to avoid (starts with "evi")|evitar
 the success|el éxito
 foreign (masculine)|extranjero
 foreign (feminine)|extranjera
 the failure|el fracaso
 the thumps|los golpes
 the guatemalans|los guatemaltecos
-to pay attention (2 words starts with h)|hacer caso
+to pay attention to (3 words starts with h)|hacer caso a
 humble (adjective ends in e)|humilde
-together (masculine)|junto
-together (feminine)|junta
+together (masculine)|juntos
+together (feminine)|juntas
 the godmother|la madrina
 to enroll (reflexive) (starts with m)|matricularse
 the myth|el mito
@@ -113,8 +113,9 @@ the level|el nivel
 the chest (anatomy)|el pecho
 to damage (starts with p)|perjudicar
 to remain (starts with p)|permanecer
-the politicians|los políticos
-to put a stop to|poner remedio
+the politicians (male)|los políticos
+the politicians (female)|las políticas
+to put a stop to (3 words) (last word is "a")|poner remedio a
 the puerto ricans|los puertoriqueños
 to complain (reflexive)|quejarse
 the rage|la rabia
@@ -124,7 +125,7 @@ the performance (starts with r)|el rendimiento
 to delay (starts with r)|retrasar
 the salvadorians|los salvadoreños
 to kidnap|secuestrar
-to feel (emotions)|sentirse
+to feel (emotions) (reflexive)|sentirse
 to request (like "solicit")|solicitar
 to underline|subrayar
 the luck|la suerte
@@ -135,9 +136,10 @@ clinging (starts with a) (feminine)|aferrada
 the scope/area/environment/field (starts with á)|el ámbito
 the wide range|la amplia gama
 the apostasy|la apostasía
-leant on, leaning on|apoyado en
+leant on, leaning on (masculine)|apoyado en
+leant on, leaning on (feminine)|apoyada en
 to hurry (refelxive) (starts with a)|apresuarse
-harmoniously|armónicamente
+harmoniously (adjective ends in e)|armónicamente
 the fasting|el ayuno
 the witch|la bruja
 the witchcraft|la brujería
@@ -147,15 +149,15 @@ committed to (has "a" after the word) (masculine)|comprometido a
 committed to (has "a" after the word) (feminine)|comprometida a
 the convert (masculine)|el converso
 the convert (feminine)|la conversa
-to convene|convocar
+to convene (starts with "con")|convocar
 the religion (starts with c)|el culto
 facing (3 words)|de cara a
 the deity|la deidad
 the deviation|la desviación
 to deviate|desviar
 to double (like "duplicate")|duplicar
-prominent (like "emblematic") (masculine)|emblemático
-prominent (like "emblematic") (feminine)|emblemática
+prominent (starts with e) (masculine)|emblemático
+prominent (starts with e) (feminine)|emblemática
 to establish, start something, begin something (starts with "en")|entablar
 to hand over (starts with e)|entregar
 the ladder|la escalera
@@ -179,14 +181,15 @@ the hit from a stone (starts with pe)|la pedrada
 to pursue/to prosecute|perseguir
 the firecracker (starts with p)|el petardo
 to try (in a case)|procesar
-related to|relacionado con
+related to (masculine)|relacionado con
+related to (feminine)|relacionada con
 unusual (starts with s)|singular
 the noose|la soga
 the magic, sorcery|el sortilegio
 the fabric (starts with t)|el tejido
 the witness (male)|el testigo
-the witness (female)|la testiga
-to shiver (starts with ti)|tiritar
+the witness (female)|la testigo
+to shiver (starts with "ti")|tiritar
 the court (starts with t)|el tribunal
 the score (of 20)|la veintena
 to defeat|vencer

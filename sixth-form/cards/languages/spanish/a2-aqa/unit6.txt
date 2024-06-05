@@ -16,8 +16,8 @@ the MP (male)|el diputado
 the MP (female)|la diputada
 come to and end, dissolved (masculine)|disuelto
 come to and end, dissolved (feminine)|disuelta
-to climb, (like "scale")|escalar
-to make an effort (starts with e)|esforzarse
+to climb, (starts with "es")|escalar
+to make an effort (starts with e) (reflexive)|esforzarse
 the outbreak (of a conflict) (starts with e)|el estallido
 to be fed up of (masculine)|estar harto de
 to be fed up of (feminine)|estar harta de
@@ -29,31 +29,32 @@ to record (starts with g)|grabar
 the inheritance (starts with h, also "lecacy")|la herencia
 the mortgage|la hipoteca
 the strike|la huelga
-to prevent (like "impede")|impedir
+to prevent (starts with i)|impedir
 to outrage (starts with i)|indignar
 the hierarchy|la jerarquía
-to retire|jubilarse
+to retire (reflexive)|jubilarse
 the scourge (also "blot", "mark", starts with L)|la lacra
-the protestors (starts with m)|los manifestantes
-to protest (starts with m, not reflexive)|manifestar
+the protestors (starts with m) (noun ends in e) (male)|los manifestantes
+the protestors (starts with m) (noun ends in e) (female)|las manifestantes
+to protest (starts with "ma")|manifestar
 the gag|la mordaza
 to fine, to impose a fine|multar
-to oppose to|oponerse a
+to oppose to (reflexive)|oponerse a
 the placard/banner|la pancarta
 the unemployment (starts with p)|el paro
 the patrol|la patrulla
 the danger|el peligro
-to punish (starts with p, has a after the word)|penarse a
+to punish (starts with p, has a after the word) (reflexive)|penarse a
 the permission|el permiso
 to try (starts with p)|pretender
 to promote (ends in "-ver")|promover
-to protest (like "protest")|protestar
+to protest (starts with p)|protestar
 to cause (starts with p, like "provoke")|provocar
 the rejection|el rechazo
 the risk|el riesgo
 the headquarters|la sede
 the trade union|el sindicato
-the salary (starts with su)|el sueldo
+the salary (starts with "su")|el sueldo
 to cover (like "tap")|tapar
 to tweet|tuitear
 approaching (starts with v) (masculine)|venidero
@@ -62,29 +63,31 @@ the shame (starts with v)|la vergüenza
 the activism|el activismo
 the agreement|el acuerdo
 the membership (like "afiliation")|la afiliación
-the member (like "afiliated") (male)|el afiliado
-the member (like "afiliated") (female)|la afiliada
-the members (like "afiliated") (male)|los afiliados
-the members (like "afiliated") (female)|las afiliadas
+the member (starts with "af") (male)|el afiliado
+the member (starts with "af") (female)|la afiliada
+the members (starts with "af") (male)|los afiliados
+the members (starts with "af") (female)|las afiliadas
 the altercations, rows|los altercados
 the field of work|el ámbito laboral
 to intimidate (starts with a)|amedrentar
 to support|apoyar
-the support|el apoyo
+the support (starts with "ap")|el apoyo
 to take advantage of (reflexive) (has "de" after the word)|aprovecharse de
-to suffocate (like "asfixiate", starts with a)|asfixiar
+to suffocate (starts with "as")|asfixiar
 the austerity|la austeridad
 the wellbeing|el bienestar
 the prison|la cárcel
-to rub shoulders with|codearse con
+to rub shoulders with (reflexive)|codearse con
 to call a strike|convocar a una huelga
 the leadership (starts with c)|la cúpula
 to defend (starts with d)|defender
 the inequality|la desigualdad
 to crush (like "un-inflate")|desinflar
 to negotiate (starts with d, like "dialogue")|dialogar
-the managers (starts with d)|los dirigentes
-the employees (starts with em)|los empleados
+the managers (starts with d) (noun ends in e) (male)|los dirigentes
+the managers (starts with d) (noun ends in e) (female)|las dirigentes
+the employees (starts with "em") (male)|los empleados
+the employees (starts with "em") (female)|las empleadas
 the businesses (starts with e)|las empresas
 to be in charge of (reflexive)|encargarse de
 the factories|las fábricas
@@ -109,17 +112,17 @@ to protect|proteger
 to bankrupt|quebrar
 the characteristic, feature|el rasgo
 the cuts|los recortes
-to support (like "re-back")|respaldar
+to support (starts with r)|respaldar
 unionised (masculine)|sindicalizado
 unionised (feminine)|sindicalizada
 the trend|la tendencia
-to look out for (starts with v)|velar
+to look out for (starts with "ve")|velar
 the camp|la acampada
 to hound (same as "to bully")|acosar
 to encourage (starts with a)|animar
 to appeal|apelar
 to contribute (starts with a)|aportar
-to join up (starts with a)|apuntarse
+to join up (starts with a) (reflexive)|apuntarse
 to attend|asistir
 the spoils of war|el botín de guerra
 the search (starts with b)|la búsqueda
@@ -128,7 +131,7 @@ to punish|castigar
 illegal (starts with c) (masculine)|clandestino
 illegal (starts with c) (feminine)|clandestina
 the key (starts with c)|la clave
-to calculate (like "compute oneself")|computarse
+to calculate (starts with "comp") (reflexive)|computarse
 to make aware (starts with c)|concienciar
 to sentence (starts with c)|condenar
 to corrupt (starts with c)|corromper
@@ -143,5 +146,6 @@ the hopelessness (starts with d)|la desesperación
 to march (also "to parade")|desfilar
 the disobedience|la desobediencia
 the detractors (male)|los detractores
+the detractors (female)|las detractoras
 the dictatorship|la dictadura
 to twist (starts with d)|distorsionar
