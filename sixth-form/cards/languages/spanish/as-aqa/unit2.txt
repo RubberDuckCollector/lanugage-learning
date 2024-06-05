@@ -13,7 +13,7 @@ the cyberscape|el ciberespacio
 to buy|comprar
 to share|compartir
 to communicate|comunicar
-to connect (reflexive)|conectarse
+to connect (reflexive) (reflexive)|conectarse
 the consumer (male)|el consumidor
 the consumer (female)|la consumidora
 the consumption|el consumo
@@ -45,7 +45,7 @@ to print|imprimir
 the internet user (male) (only article changes with gender)|el internauta
 the internet user (female) (only article changes with gender)|la internauta
 to invest|invertir
-to log into facebook (uses meterse)|meterse en Facebook
+to log into facebook (uses meterse) (reflexive)|meterse en Facebook
 the browser|el navegador
 to surf|navegar
 the computer (starts with o)|el ordenador
@@ -140,7 +140,7 @@ the piracy|la piratería
 the privacy (starts with a p)|la privacidad
 private (masculine)|privado
 private (feminine)|privada
-to carry out|realizar
+to carry out (starts with r)|realizar
 to recieve|recibir
 the social network|la red social
 to restrict|restringir

@@ -1,5 +1,5 @@
 the event|el acontecimiento
-to get used to (starts with "a")|acostumbrarse
+to get used to (starts with "a") (reflexive)|acostumbrarse
 the hobby/pastime (starts with "a")|la afición
 the supporter/fan (starts with a) (male)|el aficionado
 the supporter/fan (starts with a) (female)|la aficionada
@@ -13,7 +13,7 @@ the age-old ceremony (2 words)|la ceremonia ancestral
 the deity, god|la deidad
 the parade, procession (starts with "d")|el desfile
 to highlight, to stand out|destacar
-to dress up|disfrazarse
+to dress up (reflexive)|disfrazarse
 the survey (starts with "e")|la encuesta
 squalid (masculine)|escuálido
 squalid (feminine)|escuálida
@@ -23,7 +23,7 @@ the festival, celebration|la festividad
 to encourage (starts with "f")|fomentar
 the cattle breeder, stockbreeder (male)|el ganadero
 the cattle breeder, stockbreeder (female)|la ganadera
-to get used to (starts with "h")|habituarse
+to get used to (starts with "h") (reflexive)|habituarse
 the gastronomic conference day (2 words (begins with j)|la jornada gastronómica
 the farm worker (male)|el labrador
 the farm worker (female)|la labradora
@@ -33,7 +33,7 @@ to prevail/to predominate|predominar
 to burn|quemar
 to replace|reemplazar
 to give a present|regalar
-to meet, to get together (starts with r)|reunirse
+to meet, to get together (starts with r) (reflexive)|reunirse
 to jump|saltar
 the semester, term|el semestre
 the survey (starts with s)|el sondeo
@@ -59,7 +59,7 @@ sought-after/valued (feminine)|cotizada
 to grow (like "cultivate")|cultivar
 the crops (ends in "o")|el cultivo
 the small pastry/pie|la empanadilla
-to be in charge of, to take responsibility for (has "de" after the word)|encargarse de
+to be in charge of, to take responsibility for (has "de" after the word) (reflexive)|encargarse de
 to cool, chill|enfriar
 exquisite (masculine)|exquisito
 exquisite (feminine)|exquisita
@@ -87,7 +87,7 @@ the trend|la tendencia
 the wheat|el trigo
 the piece|el trozo
 the accent|el acento
-to adapt|adaptarse
+to adapt (reflexive)|adaptarse
 to adopt|adoptar
 the alphabet|el alfabeto
 the illiteracy|el analfabetismo
@@ -104,7 +104,7 @@ the teaching|la enseñanza
 the intonation|la entonación
 the evolution|la evolución
 to evolve|evolucionar
-to express oneself|expresarse
+to express oneself (reflexive)|expresarse
 the speaker of a language (male)|el hablante
 the speaker of a language (female)|la hablante
 the slang, jargon|la jerga

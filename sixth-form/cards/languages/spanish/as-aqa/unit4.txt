@@ -9,14 +9,14 @@ the good will|la buena voluntad
 the singer songwriter (male)|el cantautor
 the singer songwriter (female)|la cantautora
 the behaviour (ends with o)|el comportamiento
-to behave (starts with c)|comportarse
+to behave (starts with c) (reflexive)|comportarse
 the musical piece|la composición
 the composer (male)|el compositor
 the composer (female)|la compositora
 the commitment|el compromiso
 the live concert|el concierto en vivo
 the musical competition|el concurso musical
-the behaviour (ends with a)|la conducta
+the behaviour (starts with "con")|la conducta
 the band (starts with c)|el conjunto musical
 the choreography|la coreografía
 to create controversy|crear polémica
@@ -60,7 +60,7 @@ the chapter/episode|el capítulo
 the filmmaker (always ends in a) (male)|el cineasta
 the filmmaker (always ends in a) (female)|la cineasta
 to make aware/to raise awareness (starts with c)|concienciar
-to become aware/to be sensitive to something (starts with c)|concienciarse
+to become aware/to be sensitive to something (starts with c) (reflexive)|concienciarse
 to achieve success|conseguir éxito
 to tell a story|contar una historia
 to fulfil a dream|cumplir un sueño
@@ -131,17 +131,17 @@ the investment|la inversión
 to invest|invertir
 the luxury|el lujo
 the makeup|el maquillaje
-to put on makeup|maquillarse
+to put on makeup (reflexive)|maquillarse
 the measures|las medidas
 large size model ("model" always ends in o) (male)|el modelo de tallas grandes
 large size model ("model" always ends in o) (female)|la modelo de tallas grandes
-to become obsessed with|obsesionarse con
+to become obsessed with (reflexive)|obsesionarse con
 the body (starts with o)|el organismo
 the body (starts with c)|el cuerpo
 the catwalk|la pasarela
 the Cibeles fashion show in Madrid|la Pasarela Cibeles
 to sponsor|patrocinar
-to go on a diet (3 words)|ponerse a dieta
+to go on a diet (3 words) (reflexive)|ponerse a dieta
 the piece of clothing, garment (3 words) (starts with p)|la prenda de ropa
 the face (starts with r)|el rostro
 fashion week (4 words) (starts with s)|la semana de la moda

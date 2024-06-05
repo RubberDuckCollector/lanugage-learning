@@ -50,7 +50,7 @@ illegal (starts with c) (masculine)|clandestino
 illegal (starts with c) (feminine)|clandestina
 to organise (starts with c)|convocar
 to disappear|desaparecer
-to arrest (starts with d and is reflexive)|detenerse
+to arrest (starts with d) (reflexive)|detenerse
 the dictatorship|la dictadura
 the dignity|la dignidad
 pregnant|embarazada
@@ -86,7 +86,7 @@ drunk (masculine)|borracho
 drunk (feminine)|borracha
 the campaign|la campaña
 the police station|la comisaría
-to become (noun) (has "en" after the word)|convertirse en
+to become (noun) (has "en" after the word) (reflexive)|convertirse en
 suddenly|de repente
 the hate crime|el crimen de odio
 to report (a crime)|denunciar

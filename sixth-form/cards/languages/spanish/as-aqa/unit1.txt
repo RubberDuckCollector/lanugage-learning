@@ -18,7 +18,7 @@ the independence (starts with e)|la emancipación
 the pregnancy|el embarazo
 the emphasis|el énfasis
 to show (starts with e)|enseñar
-to choose|escoger
+to choose (starts with "es")|escoger
 the effort|el esfuerzo
 the husband (starts with e)|lo esposo
 the wife (starts with e)|la esposa
@@ -40,7 +40,7 @@ a backward step (4 words)|un paso hacia atrás
 the feather duster|el plumero
 the handful|el puñado
 the reward (like "re-compensation")|la recompensa
-to complain|quejarse
+to complain (reflexive)|quejarse
 shining, shiny (starts with r) (ends with e)|reluciente
 the century|el siglo
 to usually do something|soler
@@ -75,8 +75,8 @@ consensual (feminine)|consensuada
 to define|definir
 to abolish (starts with d)|derogar
 disappearance|la desaparición
-to go up/to shoot/to fire|dispararse
-to double (up)|duplicarse
+to go up/to shoot/to fire (reflexive)|dispararse
+to double (up) (reflexive)|duplicarse
 worsened (masculine)|empeorado
 worsened (feminine)|empeorada
 in fashion|de moda
@@ -88,17 +88,17 @@ to face|enfrentar
 to mess with|enredar
 to become law (3 words)|entrar en vigor
 the foam|la espuma
-to become established|estabilizarse
+to become established (reflexive)|estabilizarse
 the phenomenon|el fenómeno
 the failure|el fracaso
 swollen (masculine)|hinchado
 swollen (feminine)|hinchada
 the smoke|el humo
 to stress (this is a formal word, to place emphasis on)|incidir
-the court|el juzgado
+the court (starts with j)|el juzgado
 the goal (starts with m)|la meta
 the half|la mitad
-the triviality|la nimiedad
+the triviality (starts with n)|la nimiedad
 the headscarf/handkerchief|el pañuelo
 through the roof|por las nubes
 the precept, rule|el precepto
@@ -109,7 +109,7 @@ the psychologist (female)|la psicóloga
 the jab|la punzada
 the support (starts with r) (comes from respaldar)|el respaldo
 the respect|el respeto
-the challenge|el reto
+the challenge (starts with r)|el reto
 to revoke|revocar
 to come close to|rozar
 bluntly (2 words)|sin ambages
@@ -152,7 +152,7 @@ to tread on|pisar
 to predict|predecir
 to give something (as a present, or, to gift)|regalar
 to rescue|rescatar
-to become secular|secularizarse
+to become secular (reflexive)|secularizarse
 to take the place of|suplantar
 the link (starts with v)|el vínculo
 the experience (starts with v)|la vivencia
