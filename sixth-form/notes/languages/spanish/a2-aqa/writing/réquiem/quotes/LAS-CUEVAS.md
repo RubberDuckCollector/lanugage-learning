@@ -1,23 +1,11 @@
-1. "vestida de harapos." *Página 61*
-    - Destaca su pobreza
-        - no pueden permitirse la ropa regular
-
-1. "No había otra ventilación que la de la puerta exterior." *Página 61*
-    - Los ancianos tienen que vivir en la cueva sin aire fresco
-        - algo que dan por hecho los cuidadanos del pueblo
-
-1. "En un rincón había un camastro de tablas," *Página 61*
-    - También no pueden permitirse una cama adecuada
-        - los ancianos no tienen nada
-            - por eso es como el pueblo y la iglesia católica los ha olvidado
-
-1. "Pies de labrador." *Página 61*
-    - los ancianos han estado laborando durante un plazo muy largo
-
-1. "No había luz, ni agua, ni fuego." *Página 61*
-    - Los ancianos son los más pobres en el mundo entero
-        - porque no tienen nada de valor
-            - no tienen las necesidades para sobrevivir en la sociedad
-
-1. "tenía prisa por salir." *Página 61* 
-    - Mosén Millán (MM) a él no le importan los ancianos que estén en vías de morir y vivir sin su hijo inocente
+| Cita                                                      | Página | ¿Qué muestra?                                                                                                                                                                      |
+|-----------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "vestida de harapos"                                      | 60     | > Destaca la pobreza de los ancianos<br> > no pueden permitirse la ropa regular                                                                                                    |
+| "No había otra ventilación que la de la puerta exterior." | 61     | > Los anicanos tienen que vivir en la cueva sin aire fresco<br> > algo que dan por hecho los del pueblo                                                                            |
+| "En un rincón había un camastro de tablas"                | 61     | > También no pueden permitirse una cama adecuada<br> > los ancianos no tienen nada<br> > es como el pueblo y la iglesia los han olvidado, MM no hace nada más que la extremaunción |
+| "El cura no dijo nada"                                    | 61     | > MM no habla a la gente a pesar de lo que podría hacer para alegrar el agonizane y su esposa                                                                                      |
+| "Pies de labrador"                                        | 61     | > los ancianos llevan muchísimos años laborando sin cobrar mucho                                                                                                                   |
+| "grandes, secos, resquebrajados"                          | 61     | > el agonizante trabaja desde hace su vida entera
+| "aquell ahorrible tarea de respirar"                      | 61     | > muestra el nivel de sufrimiento del agonizante<br> > la tarea trivial de respirar se convirte en durísimo
+| "No había luz, ni agua, ni fuego"                         | 61     | > son los más pobres del mundo entero, tienen menos que los humanos hace diez mil años<br> > no tienen lo más adecuado para llevar vidas modernas
+| "[MM] tenía prisa por salir"                              | 61     | > MM a él no le importan los ancianos  > solo quiere hacer el mínimo para ellos

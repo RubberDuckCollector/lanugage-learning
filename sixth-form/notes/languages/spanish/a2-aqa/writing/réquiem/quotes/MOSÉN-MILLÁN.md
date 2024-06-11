@@ -1,41 +1,14 @@
-1. "un saltamontes atrapado" *Página 47*
-    - Demuestra el hecho que Mosén Millán (MM) está restringido en la vida y solamente puede servir como cura
-
-1. "la sal ha perdido su sabor" *Página 48*
-    - MM ha sido cura durante tanto tiempo que ya no encontra satisfacción en su trabajo, aunque es un trabajo muy importante para su pueblo
-
-1. "—Aquí el otro padre" *Página 51*
-    - MM tiene un papel súper importante (un gran significado) en la familia de Paco
-    - Es el padre espiritual de Paco...
-        - Por que bautiza a Paco
-            - Y se siente frente al padre de Paco cuando comen en el bautismo de Paquito
-        - Además, el cura es un puesto profesional muy respetado en el campo en España...
-            - Por parte de la población muy religiosa en el campo y en los años treinta también
-
-1. "reservándose para las perdices." *Página 51*
-    - MM sólo escucha su bárriga
-        - a él no le importan los acontecimeintos importantes
-            - tal como el bautizo de Paquito
-
-1. "Mosén Millán tenía prisa por salir," *Página 61*
-    - A él no le importa el sufrimiento ni la calidad de vida de los ancianos
-    - Se puede ver las pensamientos de Mosén Millán a través de su falta de cuidado
-
-1. "aquella prisa le parecía poco cristiana." *Página 61*
-    - Paco se da cuenta de que MM no está haciendo cosas de forma adecuada hacia los ancianos
-        - muestra que Paco sabe que MM quizás no es un cura agradable, pero siguen siendo amigos
-
-1. "Hay cosas peores que la pobreza." *Página 62*
-    - Demuestra la arrogancia de MM
-    - MM mienta a Paco porque no quiere tocar el tema de la pobreza...
-        - porque es responsable por el sufrimeinto, teniendo un cargo tan importante como cura 
-
-1. "Él me denunció" *Página 96*
-    - A pesar de ser amigos con Paco, le traiciona independientemente...
-        - porque es corrompido
-        - no entiende el valor de su ámbito o las personas que conoce
-
-hello world
-*hello world*
-**hello world**
-***hello world***
+| Cita                                                       | Página | ¿Qué muestra?                                                                                                                                                                                                                                                                                    |
+|------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| "un saltamontes atrapado"                                  | 47     | > el saltamontes es un símbolo de MM estando restringido en su vida como cura                                                                                                                                                                                                                    |
+| "cincuenta y un años [...] habían creado un automatismo"   | 47     | > muestra que es un poco viejo<br> > ya no tiene que hacer esfuerzo para rozar<br> > ha sido cura desde hace muchísimos años                                                                                                                                                                     |
+| "Esperaba que los parientes del difunto acudirían"         | 47     | > MM se siente culpable por el perjuicio que ha causado dentro de la familia de Paco y quiere ver a la familia para mejorar la situación                                                                                                                                                         |
+| "la sal ha perdido su sabor"                               | 48     | > él ya no encontra satisfacción en su trabajo, aunque es un trabajo muy importante para su pueblo<br> > significando que no ama su trabajo ya                                                                                                                                                   |
+| "—Aquí el otro padre"                                      | 51     | > muestra la súper importancia de MM en la aldea<br> > es el padre espiritual de Paco porque lo bautizó<br> > es otro padre debido a su puesto respetado de cura<br> > un cargo en la iglesia católica era muy importante en los años treinta                                                    |
+| "reservándose para las perdices"                           | 51     | > MM sólo escucha su bárriga<br> > quizás debido a su "automatismo", ya no piensa que los acontecimientos santos merecen la pena                                                                                                                                                                 |
+| "Veintiséis años después se acordaba de aquellas perdices" | 51     | > muestra que las perdices han sido lo más importante del día del bautismo de Paquito - MM sólo piensa en los eventos con buena comida
+| "—Cállate, Jerónima— —Un médico es un médico—"             | 53     | > MM tiene algún conocimiento de las ciencias y la atención médica<br> > sabe que un médico con requisitos de la medicina puede curar a los niños más que una saludadora
+| "[MM] tenía prisa por salir"                               | 61     | > a él no le importa el sufrimiento de los ancianos<br> > se ve las creencias de MM a través de sus acciones                                                                                                                                                                                     |
+| "aquella prisa le parecía poco cristiana"                  | 61     | > se ve la primera creencia en la hoja que va en contra de la crianza pro-católica de Paco<br> > Paco se da cuenta de qué poco hace MM para el agonizante y su marida                                                                                                                            |
+| "Hay cosas peores que la pobreza"                          | 62     | > muestra la arrogancia de MM<br> > en realidad, no hay nada peor que la situación de esa familia pero MM mient a Paco de forma breve para que no dijera más<br> > MM sabe que él es responsable por no mejorar el destino de los ancianos y la firmeza de su respuesta muestra sus sentimientos |
+| "Él me denunció"                                           | 96     | > a pesar de ser amigos, MM traiciona a Paco de forma grave<br> > muestra la falta de esmero por parte de MM sobre la vida y la vida de los demás, a pesar de ser familia o no<br> > no entiende el valor de su ámbito o su poder como sacerdote                                                 |

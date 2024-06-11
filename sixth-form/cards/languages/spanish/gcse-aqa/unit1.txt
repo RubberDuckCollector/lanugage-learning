@@ -57,7 +57,7 @@ together (masculine)|juntos
 together (feminine)|juntas
 the freedom|la libertad
 the way (starts with m)|la manera
-to bother|molestar
+to bother, annoy|molestar
 to hear about (2 verbs and de on the end)|oír hablar de
 to forget|olvidar
 proud (masculine)|orgulloso
@@ -92,8 +92,8 @@ next (starts with p) (feminine)|próxima
 the place (starts with s)|el sitio
 alone, only (masculine)|solo
 alone, only (feminine)|sola
-single (ends in "-tero" (masculine)|soltero
-single (ends in "-tero" (feminine)|soltera
+single (masculine)|soltero
+single (feminine)|soltera
 to be lucky|tener suerte
 now|ahora
 someone|alguien
@@ -110,7 +110,7 @@ to pay|pagar
 the partner (starts with p)|la pareja
 the skin|la piel
 on the other hand|por otro lado
-sensetive (adjective ends in e)|sensible
+sensitive (adjective ends in e)|sensible
 the user (masculine)|el usuario
 the user (feminine)|la usuaria
 the widow|la vidua

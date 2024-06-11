@@ -1,5 +1,5 @@
 to take in|acoger
-to contribute|aportar
+to contribute (starts with "ap")|aportar
 to support (starts with "ap")|apoyar
 to risk (oneself) (reflexive)|arriesgarse
 the political asylum|el asilo político
@@ -14,7 +14,7 @@ the boat (starts with e)|la embarcación
 to push|empujar
 to enrich|enriquecer
 the lack, scarcity (starts with e)|la escasez
-to choose (starts with e)|escoger
+to choose (starts with "es")|escoger
 the hope|la esperanza
 the foreigner (male)|el extranjero
 the foreigner (female)|la extranjera
@@ -64,13 +64,13 @@ to change|cambiar
 the census|el censo
 the citizenship|la ciudadanía
 the colonies|las colonias
-to share|compartir
+to share (starts with c)|compartir
 to live with|convivir
 to grow up (also "to grow")|crecer
 to leave (starts with d)|dejar
 the destination|el destino
 to spread (starts with d)|difundir
-to head (starts with d also "to lead")|dirigir
+to lead, to head (starts with d)|dirigir
 the stability|la estabilidad
 to break out (starts with e)|estallar
 the lack of (starts with f)|la falta de
@@ -92,18 +92,18 @@ to stay (starts with p)|permanecer
 to try your luck|probar suerte
 the post/position (starts with p)|el puesto
 to strengthen/to reinforce|reforzar
-to live (like "reside") (starts with r)|residir
+to live (starts with r)|residir
 to return (starts with "ret")|retornar
 the Castro revolution|la revolución castrista
 the wealth|la riqueza
 to save (starts with s)|salvar
 to carry on/to follow|seguir
-to highlight (starts with s)|señalar
+to highlight (starts with "se")|señalar
 the European Union|la Unión Europea
 to travel (starts with v)|viajar
 to camp out|acampar
 to accept/to embrace, take in|acoger
-to go deep into|adentrar
+to go deep into (starts with "ad")|adentrar
 to drown (reflexive)|ahogarse
 to arrest (starts with a)|apresar
 the support (starts with "arra")|el arraigo
@@ -111,11 +111,12 @@ the arrival|el arribo
 the legal advice|el asesoramiento jurídico
 native (starts with a) (masculine)|autóctono
 native (starts with a) (feminine)|autóctona
-to help (starts with au)|auxiliar
+to help (starts with "au")|auxiliar
 to fall (starts with c)|caer
 the refugee centre|el centro de asistencia
 to get (starts with c)|conseguir
-the smuggler|el contrabandista
+the smuggler (male)|el contrabandista
+the smuggler (female)|la contrabandista
 to cross|cruzar
 to look after|cuidar
 to deport|deportar
@@ -161,8 +162,8 @@ to land (2 words 1st word starts with t)|tocar tierra
 the trafficker (male)|el traficante
 the trafficker (female)|la traficante
 to process (paperwork)|tramitar
-to carry (starts with t)|transportar
-to move (starts with t)|trasladar
+to carry (starts with "tran")|transportar
+to move (starts with "tras")|trasladar
 the treatment/the agreement|el trato
 the journey (starts with "trav")|la travesía
 the journey (starts with "tray")|el trayecto

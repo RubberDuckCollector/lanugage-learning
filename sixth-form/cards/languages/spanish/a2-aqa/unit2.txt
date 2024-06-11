@@ -9,7 +9,7 @@ shocked (starts with "an") (masculine)|anonadado
 shocked (starts with "an") (feminine)|anonadada
 to stab|apuñalar
 the weapon|el arma
-to astonish, to amaze|asombrar
+to astonish, to amaze (starts with "as")|asombrar
 to disgust|asquear
 to frighten (starts with "as")|asustar
 the slap|la bofetada
@@ -19,14 +19,14 @@ the slum dweller (male)|el chabolista
 the slum dweller (female)|la chabolista
 the behaviour (starts with com)|el comportamiento
 to behave (starts with c) (reflexive)|comportarse
-the behavoiur (starts with "con")|la conducta
+the behaviour (starts with "con")|la conducta
 to set an example (2 words)|dar ejemplo
 to slap somebody (3 words)|dar un manotazo
 narrow minded|de mente cerrada
 the hate crime|el delito de odio
 to discourage|desalentar
 the push|el empujón
-to get angry (reflexive)|enfadarse
+to get angry (starts with "enf") (reflexive)|enfadarse
 the confrontation|el enfrentamiento
 to face, to confront (has a after the word) (reflexive)|enfrentarse a
 to sing racist chants|entonar cantos racistas
@@ -42,12 +42,12 @@ the football fan (female)|la hincha
 jewish (masculine)|judío
 jewish (feminine)|judía
 the thief (male)|el ladrón
-the thief (female)|el ladrona
+the thief (female)|la ladrona
 to beg (starts with m)|mendigar
 the muslim|el musulmán
 to suffer (starts with p)|padecer
 to beg (starts with p, 2 words)|pedir limosna
-to come from (starts with p)|proceder de
+to come from (starts with "proc")|proceder de
 to reject|rechazar
 to laugh at (reflexive)|reírse de
 to reproach|reprochar
@@ -66,12 +66,12 @@ to tackle|abordar
 to welcome|acoger
 to put up with, to tolerate|aguantar
 to reach|alcanzar
-the field|el ámbito
+the field (starts with á)|el ámbito
 to encourage someone|animar a
 to announce/to advertise (starts with "an")|anunciar
 to applaud|aplaudir
 to support|apoyar
-to warn (starts with a)|avisar
+to warn (starts with "av")|avisar
 the warning|el aviso
 two yearly|bienal
 the CCTV camera|la cámara de vigilancia
@@ -151,8 +151,8 @@ to beat (3 words)|dar/propinar una paliza
 the crime (starts with "delin")|la delincuencia
 the criminal, delinquent (male)|el delincuente
 the criminal, delinquent (female)|la delincuente
-to commit a crime (starts with deli)|delinquir
-the crime|el delito
+to commit a crime (starts with "deli")|delinquir
+the crime (starts with d)|el delito
 to get rid of (starts with d 2 words) (reflexive)|deshacerse de
 the arrest|la detención
 to apologise (starts with d) (reflexive)|disculparse
@@ -162,13 +162,13 @@ chilling (adjective ends in e)|escalofriante
 the hooligan (male)|el gamberro
 the hooligan (female)|la gamberra
 to guarantee|garantizar
-to stop (impede)|impedir
+to stop (starts with "im")|impedir
 the compensation (starts with i)|la indemnización
 to compensate (starts with i)|indemnizar
 the minor offence|la infracción leve
 the judge (male)|el juez
-the judge (female)|el jueza
-the court/tribunal|el juzgado
+the judge (female)|la jueza
+the court/tribunal (starts with j)|el juzgado
 to judge|juzgar
 to fine|multar
 to refuse to (reflexive)|negarse a
@@ -178,13 +178,13 @@ to apologise (2 words)|pedir disculpas
 the death penalty|la pena de muerte
 to penalise|penalizar
 to harm/to be detrimental (starts with p)|perjudicar
-to give a fine|poner una multa
+to give a fine (3 words)|poner una multa
 the benefits (starts with p)|las prestaciones
 ban, prohibition|la prohibición
 to ban, to prohibit|prohibir
 on purpose|a propósito
 to remove, take away (starts with q)|quitar
-to fine (sanction)|sancionar
+to fine, sanction|sancionar
 to sentence (starts with s)|sentenciar
 to be aware of (3 words)|ser consciente de
 to bear in mind (3 words)|tener en cuenta

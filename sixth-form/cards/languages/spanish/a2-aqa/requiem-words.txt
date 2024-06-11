@@ -14,8 +14,8 @@ to pursue; urge on (same as "to bully")|acosar
 to come, gather around (same as "to go to" as in, "to go to the polls") (starts with a)|acudir
 to accuse; show (starts with "ac")|acusar
 to confess (like "accuse") (reflexive)|acusarse
-devoted, loyal (like "adidicted") (masculine)|adicto
-devoted, loyal (like "adidicted") (feminine)|adicta
+devoted, loyal (like "addicted") (masculine)|adicto
+devoted, loyal (like "addicted") (feminine)|adicta
 the land agent (male)|el administrador
 the land agent (female)|la administradora
 the dressing, pickling mixture|el adobo
@@ -30,7 +30,7 @@ to turn sour|agriar
 the hole|el agujero
 to sharpen (starts with "ag")|aguzar
 to prick up one's ears (3 words) (1st word starts with "agu")|aguzar el oído
-do dig deep|ahondar
+to dig deep (starts with "ah")|ahondar
 smoked, smoky (masculine)|ahumado
 smoked, smoky (feminine)|ahumada
 to scare/drive away; keep off (starts with "ah")|ahuyentar
@@ -239,7 +239,7 @@ to crunch (starts with c)|crujir
 the camisole|el cubrecorsé
 the skin, hide; leather (starts with c)|el cuero
 naked (has "en" at the start of the phrase)|en cueros
-the slope; hill (road) (starts wth "cu")|la cuesta
+the slope; hill (road) (starts with "cu")|la cuesta
 the blow with rifle butt|el culatazo
 the snake (starts with "cu")|la culebra
 the ass, anus|el culo
@@ -273,7 +273,7 @@ ungrateful (starts with d) (feminine)|desagradecida
 to relieve one's feelings; speak one's mind (reflexive)|desahogarse
 disregarded; disrespectful (starts with d) (masculine)|desairado
 disregarded; disrespectful (starts with d) (feminine)|desairada
-the dejection; dismay|el desaliento
+the dejection; dismay (starts with "de")|el desaliento
 to develop (oneself); evolve (reflexive)|desarrollarse
 to exceed; overflow|desbordar
 barefoot, unshod (masculine)|descalzo
@@ -313,7 +313,7 @@ deceased (feminine) (starts with d)|difunta
 the seal, medallion, locket; charm|el dije
 the witty remark, colourful saying (Arag) (this is Jerónima's word for "saying")|la dijenda
 to apologise (reflexive)|disculparse
-the speech (starts with d, masculine)|el discurso
+the speech (like "discourse") (masculine)|el discurso
 to fire, shoot (this entry of the word is not reflexive)|disparar
 to disintegrate (starts with "disg") (reflexive)|disgregarse
 the gift (from god), favour (starts with d)|el don
@@ -359,7 +359,7 @@ half-open (masculine)|entreabierto
 half-open (feminine)|entreabierta
 to deliver, hand over|entregar
 to surrender, to give in (starts with e) (reflexive)|entregarse
-to become a widow/widower, to be widowed|enviduar
+to become a widow/widower, to be widowed|enviudar
 the epic poem|la epopeya
 erect, straight; proud (masculine)|erguido
 erect, straight; proud (feminine)|erguida
@@ -526,7 +526,7 @@ the Manila shawl|el mantón de Manila
 more|más
 of little value|de poco más o menos
 rather (2 words) (1st word starts with m)|más bien
-without further/more ado|sin más ni menos
+without further/more ado|sin más ni más
 the rattle|la matraca
 the dirty trick (current wartime term)|la maula
 the foreman; overseer; head shepherd (starts with m)|el mayoral
@@ -629,7 +629,7 @@ the power|el poder
 the dust; powder|el polvo
 the glass wine jar with long spout|el porrón
 false, artificial (starts with p) (masculine)|postizo
-false, artificial (starts with p) (feminine)|postizo
+false, artificial (starts with p) (feminine)|postiza
 last, final (like "postre") (masculine)|postrero
 last, final (like "postre") (feminine)|postrera
 the colt|el potro
@@ -744,7 +744,7 @@ the seedbed (starts with s)|el semillero
 the bosom, breast (starts with s)|el seno
 the sign; signal|la señal
 to mark; point out (starts with "señ")|señalar
-to stand out (reflexive) (starts with s)|señalarse
+to stand out (reflexive) (starts with "se")|señalarse
 the council chamber|el salón de sesión
 the century|el siglo
 the armhole (starts with s)|la sisa
@@ -850,7 +850,7 @@ the mare (starts with y)|la yegua
 the anvil|el yunque
 the boy, lad (starts with z)|el zagal
 the girl, lass (starts with z)|la zagala
-the fawning|la zalema
+the fawning (starts with "zale")|la zalema
 the heel; midjet, dwarf (pej.) (answer this as a masculine noun)|el zancajo
 the shoe maker, cobbler (male)|el zapatero
 the shoe maker, cobbler (female)|la zapatera
@@ -858,10 +858,11 @@ the bramble (starts with z)|la zarza
 the dregs; trash; bow-legged, bandy (starts with z)|la zurrapa
 the alcohol, the drinking (this entry of the word is masculine) (starts with j)|el jarro
 the bell peppers (american), the peppers (british)|los pimientos
-the olive|la oliva
+the olive (starts with o)|la oliva
 the last rites|la extremaunción
 the obscenity|la obscenidad
 the meaning|el sentido
 (it's just as well); luckily; it's a good job; thank god! (2 words)|menos mal
 affable; good-natured, sociable (adjective ends in e)|afable
 bigshot (answer without article)|Cabarrús
+irreverent, disrespectful (adjective ends in e)|irreverente

@@ -89,7 +89,7 @@ the grave (starts with f)|la fosa
 to become (starts with h) (reflexive)|hacerse
 heir/successor (male)|el heredero
 heir/successor (female)|la heredera
-in honour of|en honor a
+in honour of (3 words)|en honor a
 the strike|la huelga
 unexpected (masculine)|improvisto
 unexpected (feminine)|improvista
@@ -120,7 +120,7 @@ the lieutenant (only article changes between genders) (female)|la teniente
 to move (starts with t)|trasladar
 on the eve of|en vísperas de
 the act of contrition|el acto de contrición
-the avenue, tree-lined path, poplar grove (it's not avenida)|la alameda
+the avenue, tree-lined path, poplar grove (starts with "al")|la alameda
 the breath (starts with a)|el aliento
 to burn (starts with a)|arder
 to overrun (starts with a)|avasallar
@@ -134,7 +134,7 @@ the behaviour (starts with "con") (feminine)|la conducta
 the fulfilment|el cumplimiento
 to overthrow (starts with "derri")|derribar
 to overthrow (starts with "derro")|derrocar
-the overthrow|el derrocamiento
+the overthrow (starts with "derro")|el derrocamiento
 to break out (starts with d)|desembocar
 the dismantling|el desmantelamiento
 to dismantle (starts with "desma")|desmantelar
@@ -160,7 +160,7 @@ to persue|perseguir
 subsequent (starts with p)|posterior
 last (it's "postre" with an extra letter)|postrer
 to catch fire (reflexive)|prenderse fuego
-to bring about (starts with propi)|propiciar
+to bring about (starts with "propi")|propiciar
 to cause (starts with p)|provocar
 to be lowered (reflexive)|rebajarse
 the imprisonment (starts with r)|la reclusión
@@ -170,12 +170,12 @@ the prisoner (starts with r) (masculine)|el reo
 the prisoner (starts with r) (feminine)|la rea
 repressive (masculine)|represivo
 repressive (feminine)|represiva
-the break (like "rupture") ((starts with r)|la ruptura
+the break (starts with "ru")|la ruptura
 the preist (starts with s)|el sacerdote
 to come to light|salir a la luz
 to kidnap (starts with s)|secuestrar
 without trial|sin juicio
-to ask for (to solicit)|solicitar
+to ask for (starts with "so")|solicitar
 the subordinate (male) (not subordinado)|el subalterno
 the subordinate (female) (not subordinada)|la subalterna
 to happen (starts with s)|suceder

@@ -126,8 +126,8 @@ to delay (starts with r)|retrasar
 the salvadorians|los salvadoreños
 to kidnap|secuestrar
 to feel (emotions) (reflexive)|sentirse
-to request (like "solicit")|solicitar
-to underline|subrayar
+to request (starts with s)|solicitar
+to underline (starts with "su")|subrayar
 the luck|la suerte
 to bear in mind|tener en cuenta
 the fortune telling (like "divination")|la adivinación
@@ -155,7 +155,7 @@ facing (3 words)|de cara a
 the deity|la deidad
 the deviation|la desviación
 to deviate|desviar
-to double (like "duplicate")|duplicar
+to double (starts with "du")|duplicar
 prominent (starts with e) (masculine)|emblemático
 prominent (starts with e) (feminine)|emblemática
 to establish, start something, begin something (starts with "en")|entablar

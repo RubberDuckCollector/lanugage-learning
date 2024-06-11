@@ -83,7 +83,7 @@ the leadership (starts with c)|la cúpula
 to defend (starts with d)|defender
 the inequality|la desigualdad
 to crush (like "un-inflate")|desinflar
-to negotiate (starts with d, like "dialogue")|dialogar
+to negotiate (starts with "di")|dialogar
 the managers (starts with d) (noun ends in e) (male)|los dirigentes
 the managers (starts with d) (noun ends in e) (female)|las dirigentes
 the employees (starts with "em") (male)|los empleados
