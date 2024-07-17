@@ -1,17 +1,15 @@
 to get on with (2 words)|auskommen mit
-to look like, to appear + case|aussehen
+to look like, to appear|aussehen
 both|beide
 to describe|beschreiben
-certainly (starts with b)|bestimmt
 the cousin (male)|der Cousin (-s)
 the cousin (female)|die Cousine (-n)
 the family|die Familie (-n)
 the woman, wife|die Frau (-en)
 the boyfriend, friend who just so happens to be a boy|der Freund (-en)
 the girlfriend, friend who just so happens to be a girl|die Freundin (-nen)
-to give (the direct object)+ case|geben + accusative
-to give (to the indirect object) + case|geben + dative
-to like, to please + case|gefallen + dative
+to give|geben
+to like, to please (case)|gefallen (dative)
 the community, group|die Gemeinschaft (-en)
 the present, gift|das Geschenk (-e)
 divorced|geschieden
@@ -19,7 +17,7 @@ there is/there are|es gibt
 to be lucky|Glück haben
 happy|glücklich
 the grandparents|die Großeltern
-the grandmother|dieGroßmutter (¨)
+the grandmother|die Großmutter (¨)
 the grandfather|der Großvater (¨)
 each, every|jeder, jede, jedes
 single, unmarried (starts with L)|ledig
@@ -51,7 +49,7 @@ together|zusammen
 the habit|die Angewohnheit (-en)
 to get annoyed (reflexive)|sich ärgern
 to discuss|besprechen
-the relationship (starts with b)|die Beziehung (-en)
+the relationship (starts with B)|die Beziehung (-en)
 to break up|in die Brüche gehen
 now and then|dann und wann
 the marriage|die Ehe (-n)
@@ -124,7 +122,7 @@ to decrease, to lose weight|abnehmen
 the idea|die Ahnung (-en)
 the bridegroom|der Bräutigam (-e)
 the pressure|der Druck (-e)
-to try out|erproben
+to try out (starts with e)|erproben
 shared together, in common|gemeinsam
 social|gesellschaftlich
 the household|der Haushalt (-e)

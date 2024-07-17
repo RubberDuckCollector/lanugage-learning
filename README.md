@@ -48,7 +48,6 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
 
 - Flash cards:
     - Cannot find any active GCSE or A level courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
-        - Tell me instantly if you find a Dutch textbook from the UK. I know that UCL has a Dutch course and I've already applied to it.
     - Have fun with a sparratic mix of topics
     - Dutch flash cards have plurals for all nouns because it's a bit confusing
 
@@ -64,11 +63,6 @@ For my own version of quizlet write, check out [quizlet-write](https://github.co
             - Cards are my own from AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
 
 #### Spanish
-
-- Will be responding to all AQA AS speaking cards
-- unfortunately in the interest of doing what i'm good at i will be making them docx documents
-    - (markdown rewrite coming someday?)
-- i will still make them available here regardless. just don't want to use any proprietary standards
 
 - Flash cards:
     - GCSE:

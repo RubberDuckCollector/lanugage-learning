@@ -1,0 +1,63 @@
+the age|das Alter
+the (job) training|die Ausbildung (-en)
+the apprentice, trainee (male)|der Azubi (-s) (Auszubildende)
+the apprentice, trainee (female)|die Azubi (-s) (Auszubildende)
+the construction worker (male)|der Bauarbeiter (-)
+the construction worker (female)|die Bauarbeiterin (-nen)
+the work experience (starts with B)|die Berufspraxis (-praxen)
+the vocational training school|die Berufsschule (-n)
+the application|die Bewerbung (-en)
+single, only|einzig
+to (do casual) work|jobben
+the young person (male)|der Jugendliche (-n)
+the young person (female)|die Jugendliche (-n)
+to succeed, to work (starts with k)|klappen
+boring|langweilig
+the lorry driver (male)|der LKW-Fahrer (-)
+the lorry driver (female)|die LKW-Fahrerin (-nen)
+the minimum wage|der Mindestlohn (-¨e)
+to think over something|nachdenken
+the priority|die Priorität (-en)
+puncutal, on time|pünktlich
+the university place|der Studienplatz (-¨e)
+the studies (starts with Studiu)|das Studium
+the studies (starts with Studie)|das Studien
+really|wirklich
+by chance|zufällig
+the experience of work|die Arbeitserfahrung (-)
+the baked goods (pl) (no article)|Backwaren
+to serve|bedienen
+to treat, to handle|behandeln
+the careers adviser|der Berufsberater (-)
+the bookshop|die Buchhandlung (-)
+the office worker (male)|der Büroangestellte (-n)
+the office worker (female)|die Büroangestellte (-n)
+rather|eher
+to decide (reflexive)|(sich) entscheiden
+the example|das Exemplar (-e)
+under no circumstances (3 words)|auf keinen Fall
+to make, to produce (starts with h)|herstellen
+the career|die Karriere (-n)
+the plumber (male)|der Klempner (-)
+the plumber (female)|die Klempnerin (-nen)
+the cook (male)|der Koch (-¨e)
+the cook (female)|die Kochin (-nen)
+the food (pl) (starts with L) (no article)|Lbenesmittel
+to teach|lehren
+the mechanic (male)|der Mechaniker (-)
+the mechanic (female)|die Mechanikerin (-nen)
+the care worker (male)|der Pfleger (-)
+the care worker (female)|die Pflegerin (-nen)
+the pain|der Schmerz (-en)
+the job (starts with S)|die Stelle (-n)
+the bunch of flowers|der Strauß (-¨e)
+partly|teilwiese
+theoretically|theoretisch
+definitely (starts with u)|unbedingt
+the shop assistant (male)|der Verkäufer (-)
+the shop assistant (female)|die Verkäuferin (-nen)
+the attempt|der Versuch (-e)
+to introduce|vorstellen
+to introduce oneself (reflexive)|sich vorstellen
+the garage|die Werkstatt (-¨en)
+to deliver|zustellen

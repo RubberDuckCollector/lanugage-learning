@@ -1,0 +1,112 @@
+the motorway|die Autobahn (-en)
+the boat|das Boot (-e)
+the double room|das Doppelzimmer (-)
+the entrance|der Eingang (-¨e)
+the single room|das Einzelzimmer (-)
+allowed|erlaubt
+the ferry|die Fähre (-n)
+the ticket|die Fahrkarte (-n)
+the fare|der Fahrpreis (-e)
+the track, platform (starts with G)|das Gleis (-e)
+the barbecue area|der Grillplatz (-¨e)
+the hairdryer|der Haartrockner (-)
+the half board|die Halbpension
+the suitcase|der Koffer (-)
+the Mediterranean Sea|das Mittelmeer
+the passenger|der Passagier (-e)
+the receptionist (male)|der Rezeptionist (-en)
+the receptionist (female)|die Rezeptionistin (-nen)
+the shade, shadow|der Schatten (-)
+shady|schattig
+the traffic jam|der Stau (-s)
+the overnight stay|die Übernachtung (-en)
+the B&B|die Übernachtung mit Frühstück
+the accommodation|die Unterkunft (-¨e)
+the full board|die Vollpension
+the caravan|der Wohnwagen (-)
+the tent|das Zelt (-e)
+the twin bedroom|das Zweibettzimmer (-)
+the (English) Channel|der Ärmelkanal
+the stay|der Aufenthalt (-e)
+the trip, excursion|der Ausflug (-¨e)
+to fill in|ausfüllen
+equipped|ausgestattet
+the foreign country, abroad|das Ausland
+the platform (starts with B)|der Bahnsteig (-e)
+to sightsee, to visit, to have a look|besichtigen
+to assess, to rate|bewerten
+to check in|einchecken
+to discover|entdecken
+the reduction, discount|die Ermäßigung (-en)
+the form|das Formular (-e)
+to work, to function|funktionieren
+heavy, severe|heftig
+the autumn|der Herbst (-e)
+the nap|das Nickerchen (-)
+the breakdown, puncture, flat tyre|die Panne (-n)
+the staff|das Personal (-)
+to be cross/annoyed|sauer sein
+the swimming pool|das Schwimmbecken (-)
+the tourist attraction, sight|die Sehenswürdigkeit (-en)
+the safety belt, seat belt|der Sicherheitsgurt (-e)
+the dining car, restaurant car (in a train)|der Speisewagen (-)
+the travel website|die Touristikwebsite (-s)
+the crossing (area)|die Überfahrt (-en)
+the surroundings|die Umgebung (-en)
+impolite|unhöflich
+to understand|verstehen
+in advance|im Voraus
+the departure|die Abfahrt (-en)
+to alight, to get off (bus, tram, train)|aussteigen
+the screen|der Bildschirm (-e)
+the castle|die Burg (-en)
+to fall asleep, to go to sleep|einschlafen
+to get in/on|einsteigen
+the admission ticket|die Eintrittskarte (-n)
+along|entlang
+the ticket machine|der Fahrkartenautomat (-en)
+the ticket office|der Fahrkartenschalter (-)
+the bicycle hire (starts with "Fahrradverm")|die Fahrradvermietung (-en)
+the camera|der Fotoapparat (-e)
+all year around|ganzjährig
+marvellous, magnificent, glorious|herrlich
+the headphones|der Kopfhörer (-)
+the line, number (tram, bus)|die Linie (-n)
+Munich|München
+the emergency exit|der Notausgang (-¨e)
+the opening times (pl)|die Öffnungszeiten
+the travel agency|das Reisebüro (-s)
+the travel bag|die Reisetasche (-n)
+the tour, round trip|die Rundfahrt (-en)
+the locker|das Schließfach (-¨er)
+to change (means of transport) (starts with u)|umsteigen
+the waiting room|der Wartesaal (-säle)
+again|wieder
+Vienna|Wien
+the souvenir, memento|das Andenken (-)
+the range, offer|das Angebot (-e)
+breathtaking|atemberaubend
+to drive on, to use|befahren
+the visit, tour|die Besichtigung (-en)
+to admire|bewundern
+the Lake Constance|der Bodensee
+the steam boat|der Dampfer (-)
+the reception (hotel)|der Empfang (-¨e)
+to remember (reflexive)|sich erinnern
+the bicycle hire (starts with "Fahrradverl")|der Fahrradverleih (-e)
+Geneva|Genf
+casual, relaxed|locker
+to be worth it (reflexive)|sich lohnen
+the bar, pub|das Lokal (-e)
+the trouble|die Mühe (-n)
+the brochure, leaflet|der Prospekt (-e)
+the destination|das Reiseziel (-e)
+the attraction, appeal|der Reiz (-e)
+to queue|Schlange stehen
+the sailing boat|das Segelboot (-e)
+the stroll through town, window shopping|der Stadtbummel (-)
+the bathing beach|das Stradband (-¨er)
+the wicker beach chair|der Strandkorb (-e)
+the tourist information office|die Touristeninformation
+closed because of holiday (firm/shop/attraction) (pl)|wegen Betriebsferien geschlossen
+the extra change, supplement|der Zuschlag (-¨e)
