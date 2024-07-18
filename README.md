@@ -2,88 +2,18 @@ Table of contents:
 <!-- vim-markdown-toc GFM -->
 
 * [Subject resources](#subject-resources)
-    * [Flash cards](#flash-cards)
+    * [Notes](#notes)
         * [Languages](#languages)
             * [Dutch](#dutch)
             * [German](#german)
             * [Spanish](#spanish)
-            * [Computer Science](#computer-science)
-    * [Notes](#notes)
-        * [Languages](#languages-1)
-            * [Dutch](#dutch-1)
-            * [German](#german-1)
-            * [Spanish](#spanish-1)
 * [To do](#to-do)
 
 <!-- vim-markdown-toc -->
 
 # Subject resources
 
-This is a rolling-release collection of my notes and flash cards that I think are helpful
-
-## Flash cards
-
-*hello world*
-
-**hello world**
-
-***hello world***
-
-Cards are stored in `cards/`.
-
-Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
-
-For my own version of quizlet write, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)
-
-**If you see an error, submit a pull request and I'll try to figure out how that works or manually fix the error**
-
-### Languages
-
-- my flash card sets are more usable than the ones in the textbook.
-    - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a more explicit format compared to the textbook
-    - the male + female versions of nouns like *jefe* and *jefa* are much more explicit in my flash cards than the textbooks'
-    - this makes it easier to recall feminine versions of words because they are given equal significance in the flash card set, which is not the case in the textbooks
-
-#### Dutch
-
-- Flash cards:
-    - Cannot find any active GCSE or A level courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
-    - Have fun with a sparratic mix of topics
-    - Dutch flash cards have plurals for all nouns because it's a bit confusing
-
-#### German
-
-- Flash cards:
-    - GCSE:
-        - Cards are my own from AQA GCSE German Higher 9-1 (ISBN: 978-0-19-836587-7)
-    - A Level:
-        - AS:
-            - Cards are my own from AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
-        - A2:
-            - Cards are my own from AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
-
-#### Spanish
-
-- Flash cards:
-    - GCSE:
-        - Cards are my own from AQA GCSE Spanish Higher 9-1 (ISBN: 978-0-19-836585-3)
-    - A Level:
-        - AS:
-            - Cards are my own from AQA A Level Year 1 and AS Spanish (ISBN: 978-0-19-836690-4)
-        - A2:
-            - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
-            - Réquiem cards are my own and slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
-                - **do note these spanish words are from the 30s and are archaic (or at least have archaic spelling)**
-
-#### Computer Science
-
-- GCSE:
-    - Cards are my own from OCR GCSE Computer Science 9-1 J277
-- A level:
-    - AS:
-        - Cards are my own from OCR H046
-    - A2:
-        - Cards are my own from OCR H446
+This is a rolling-release collection of my notes
 
 ## Notes
 
@@ -108,6 +38,4 @@ Lovely..
 
 
 # To do
-
-
 
