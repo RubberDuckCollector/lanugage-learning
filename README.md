@@ -2,11 +2,10 @@ Table of contents:
 <!-- vim-markdown-toc GFM -->
 
 * [Subject resources](#subject-resources)
-    * [Notes](#notes)
-        * [Languages](#languages)
-            * [Dutch](#dutch)
-            * [German](#german)
-            * [Spanish](#spanish)
+    * [Languages](#languages)
+        * [Dutch](#dutch)
+        * [German](#german)
+        * [Spanish](#spanish)
 * [To do](#to-do)
 
 <!-- vim-markdown-toc -->
@@ -15,15 +14,13 @@ Table of contents:
 
 This is a rolling-release collection of my notes
 
-## Notes
+## Languages
 
-### Languages
+### Dutch
 
-#### Dutch
+### German
 
-#### German
-
-#### Spanish
+### Spanish
 
 - Réquiem por un Campesino español
     - Version: from Manchester University Press
